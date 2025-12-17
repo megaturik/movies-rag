@@ -20,5 +20,5 @@ app.add_middleware(
 
 @app.post('/api/v1/movies/search')
 def search(search_request: SearchRequest,
-        chroma_client=Depends(get_chroma_client)):
+           chroma_client=Depends(get_chroma_client)):
     return chromadb_search(search_request, chroma_client, 'movies')

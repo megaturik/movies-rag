@@ -92,7 +92,7 @@ def add_to_chroma(metadata: dict, chunks: list, embeddings: list[list[float]]):
     collection.add(
         documents=chunks,
         embeddings=embeddings,
-        ids=[f'{metadata['doc_fname']}_chunk_{i}' for i in range(len(chunks))],
+        ids=[f"{metadata['doc_fname']}_chunk_{i}" for i in range(len(chunks))],
         metadatas=[metadata] * len(chunks)
     )
 
