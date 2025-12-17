@@ -1,5 +1,5 @@
 import chromadb
-from schemas import SearchRequest, SearchResponse, Chunk
+from schemas import Chunk, SearchRequest, SearchResponse
 from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
