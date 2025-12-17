@@ -23,8 +23,12 @@ logging.basicConfig(
 
 enc = tiktoken.get_encoding("cl100k_base")
 model = SentenceTransformer("all-MiniLM-L6-v2")
-client = chromadb.HttpClient(host=CHROMA_DB_HOST, port=CHROMA_DB_PORT)
-collection = client.get_or_create_collection(name="movies")
+
+
+def get_chroma_client():
+    client = chromadb.HttpClient(
+        host=CHROMA_DB_HOST, port=CHROMA_DB_PORT)
+    return client
 
 
 def get_data_from_json_file(file: str) -> tuple[dict, str]:
@@ -74,7 +78,7 @@ def embed_chunks(chunks: list) -> list[list[float]]:
     return embeddings.tolist()
 
 
-def add_to_chroma(metadata: dict, chunks: list, embeddings: list[list[float]]):
+def add_to_chroma(metadata: dict, chunks: list, embeddings: list[list[float]], collection):
     doc_uniq_key = metadata['doc_unique_key']
     doc_fname = metadata['doc_fname']
     doc_exists = collection.query(
@@ -98,6 +102,9 @@ def add_to_chroma(metadata: dict, chunks: list, embeddings: list[list[float]]):
 
 
 def main():
+    client = chromadb.HttpClient(host=CHROMA_DB_HOST, port=CHROMA_DB_PORT)
+    collection = client.get_or_create_collection(name="movies")
+
     for dirpath, dirnames, filenames in os.walk(MOVIES_PATH):
         for filename in filenames:
             if filename.endswith('.json'):
@@ -106,7 +113,7 @@ def main():
                     metadata, data = get_data_from_json_file(filepath)
                     chunks = chunk_text(data)
                     embeddings = embed_chunks(chunks)
-                    add_to_chroma(metadata, chunks, embeddings)
+                    add_to_chroma(metadata, chunks, embeddings, collection)
                 except Exception as e:
                     logging.info(f'Error {e} while proccessing {filename}')
 

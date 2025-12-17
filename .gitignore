@@ -13,3 +13,6 @@ wheels/
 
 # chroma
 chroma-db/
+
+# idea
+.idea/

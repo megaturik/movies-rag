@@ -1,7 +1,7 @@
 from chroma import get_chroma_client
 from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from schema import SearchRequest
+from schemas import SearchRequest
 from settings import get_settings
 from utils import chromadb_search
 

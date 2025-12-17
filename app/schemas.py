@@ -7,9 +7,8 @@ class SearchRequest(BaseModel):
 
 
 class Chunk(BaseModel):
-    chunk: str
+    text: str
     metadata: dict
-    distance: float
 
 
 class SearchResponse(BaseModel):
