@@ -19,7 +19,6 @@ XAI_API_KEY=your_key  # используется x.ai grok
 XAI_API_URL=https://api.x.ai/v1
 CHROMADB_HOST=localhost
 CHROMADB_PORT=8010
-BACKEND_CORS_ORIGINS=http://127.0.0.1:3000
 ```
 
 3. Запустите ChromaDB:
@@ -31,17 +30,17 @@ docker-compose up -d
 
 1. Загрузите данные:
 ```bash
-python data_load.py
+uv run python data_load.py
 ```
 
 2. Запустите API:
 ```bash
-uv run uvicorn app.main:app --reload
+uv run fastapi run app/main.py
 ```
 
 3. Используйте endpoint для поиска по векторной базе:
 ```bash
-curl -s -X POST http://localhost:8000/api/v1/movies/vector \
+curl -X POST http://localhost:8000/api/v1/movies/vector \
   -H "Content-Type: application/json" \
   -d '{
     "query": "фильмы про компьютеры и ИИ",
@@ -120,7 +119,7 @@ curl -s -X POST http://localhost:8000/api/v1/movies/vector \
 
 4. Используйте endpoint для запроса в grok xai:
 ```bash
-curl -s -X POST http://localhost:8000/api/v1/movies/agent \
+curl -X POST http://localhost:8000/api/v1/movies/agent \
   -H "Content-Type: application/json" \
   -d '{
     "query": "фильмы про компьютеры и ИИ",

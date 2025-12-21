@@ -1,6 +1,7 @@
 from chroma import get_chroma_client
-from fastapi import Depends, FastAPI
+from fastapi import Depends, FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from schemas import AgentResponse, SearchRequest, SearchResponse
 from settings import get_settings
 from utils import chromadb_search, get_xai_response
@@ -16,6 +17,14 @@ app.add_middleware(
     allow_methods=['*'],
     allow_headers=['*'],
 )
+
+
+@app.exception_handler(Exception)
+def exception_handler(request: Request, exc: Exception):
+    return JSONResponse(
+        status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        content={"detail": str(exc)},
+    )
 
 
 @app.post('/api/v1/movies/vector', response_model=SearchResponse)
