@@ -40,7 +40,9 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
         data = json.load(f)
     if any(key not in data for key in excepted_keys):
         raise ValueError(f'All of {excepted_keys} should be in data')
-    doc_fname, doc_mtime = Path(file).name, Path(file).stat().st_mtime
+    doc_fname = Path(file).name
+    doc_mtime = Path(file).stat().st_mtime
+    doc_year = data['year']
     doc_actors = ", ".join(data['actors'] if isinstance(
         data['actors'], list) else data['actors'])
     doc_director = ", ".join(data['director']) if isinstance(
@@ -52,7 +54,7 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
         'doc_director': doc_director,
         'doc_fname': doc_fname,
         'doc_mtime': doc_mtime,
-        'doc_unique_key': f"{doc_fname}_{doc_mtime}"
+        'doc_unique_key': f"{doc_fname}_{doc_year}_{doc_mtime}"
     }
     data = data['storyline']
     return metadata, data
