@@ -85,7 +85,7 @@ def add_to_chroma(
     doc_uniq_key = metadata['doc_uniq_key']
     doc_fname = metadata['doc_fname']
     doc_exists = collection.get(where={'doc_uniq_key': doc_uniq_key})
-    if doc_exists['documents'][0]:
+    if doc_exists['documents']:
         logger.info(
             f'Skipping: {doc_fname} with same metadata already exists')
         return
