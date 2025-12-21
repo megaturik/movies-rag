@@ -12,8 +12,9 @@ class Settings(BaseSettings):
         env_file=BASE_DIR / '.env', env_file_encoding='utf-8'
     )
 
-    OPENAI_API_KEY: str
-    OPENAI_API_URL: str | None = 'https://api.openai.com/v1'
+    XAI_API_KEY: str
+    XAI_API_URL: str | None = 'https://api.x.ai/v1'
+    XAI_MODEL: str | None = 'grok-4-1-fast-reasoning'
     CHROMADB_HOST: str | None = "localhost"
     CHROMADB_PORT: int | None = 8010
     BACKEND_CORS_ORIGINS: List[str] | None = ['http://127.0.0.1:3000']

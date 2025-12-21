@@ -3,12 +3,12 @@ import logging
 from pathlib import Path
 
 import chromadb
-import tiktoken
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 
 MOVIES_PATH = Path('./json-data/movies')
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 100
+CHUNK_SIZE = 1000
+CHUNK_OVERLAP = 200
 EMBEDDING_SIZE = 384
 CHROMA_DB_HOST = 'localhost'
 CHROMA_DB_PORT = 8010
@@ -22,8 +22,7 @@ formatter = logging.Formatter(
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
-enc = tiktoken.get_encoding("cl100k_base")
-model = SentenceTransformer("DeepPavlov/rubert-base-cased-sentence")
+model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 
 def get_chroma_client():
@@ -59,16 +58,13 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
     return metadata, data
 
 
-def chunk_text(text, max_tokens=CHUNK_SIZE, overlap=CHUNK_OVERLAP) -> list:
-    tokens = enc.encode(text)
-    chunks = []
-
-    start = 0
-    while start < len(tokens):
-        end = start + max_tokens
-        chunk_tokens = tokens[start:end]
-        chunks.append(enc.decode(chunk_tokens))
-        start = end - overlap
+def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP) -> list:
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=CHUNK_OVERLAP,
+        separators=["\n\n", ". ", "! ", "? ", " "]
+    )
+    chunks = splitter.split_text(text)
 
     return chunks
 
