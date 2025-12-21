@@ -84,11 +84,7 @@ def add_to_chroma(
 ):
     doc_uniq_key = metadata['doc_uniq_key']
     doc_fname = metadata['doc_fname']
-    doc_exists = collection.query(
-        query_embeddings=[],
-        n_results=1,
-        where={'doc_uniq_key': doc_uniq_key}
-    )
+    doc_exists = collection.get(where={'doc_uniq_key': doc_uniq_key})
     if doc_exists['documents'][0]:
         logger.info(
             f'Skipping: {doc_fname} with same metadata already exists')
@@ -99,7 +95,8 @@ def add_to_chroma(
     collection.add(
         documents=chunks,
         embeddings=embeddings,
-        ids=[f"{metadata['doc_uniq_key']}_chunk_{i}" for i in range(len(chunks))],
+        ids=[f"{metadata['doc_uniq_key']}_chunk_{i}" for i in range(
+            len(chunks))],
         metadatas=[metadata] * len(chunks)
     )
 
