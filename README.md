@@ -15,7 +15,7 @@ uv sync
 
 2. Создайте `.env` файл:
 ```env
-XAI_API_KEY=your_key # испольуется x.ai grok
+XAI_API_KEY=your_key  # используется x.ai grok
 XAI_API_URL=https://api.x.ai/v1
 CHROMADB_HOST=localhost
 CHROMADB_PORT=8010
@@ -41,15 +41,17 @@ uv run uvicorn app.main:app --reload
 
 3. Используйте endpoint для поиска по векторной базе:
 ```bash
-curl -s -X POST http://localhost:8000/api/v1/movies/vector   -H "Content-Type: application/json"   -d '{
+curl -s -X POST http://localhost:8000/api/v1/movies/vector \
+  -H "Content-Type: application/json" \
+  -d '{
     "query": "фильмы про компьютеры и ИИ",
     "top_k": 5
   }' | jq
 ```
 
-results:
+**Результат:**
 
-```bash
+```json
 {
   "results": [
     {
@@ -118,14 +120,17 @@ results:
 
 4. Используйте endpoint для запроса в grok xai:
 ```bash
-curl -s -X POST http://localhost:8000/api/v1/movies/agent   -H "Content-Type: application/json"   -d '{
+curl -s -X POST http://localhost:8000/api/v1/movies/agent \
+  -H "Content-Type: application/json" \
+  -d '{
     "query": "фильмы про компьютеры и ИИ",
     "top_k": 5
   }' | jq
 ```
-results:
 
-```bash
+**Результат:**
+
+```json
 {
   "answer": "Вот фильмы про компьютеры и ИИ из контекста:\n\n- **Трон** (1982, реж. Стивен Лисбергер): Хакер попадает в виртуальный 3D-мир внутри компьютера, сражается с программами в компьютерных играх.\n- **М3ГАН** (2023, реж. Джерард Джонстоун): Кукла с искусственным интеллектом, которая учится, адаптируется и выходит из-под контроля.\n- **Миссия невыполнима: Смертельная расплата. Часть первая** (2023, реж. Кристофер Маккуорри): Команда борется с неконтролируемым ИИ \"Сущность\", способным взламывать системы.\n- **Хоббс и Шоу** (2019, реж. Дэвид Литч): Террорист с кибернетическими нанотехнологиями и смертоносным вирусом.\n- **Она** (2013, реж. Спайк Джонз): Операционная система с ИИ, которая самообучается и развивает эмоциональную связь с человеком."
 }
