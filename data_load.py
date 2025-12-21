@@ -54,7 +54,7 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
         'doc_director': doc_director,
         'doc_fname': doc_fname,
         'doc_mtime': doc_mtime,
-        'doc_unique_key': f"{doc_fname}_{doc_year}_{doc_mtime}"
+        'doc_uniq_key': f"{doc_fname}_{doc_year}_{doc_mtime}"
     }
     data = data['storyline']
     return metadata, data
@@ -82,24 +82,24 @@ def add_to_chroma(
     embeddings: list[list[float]],
     collection
 ):
-    doc_uniq_key = metadata['doc_unique_key']
+    doc_uniq_key = metadata['doc_uniq_key']
     doc_fname = metadata['doc_fname']
     doc_exists = collection.query(
-        query_embeddings=[[0] * EMBEDDING_SIZE],
+        query_embeddings=[],
         n_results=1,
-        where={'doc_unique_key': doc_uniq_key}
+        where={'doc_uniq_key': doc_uniq_key}
     )
     if doc_exists['documents'][0]:
         logger.info(
             f'Skipping: {doc_fname} with same metadata already exists')
         return
-    collection.delete(where={'doc_fname': metadata['doc_fname']})
+    collection.delete(where={'doc_uniq_key': metadata['doc_uniq_key']})
     logger.info(
         f'Adding/Updating: {doc_fname}')
     collection.add(
         documents=chunks,
         embeddings=embeddings,
-        ids=[f"{metadata['doc_fname']}_chunk_{i}" for i in range(len(chunks))],
+        ids=[f"{metadata['doc_uniq_key']}_chunk_{i}" for i in range(len(chunks))],
         metadatas=[metadata] * len(chunks)
     )
 
