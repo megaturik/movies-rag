@@ -23,7 +23,7 @@ ch.setFormatter(formatter)
 logger.addHandler(ch)
 
 enc = tiktoken.get_encoding("cl100k_base")
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("DeepPavlov/rubert-base-cased-sentence")
 
 
 def get_chroma_client():
@@ -80,10 +80,10 @@ def embed_chunks(chunks: list) -> list[list[float]]:
 
 
 def add_to_chroma(
-        metadata: dict, chunks: list,
-        embeddings: list[list[float]],
-        collection
-    ):
+    metadata: dict, chunks: list,
+    embeddings: list[list[float]],
+    collection
+):
     doc_uniq_key = metadata['doc_unique_key']
     doc_fname = metadata['doc_fname']
     doc_exists = collection.query(
@@ -118,6 +118,7 @@ def main():
             add_to_chroma(metadata, chunks, embeddings, collection)
         except Exception as e:
             logger.error(f'Error {e} while proccessing {file}')
+
 
 if __name__ == '__main__':
     main()

@@ -12,11 +12,11 @@ class Settings(BaseSettings):
         env_file=BASE_DIR / '.env', env_file_encoding='utf-8'
     )
 
-    OPENAI_KEY: str
-    OPENAI_API_URL: str
+    OPENAI_API_KEY: str
+    OPENAI_API_URL: str | None = 'https://api.openai.com/v1'
     CHROMADB_HOST: str | None = "localhost"
     CHROMADB_PORT: int | None = 8010
-    BACKEND_CORS_ORIGINS: List[str] = ['http://127.0.0.1:3000']
+    BACKEND_CORS_ORIGINS: List[str] | None = ['http://127.0.0.1:3000']
 
 
 @lru_cache

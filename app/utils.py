@@ -18,7 +18,7 @@ def chromadb_search(
         include=['documents', 'metadatas']
     )
     documents = search_results.get('documents', [[]])[0]
-    metadatas = search_results.get('documents', [[]])[0]
+    metadatas = search_results.get('metadatas', [[]])[0]
     chunks = [
         Chunk.model_validate(
             {"text": doc, "metadata": meta}
