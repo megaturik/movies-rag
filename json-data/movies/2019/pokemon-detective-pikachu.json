@@ -1,34 +1,34 @@
 {
-    "name": "Pokémon Detective Pikachu",
-    "year": 2019,
-    "runtime": 105,
-    "categories": [
-        "action",
-        "adventure",
-        "sci-fi",
-        "comedy"
-    ],
-    "release-date": "2019-05-09",
-    "director": "Rob Letterman",
-    "writer": [
-        "Dan Hernandez",
-        "Benji Samit",
-        "Rob Letterman",
-        "Derek Connolly"
-    ],
-    "actors": [
-        "Ryan Reynolds",
-        "Justice Smith",
-        "Kathryn Newton",
-        "Suki Waterhouse",
-        "Omar Chaparro",
-        "Chris Geere",
-        "Ken Watanabe",
-        "Bill Nighy",
-        "Karan Soni",
-        "Rita Ora",
-        "Diplo",
-        "Rob Delaney"
-    ],
-    "storyline": "The film focuses on Tim Goodman and master detective Pikachu, a talking Pokémon. The two team up to clarify the disappearance of Tim's father Harry Goodman. This was the partner of master detective Pikachu and disappeared under mysterious circumstances after a car accident."
+  "name": "Покемон. Детектив Пикачу",
+  "year": 2019,
+  "runtime": 105,
+  "categories": [
+    "боевик",
+    "приключения",
+    "фантастика",
+    "комедия"
+  ],
+  "release-date": "2019-05-09",
+  "director": "Rob Letterman",
+  "writers": [
+    "Dan Hernandez",
+    "Benji Samit",
+    "Rob Letterman",
+    "Derek Connolly"
+  ],
+  "actors": [
+    "Ryan Reynolds",
+    "Justice Smith",
+    "Kathryn Newton",
+    "Suki Waterhouse",
+    "Omar Chaparro",
+    "Chris Geere",
+    "Ken Watanabe",
+    "Bill Nighy",
+    "Karan Soni",
+    "Rita Ora",
+    "Diplo",
+    "Rob Delaney"
+  ],
+  "storyline": "В мегаполисе Рише-Сити, где люди мирно сосуществуют с покемонами, молодой Тим Гудман приезжает на поиски своего отца Гарри, опытного детектива, пропавшего при загадочных обстоятельствах после автомобильной аварии. К удивлению Тима, жёлтый покемон Пикачу, бывший напарник Гарри, оказывается говорящим — и понимает только его. Необычная пара объединяется, чтобы раскрыть тайну исчезновения. Они погружаются в подпольный мир покемонов, сталкиваются с опасными противниками, разгадывают заговор с таинственным газом, который сводит покемонов с ума, и раскрывают секреты, угрожающие балансу города. По пути им помогают верные друзья, а приключения полны юмора и экшена."
 }

@@ -1,23 +1,24 @@
 {
-    "name": "Piranha",
-    "year": 1978,
-    "runtime": 95,
-    "categories": [
-      "horror",
-      "comedy"
-    ],
-    "release-date": "1978-08-03",
-    "director": "Joe Dante",
-    "writer": "John Sayles",
-    "actors": [
-        "Bradford Dillman",
-        "Heather Menzies",
-        "Kevin McCarthy",
-        "Keenan Wynn",
-        "Barbara Steele",
-        "Dick Miller",
-        "Belinda Balaski"
-    ],
-    "storyline": "A near a summer resort is infested with lethal, genetically altered piranha fish. The altered fish threaten residents and visitors who are staying at the resort."
-  }
-  
+  "name": "Пираня",
+  "year": 1978,
+  "runtime": 95,
+  "categories": [
+    "ужасы",
+    "комедия"
+  ],
+  "release-date": "1978-08-03",
+  "director": "Джо Данте",
+  "writers": [
+    "Джон Сэйлз"
+  ],
+  "actors": [
+    "Брэдфорд Диллман",
+    "Хизер Мензис",
+    "Кевин Маккарти",
+    "Кинан Уинн",
+    "Барбара Стил",
+    "Дик Миллер",
+    "Белинда Баласки"
+  ],
+  "storyline": "В спокойном озере у популярного летнего курорта завелись смертоносные пираньи, созданные в секретной военной лаборатории путём генетических экспериментов. Эти мутировавшие рыбы отличаются повышенной агрессией, способностью выживать в пресной воде и пресекать холод. Они начинают массово нападать на купающихся посетителей и местных жителей, сея панику и хаос. Группа спасателей, биолога и инженера отправляется на поиски источника угрозы, чтобы остановить стаю и предотвратить трагедию большего масштаба. Фильм сочетает напряжённый саспенс с чёрным юмором, показывая ужасы неконтролируемой науки."
+}

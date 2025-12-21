@@ -1,27 +1,27 @@
 {
-  "name": "Captain America: Civil War",
+  "name": "Первый мститель: Противостояние",
   "year": 2016,
   "runtime": 147,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "2016-05-06",
   "director": [
-    "Anthony Russo",
-    "Joe Russo"
+    "Энтони Руссо",
+    "Джо Руссо"
   ],
   "writer": [
-    "Christopher Markus",
-    "Stephen McFeely",
-    "Jack Kirby",
-    "Joe Simon"
+    "Кристофер Маркус",
+    "Стивен Макфили",
+    "Джек Кирби",
+    "Джо Саймон"
   ],
   "actors": [
-    "Chris Evans",
-    "Scarlett Johansson",
-    "Samuel L. Jackson"
+    "Крис Эванс",
+    "Скарлетт Йоханссон",
+    "Самуэл Л. Джексон"
   ],
-  "storyline": "With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spiderman) and Team Captain America (Captain America, Bucky Barnes, Falcon, Sharon Carter, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges."
+  "storyline": "После разрушительных событий, вызванных супергероями, правительство вводит Закон о регистрации героев, обязывающий их действовать под контролем. Это сеет раскол в команде Мстителей. Тони Старк (Железный человек) поддерживает закон, чтобы предотвратить новые катастрофы в городах. Стив Роджерс (Капитан Америка) отвергает его, веря, что свобода важнее бюрократии. Конфликт перерастает в ожесточённую битву: команда Старка включает Чёрную Пантеру, Видение, Чёрную Вдову, Военную Машину и Человека-паука. С Роджерсом — Баки Барнс, Фалкон, Шэрон Картер, Алую Ведьму, Соколиный Глаз и Человека-муравья. Пока герои сражаются, на горизонте маячит новый грозный антагонист."
 }

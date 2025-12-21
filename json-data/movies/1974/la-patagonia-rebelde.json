@@ -1,28 +1,28 @@
 {
-  "name": "La Patagonia rebelde",
+  "name": "Бунтующая Патагония",
   "year": 1974,
   "runtime": 103,
   "categories": [
-    "historical",
-    "drama",
-    "action"
+    "исторический",
+    "драма",
+    "экшн"
   ],
   "release-date": "1974-13-6",
-  "director": "Hector Olivera",
-  "writer": [
-    "Fernando Ayala",
-    "Hector Olivera",
-    "Osvaldo Bayer"
+  "director": "Эктор Оливера",
+  "writers": [
+    "Фернандо Аяла",
+    "Эктор Оливера",
+    "Освальдо Байер"
   ],
   "actors": [
-    "Hector Alterio",
-    "Luis Brandoni",
-    "Federico Luppi",
-    "Pepe Soriano",
-    "Osvaldo Terranova",
-    "José María Gutiérrez",
-    "Pedro Aleandro",
-    "Tacholas"
+    "Эктор Альтерио",
+    "Луис Брандони",
+    "Федерико Луппи",
+    "Пепе Сориано",
+    "Освальдо Терранова",
+    "Хосе Мария Гутьеррес",
+    "Педро Алеандро",
+    "Тачолас"
   ],
-  "storyline": "La Patagonia rebelde is an Argentinean film based on the book by Bayer Los vengadores de la Patagonia tragica, which recounts the real events of the Patagonia rebelde of 1921."
+  "storyline": "В 1920–1921 годах в аргентинской Патагонии вспыхнула мощная забастовка тысяч рабочих-стригунов овец. Они требовали повышения зарплат, сокращения рабочего дня и гуманных условий труда на огромных ранчо магнатов. Землевладельцы, не желая уступок, обратились к правительству. Лейтенант Варгас во главе армейского отряда устроил жестокую расправу: расстрелы, пытки и массовые убийства унесли жизни около 1500 человек. На основе реальных событий и книги Освальдо Байера фильм мастерски воссоздает атмосферу борьбы пролетариата за свои права, подчеркивая героизм бастующих и бесчеловечность репрессий властей."
 }

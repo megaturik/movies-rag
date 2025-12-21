@@ -1,28 +1,28 @@
 {
-    "name": "Cruella",
-    "year": 2021,
-    "runtime": 134,
-    "categories": [
-      "adventure",
-      "comedie",
-      "crime"
-    ],
-    "release-date": "2021-05-18",
-    "director": [
-        "Craig Gillespie"
-    ],    
-    "writer": [
-      "Dana Fox",
-      "Tony McNamara"
-    ],
-    "actors": [
-         "Emma Stone",
-         "Emma Thompson", 
-         "Joel Fry", 
-         "Paul Walter Hauser", 
-         "John McCrea", 
-         "Emily Beecham",
-         "Mark Strong"
-    ],
-    "storyline": "Estella is a young and clever grifter who's determined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London. However, when Estella befriends fashion legend Baroness von Hellman, she embraces her wicked side to become the raucous and revenge-bent Cruella."
-  }
+  "name": "Круэлла",
+  "year": 2021,
+  "runtime": 134,
+  "categories": [
+    "приключения",
+    "комедия",
+    "криминал"
+  ],
+  "release-date": "2021-05-18",
+  "director": [
+    "Крейг Гиллеспи"
+  ],
+  "writer": [
+    "Дана Фокс",
+    "Тони Макнамара"
+  ],
+  "actors": [
+    "Эмма Стоун",
+    "Эмма Томпсон",
+    "Джоэл Фрай",
+    "Пол Уолтер Хауэр",
+    "Джон МакКри",
+    "Эмили Бичем",
+    "Марк Стронг"
+  ],
+  "storyline": "Эстелла — молодая, остроумная и смелая аферистка, полная амбиций пробиться в мир высокой моды. В 1970-х годах в Лондоне она встречает пару ловких воров, которые ценят её талант к озорству и авантюрам. Вместе они устраивают дерзкую жизнь на улицах города, промышляя мелкими кражами и хитрыми трюками, чтобы выжить и осуществить мечты. Судьба сводит Эстеллу с влиятельной баронессой фон Хельман, владелицей легендарного модного дома. Работая на неё, героиня открывает в себе тёмную, бунтарскую сторону: она жаждет справедливости, мести и признания. Постепенно Эстелла превращается в яркую, неукротимую силу, готовую перевернуть мир моды с помощью смелых идей, провокаций и безжалостных интриг."
+}

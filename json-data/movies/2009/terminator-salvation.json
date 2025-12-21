@@ -1,28 +1,28 @@
 {
-  "name": "Terminator Salvation",
+  "name": "Терминатор: Да придёт спаситель",
   "year": 2009,
   "runtime": 115,
   "categories": [
-    "action",
-    "adventure",
-    "sci-fi"
+    "боевик",
+    "приключения",
+    "научная фантастика"
   ],
-  "description": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+  "storyline": "В 2018 году человечество ведет отчаянную войну с машинами Скайнета в постапокалиптическом мире. Лидер Сопротивления Джон Коннор сталкивается с загадочным новым оружием — гибридом человека и машины. Это существо появляется накануне решающей атаки повстанцев на центральную крепость врага. Но чьи цели преследует этот пол человек-полукиборг? Можно ли ему доверять в момент, когда ставки так высоки? Коннор и его соратники вынуждены разгадывать тайны происхождения пришельца, сражаясь в руинах городов, полном опасностей и предательств. Грань между союзником и угрозой размывается, а исход битвы решает судьбу выживших.",
   "release-date": "2009-05-21",
-  "director": "McG",
-  "writer": [
-    "John Brancato",
-    "Michael Ferris"
+  "director": "МакДжи",
+  "writers": [
+    "Джон Бранкато",
+    "Майкл Феррис"
   ],
   "actors": [
-    "Christian Bale",
-    "Sam Worthington",
-    "Moon Bloodgood",
-    "Helena Bonham Carter",
-    "Anton Yelchin",
-    "Jadagrace",
-    "Bryce Dallas Howard",
-    "Common",
-    "Jane Alexander"
+    "Кристиан Бэйл",
+    "Сэм Уортингтон",
+    "Мун Бладгуд",
+    "Хелена Бонэм Картер",
+    "Антон Ельчин",
+    "Джадегрейс",
+    "Брайс Даллас Ховард",
+    "Коммон",
+    "Джейн Александер"
   ]
 }

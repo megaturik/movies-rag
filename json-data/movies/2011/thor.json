@@ -1,29 +1,29 @@
 {
-  "name": "Thor",
+  "name": "Тор",
   "year": 2011,
   "runtime": 115,
   "categories": [
-    "adventure",
-    "action",
-    "fantasy",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "фэнтези",
+    "фантастика"
   ],
   "release-date": "2011-05-06",
-  "director": "Kenneth Branagh",
+  "director": "Кеннет Брана",
   "writer": [
-    "Ashley Miller",
-    "Zack Stentz",
-    "Don Payne",
-    "J. Michael Straczynski",
-    "Mark Protosevich",
-    "Stan Lee",
-    "Larry Lieber",
-    "Jack Kirby"
+    "Эшли Миллер",
+    "Зак Сентц",
+    "Дон Пейн",
+    "Дж. Майкл Стражински",
+    "Марк Протосевич",
+    "Стэн Ли",
+    "Ларри Либер",
+    "Джек Кирби"
   ],
   "actors": [
-    "Chris Hemsworth",
-    "Anthony Hopkins",
-    "Natalie Portman"
+    "Крис Хемсворт",
+    "Энтони Хопкинс",
+    "Натали Портман"
   ],
-  "storyline": "The warrior Thor (Hemsworth) is cast out of the fantastic realm of Asgard by his father Odin (Hopkins) for his arrogance and sent to Earth to live among humans. Falling in love with scientist Jane Foster (Portman) teaches Thor much-needed lessons, and his new-found strength comes into play as a villain from his homeland sends dark forces toward Earth."
+  "storyline": "Могучий воин из царства Асгард (Крис Хемсворт) по воле отца, верховного бога Одина (Энтони Хопкинс), изгнан на Землю за чрезмерную傲慢ность и безрассудство. Лишенный божественной силы и молота Мьёльнир, он вынужден жить среди обычных людей в маленьком городке. Здесь асгардец встречает талантливую ученую-астрофизика Джейн Фостер (Натали Портман), в которую влюбляется. Жизнь на Земле учит его смирению, ответственности и ценности человеческих отношений. В это время коварный враг из Асгарда, сводный брат Тора Локи, плетет злобный заговор, освобождая древние темные силы и направляя их к Земле. Обретя внутреннюю силу и вернув свой молот, Тор должен сразиться с нашествием, спасти человечество и доказать, что достоин трона."
 }

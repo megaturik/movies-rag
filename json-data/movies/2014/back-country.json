@@ -1,15 +1,15 @@
 {
-  "name": "Back Country",
+  "name": "В лесной чаще",
   "year": 2014,
   "runtime": 92,
   "categories": [
-    "Drama",
-    "Horror",
-    "thriller"
+    "Драма",
+    "Ужасы",
+    "триллер"
   ],
   "release-date": "2015-03-20",
   "director": "Adam MacDonald",
-  "writer": [
+  "writers": [
     "Adam MacDonald"
   ],
   "actors": [
@@ -17,5 +17,5 @@
     "Missy Peregrym",
     "Eric Balfour"
   ],
-  "storyline": "An urban couple go camping in the Canadian wilderness - where unimaginable beauty sits alongside our most primal fears. Alex (Jeff Roop) is a seasoned outdoorsman while Jenn (Missy Peregrym), a corporate lawyer, is not. After much convincing, and against her better judgment, she agrees to let him take her deep into a Provincial Park to one of his favorite spots - the secluded Blackfoot Trail. On their first night, deep in the forest, they have an unsettling encounter with Brad (Eric Balfour), a strange alpha male with eyes for Jenn who may or may not be following them. Alex's desire to quickly reach Blackfoot Trail only intensifies. They push further and further into the woods, Alex stubbornly insisting that he remembers the way. After three days their path disappears; they are hopelessly lost. Without food or water, they struggle to find their way back, the harsh conditions bringing out the best and worst in them, pushing their already fragile relationship to the breaking point."
+  "storyline": "Городская пара отправляется в поход по канадской глуши, где ослепительная красота лесов соседствует с первобытными ужасами. Алекс — опытный походник, его подруга Дженн, корпоративный юрист, далека от природы. После уговоров она соглашается на путешествие в отдалённый провинциальный парк к любимой тропе Алекса. В первую ночь они встречают странного Брэда — агрессивного незнакомца с явным интересом к Дженн, который, кажется, крадётся за ними. Алекс ускоряет шаг, уверенный в пути. Но через три дня тропа пропадает, пара без еды и воды блуждает в чаще. Суровые условия обнажают их слабости, доводя отношения до грани краха, а лес пробуждает кошмарные инстинкты."
 }

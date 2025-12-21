@@ -1,14 +1,14 @@
 {
-  "name": "What We Do in the Shadows",
+  "name": "Что мы делаем в тени",
   "year": 2014,
   "runtime": 86,
   "categories": [
-    "Comedy",
-    "Horror"
+    "Комедия",
+    "Ужасы"
   ],
   "release-date": "2014-06-19",
-  "director": [ 
-    "Jemaine Clement", 
+  "director": [
+    "Jemaine Clement",
     "Taika Waititi"
   ],
   "writer": [
@@ -31,5 +31,5 @@
     "Ethel Robinson",
     "Brad Harding"
   ],
-  "storyline": "Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts."
+  "storyline": "Виаго, Дикон и Владслав — три эксцентричных вампира, делящих старый дом в современном Веллингтоне. Бессмертные хищники неожиданно сталкиваются с рутиной смертных: необходимость платить аренду, соблюдать график уборки, осторожно охотиться на жертв, чтобы не привлекать полицию, и пробиваться в модные ночные клубы, где их сверхъестественная природа вызывает недоумение. Внутренние конфликты между соседями по дому накаляются, а появление неуклюжего оборотня Пакаку, нового жильца, превращает их быт в сплошной фарс. Вампиры решают снять документальный фильм о своей жизни, раскрывая абсурдность вечной борьбы с повседневностью в мире людей, полном бюрократии и социальных норм."
 }

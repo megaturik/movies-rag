@@ -1,24 +1,24 @@
 {
-  "name": "Captain America: The First Avenger",
+  "name": "Первый мститель: Капитан Америка",
   "year": 2011,
   "runtime": 124,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "2011-07-22",
-  "director": "Joe Johnston",
+  "director": "Джо Джонстон",
   "writer": [
-    "Christopher Markus",
-    "Stephen McFeely",
-    "Jack Kirby",
-    "Joe Simon"
+    "Кристофер Маркус",
+    "Стивен Макфили",
+    "Джек Кирби",
+    "Джо Саймон"
   ],
   "actors": [
-    "Chris Evans",
-    "Hugo Weaving",
-    "Samuel L. Jackson"
+    "Крис Эванс",
+    "Хьюго Уивинг",
+    "Самуэл Л. Джексон"
   ],
-  "storyline": "It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential. When Dr. Erskine is then immediately assassinated by an agent of Nazi Germany's secret HYDRA research department (headed by Johann Schmidt, a.k.a. the Red Skull), Rogers is left as a unique man who is initially misused as a propaganda mascot; however, when his comrades need him, Rogers goes on a successful adventure that truly makes him Captain America, and his war against Schmidt begins."
+  "storyline": "1942 год. США вступили во Вторую мировую войну. Хилый, но упорный Стив Роджерс в отчаянии от очередного отказа в призыве в армию из-за слабого здоровья. Судьба меняется, когда его замечает доктор Абрахам Эрскин и предлагает участие в сверхсекретном Проекте «Возрождение». Парень доказывает невероятную отвагу, находчивость и чистую совесть. Эксперимент удался: слабак превращается в идеального суперсолдата с пиковыми человеческими возможностями — силой, скоростью и выносливостью. Но радость длится недолго: доктора тут же убивает шпион из нацистского отдела HYDRA, ведомого безумным Иоганном Шмидтом по кличке Красный Череп. Роджерс — последний носитель сыворотки. Сначала его эксплуатируют как пропагандистского героя в ярком костюме, но когда друзья из 107-го полка попадают в плен к HYDRA, Стив сбегает, спасает их и начинает настоящую войну с Красным Черепом, чьи технологии грозят изменить ход истории."
 }

@@ -1,11 +1,22 @@
 {
-  "name": "The Rite",
+  "name": "Ритуал",
   "year": 2011,
   "runtime": 114,
-  "categories": ["drama", "horror", "mystery"],
+  "categories": [
+    "драма",
+    "ужасы",
+    "мистика"
+  ],
   "release-date": "2011-01-28",
-  "director": "Mikael Håfström",
-  "writer": ["Michael Petroni", "Matt Baglio"],
-  "actors": ["Colin O'Donoghue", "Anthony Hopkins", "Ciarán Hinds"],
-  "storyline": "The Rite follows skeptical seminary student Michael Kovak, who reluctantly attends exorcism school at the Vatican. While he's in Rome, Michael meets an unorthodox priest, Father Lucas (Anthony Hopkins), who introduces him to the darker side of his faith, uncovering the devil's reach even to one of the holiest places on Earth."
+  "director": "Микаэль Хофстрём",
+  "writer": [
+    "Майкл Петрони",
+    "Мэтт Баглио"
+  ],
+  "actors": [
+    "Колин О'Доногью",
+    "Энтони Хопкинс",
+    "Киаран Хайндс"
+  ],
+  "storyline": "Скептически настроенный семинарист Майкл Ковак, разочарованный в вере после смерти матери, неохотно отправляется в Ватикан на специальный курс по экзорцизму. В Риме он знакомится с эксцентричным и опытным священником отцом Лукасом, который проводит реальные обряды изгнания бесов. Под его руководством Майкл наблюдает за сложным случаем одержимости юной девушки демоном, проявляющим невероятную силу и хитрость. Поначалу молодой человек пытается рационально объяснить сверхъестественные явления, но постепенно сталкивается с неопровержимыми доказательствами существования зла. Фильм глубоко исследует темы сомнений, веры и неизбежного столкновения с силами тьмы даже в самом сердце христианского мира."
 }

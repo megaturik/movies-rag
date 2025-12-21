@@ -1,33 +1,33 @@
 {
-  "name": "Spiderman Homecoming",
+  "name": "Человек-паук: Возвращение домой",
   "year": 2017,
   "runtime": 133,
   "categories": [
-    "action",
-    "sci-fi",
-    "comedy",
-    "adventure"
+    "боевик",
+    "фантастика",
+    "комедия",
+    "приключения"
   ],
   "release-date": "2017-07-05",
-  "director": "Jon Watts",
+  "director": "Джон Уоттс",
   "writer": [
-    "Jon Watts",
-    "Erik Sommers",
-    "Jonathan M. Goldstein",
-    "Christopher D. Ford",
-    "Chris McKenna",
-    "John Francis Daley"
+    "Джон Уоттс",
+    "Эрик Соммерс",
+    "Джонатан М. Голдстин",
+    "Кристофер Д. Форд",
+    "Крис Маккенна",
+    "Джон Фрэнсис Дейли"
   ],
   "actors": [
-    "Tom Holland",
-    "Michael Keaton",
-    "Robert Downey Jr.",
-    "Marisa Tomei",
-    "Jon Favreau",
-    "Zendaya",
-    "Jacob Batalon",
-    "Laura Harrier",
-    "Donald Glover"
+    "Том Холланд",
+    "Майкл Китон",
+    "Роберт Дауни-мл.",
+    "Мариса Томей",
+    "Джон Фавро",
+    "Зендая",
+    "Джейкоб Баталон",
+    "Лора Хэрриэр",
+    "Дональд Гловер"
   ],
-  "storyline": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges."
+  "storyline": "После событий, связанных с противостоянием супергероев, юный Питер Паркер возвращается к повседневной жизни старшеклассника в Квинсе, Нью-Йорк. Под опекой своего наставника Тони Старка он стремится совмещать обычные подростковые заботы — учёбу, дружбу и первую любовь — с ролью борца с преступностью в облике Человека-паука. Однако на горизонте маячит новая опасность: загадочный злодей по прозвищу Стервятник, который разрабатывает хитрый план, угрожающий всему городу. Питер должен доказать, что готов к настоящим вызовам, балансируя между школьными буднями и героическими подвигами, и понять, что значит быть настоящим героем."
 }

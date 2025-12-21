@@ -1,41 +1,41 @@
 {
-  "name": "Winchester",
+  "name": "Особняк Винчестер",
   "year": 2018,
   "runtime": 99,
   "categories": [
-    "biography",
-    "drama",
-    "fantasy",
-    "horror",
-    "mystery",
-    "thriller"
+    "биография",
+    "драма",
+    "фэнтези",
+    "ужасы",
+    "мистика",
+    "триллер"
   ],
   "release-date": "2018-02-02",
   "director": [
-    "Michael Spierig",
-    "Peter Spierig"
+    "Майкл Шпириг",
+    "Питер Шпириг"
   ],
-  "writer": [
-    "Tom Vaughan",
-    "Michael Spierig",
-    "Peter Spierig"
+  "writers": [
+    "Том Воан",
+    "Майкл Шпириг",
+    "Питер Шпириг"
   ],
   "actors": [
-    "Helen Mirren",
-    "Sarah Snook",
-    "Finn Scicluna-O'Prey",
-    "Jason Clarke",
-    "Emm Wiseman",
-    "Alana Fagan",
-    "Rebecca Makar",
-    "Tyler Coppin",
-    "Michael Carman",
-    "Angus Sampson",
-    "Alice Chaston",
-    "Eamon Farren",
-    "Laura Brent",
-    "Adam Bowes",
-    "Bruce Spence"
+    "Хелен Миррен",
+    "Сара Снук",
+    "Финн Сиклуна-О'Пре",
+    "Джейсон Кларк",
+    "Эмм Уизман",
+    "Алана Фэган",
+    "Ребекка Макр",
+    "Тайлер Коппин",
+    "Майкл Карман",
+    "Энгус Сампсон",
+    "Элис Частон",
+    "Имон Фаррен",
+    "Лора Брент",
+    "Адам Боуз",
+    "Брюс Спенс"
   ],
-  "storyline": "Ensconced in her sprawling California mansion, eccentric firearm heiress Sarah Winchester believes she is haunted by the souls of people killed by the Winchester repeating rifle."
+  "storyline": "Эксцентричная вдова Сара Винчестер, наследница оружейной империи, живёт в огромном особняке в Калифорнии. Она убеждена, что её преследуют души жертв винтовок Winchester, и поэтому круглосуточно строит новые комнаты по 'указаниям' духов, превращая дом в бесконечный лабиринт. Директора компании нанимают скептического психиатра Эрика Прайса, чтобы объявить Сару сумасшедшей и захватить контроль над бизнесом. Однако в особняке доктор сталкивается с пугающими видениями, одержимыми рабочими и сверхъестественными силами. Постепенно он раскрывает трагические тайны семьи и понимает, что призраки реальны, а дом скрывает ужасающие секреты прошлого."
 }

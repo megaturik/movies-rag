@@ -1,26 +1,25 @@
 {
-    "name": "Hobbs & Shaw",
-    "year": 2019,
-    "runtime": 136,
-    "categories": [
-      "action",
-      "adventure"
-    ],
-    "release-date": "2019-08-02",
-    "director": "David Leitch",
-    "writer": [
-      "Jennifer Lee",
-      "Drew Pearce"
-    ],
-    "actors": [
-      "Dwayne Johnson",
-      "Jason Statham",
-      "Idris Elba",
-      "Vanessa Kirby",
-      "Eiza González",
-      "Cliff Curtis",
-      "Helen Mirren"
-    ],
-    "storyline": " The plot follows the unlikely team-up of the titular characters as they are forced to team up with Shaw's sister (Kirby) when a cybernetically-enhanced terrorist (Elba) and his organization threaten the world with a deadly virus."
-  }
-  
+  "name": "Хоббс и Шоу",
+  "year": 2019,
+  "runtime": 136,
+  "categories": [
+    "боевик",
+    "приключения"
+  ],
+  "release-date": "2019-08-02",
+  "director": "Дэвид Литч",
+  "writer": [
+    "Дженнифер Ли",
+    "Дрю Пирс"
+  ],
+  "actors": [
+    "Дуэйн Джонсон",
+    "Джейсон Стэйтем",
+    "Идрис Эльба",
+    "Ванесса Кирби",
+    "Эйза Гонсалес",
+    "Клифф Кёртис",
+    "Хелен Миррен"
+  ],
+  "storyline": "Сюжет разворачивается вокруг вынужденного союза двух заклятых антагонистов: крутого агента спецслужб Люка Хоббса и бывшего оперативника MI6 Декарда Шоу. Им приходится объединиться с сестрой Шоу, Хати, чтобы противостоять кибернетически усиленному террористу Брикстону Лорету и его организации. Этот безжалостный злодей, превращённый в сверхчеловека нанотехнологиями, похитил смертоносный вирус, способный уничтожить всё человечество. Герои отправляются в глобальное приключение, полное зрелищных погонь, драк и юмора, чтобы спасти мир от апокалипсиса. Напряжённые стычки и неожиданные повороты держат в напряжении до финальной битвы."
+}

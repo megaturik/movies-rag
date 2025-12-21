@@ -1,17 +1,17 @@
 {
-    "name": "Top Gun: Maverick",
-    "year": 2022,
-    "runtime": 130,
-    "categories": [
-        "action",
-        "drama"
-    ],
-    "release-date": "2022-05-27",
-    "director": "Joseph Kosinski",
-    "actors": [
-        "Tom Cruise",
-        "Jennifer Connelly",
-        "Miles Teller"
-    ],
-    "storyline": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to ..."
+  "name": "Топ Ган: Мэверик",
+  "year": 2022,
+  "runtime": 130,
+  "categories": [
+    "боевик",
+    "драма"
+  ],
+  "release-date": "2022-05-27",
+  "director": "Джозеф Косински",
+  "actors": [
+    "Том Круз",
+    "Дженнифер Коннелли",
+    "Майлз Теллер"
+  ],
+  "storyline": "Спустя тридцать лет капитан Пит «Мэверик» Митчелл по-прежнему летает на грани возможного, оставаясь одним из лучших пилотов ВМС США. Его стиль полетов вызывает недовольство начальства, и карьера висит на волоске. Внезапно ему поручают возглавить группу элитных выпускников престижной летной школы и подготовить их к сверхсекретной миссии. Задание кажется невыполнимым: нужно проникнуть в хорошо защищенное ущелье на вражеской территории, точно сбросить бомбу и уйти живым. Мэверик сталкивается с призраками прошлого, конфликтами среди подчиненных и личными демонами, чтобы спасти своих пилотов и доказать, что он все еще лучший."
 }

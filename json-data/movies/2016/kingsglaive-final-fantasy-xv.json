@@ -1,24 +1,24 @@
 {
-  "name": "Kingsglaive: Final Fantasy XV",
+  "name": "Королевская гвардия: Финальная фантазия XV",
   "year": 2016,
   "runtime": 110,
   "categories": [
-    "adventure",
-    "action",
-    "drama"
+    "приключения",
+    "боевик",
+    "драма"
   ],
   "release-date": "2016-08-19",
-  "director": "Takeshi Nozue",
-  "writer": [
-    "Takashi Hasegawa"
+  "director": "Такеси Нодзэ",
+  "writers": [
+    "Такаси Хасэгава"
   ],
   "actors": [
-    "Sean Bean",
-    "Lena Headey",
-    "Aaron Paul",
-    "Adrian Bouchet",
-    "Liam Mulvey",
-    "Andrea Tivadar"
+    "Шон Бин",
+    "Лена Хиди",
+    "Аарон Пол",
+    "Эдриан Бушэ",
+    "Лиам Малви",
+    "Андреа Тивадар"
   ],
-  "storyline": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power."
+  "storyline": "Король Регис, правящий землёй Лучия, приказывает своей армии защитить королевство от агрессивных планов империи Нiflheim, стремящейся украсть священный кристалл — источник магии и мощи Лучии. Элитные воины, наделённые частицей силы кристалла, вступают в отчаянную борьбу с механизированными легионами захватчиков. По ходу сражений раскрываются дворцовые интриги, личные жертвы и предательства. Главный герой, верный страж, оказывается в центре событий, где цена победы — его собственная судьба и будущее всего мира. Масштабные битвы, магия и политика переплетаются в эпической драме о долге и чести."
 }

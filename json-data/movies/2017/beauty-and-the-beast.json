@@ -1,11 +1,11 @@
 {
-  "name": "Beauty and the Beast",
+  "name": "Красавица и чудовище",
   "year": 2017,
   "runtime": 129,
   "categories": [
-    "family",
-    "fantasy",
-    "musical"
+    "семейный",
+    "фэнтези",
+    "мюзикл"
   ],
   "release-date": "2017-03-16",
   "director": "Bill Condon",
@@ -30,5 +30,5 @@
     "Audra McDonald",
     "Stanley Tucci"
   ],
-  "storyline": "Disney's animated classic takes on a new form, with a widened mythology and an all-star cast. A young prince, imprisoned in the form of a beast, can be freed only by true love. What may be his only opportunity arrives when he meets Belle, the only human girl to ever visit the castle since it was enchanted.\n\n"
+  "storyline": "Знаменитый мультфильм обретает новую жизнь в формате живого действа с расширенной мифологией и звёздным кастом. Молодой принц, заколдованный в образе чудовища, может обрести свободу лишь благодаря истинной любви. Его единственный шанс возникает, когда в зачарованный замок попадает Белль — единственная девушка, посетившая его после наложения проклятия. Белль, умная и независимая красавица, любящая книги и приключения, оказывается в замке в обмен на свободу отца. Постепенно она узнаёт трагическую историю хозяина и его верных слуг — говорящих предметов. Между ними вспыхивает романтическая связь, способная развеять древнее заклятие. Фильм наполнен волшебством, завораживающей музыкой, юмором и трогательными моментами, подчёркивающими темы любви, принятия и внутренней красоты."
 }

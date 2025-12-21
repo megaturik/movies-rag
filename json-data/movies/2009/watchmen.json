@@ -1,19 +1,19 @@
 {
-  "name": "Watchmen",
+  "name": "Хранители",
   "year": 2009,
   "runtime": 215,
   "categories": [
-    "action",
-    "mystery",
-    "drama"
+    "боевик",
+    "детектив",
+    "драма"
   ],
   "release-date": "2009-02-23",
-  "director": "Zack Snyder",
-  "writer": "Alan Moore",
+  "director": "Зак Снайдер",
+  "writer": "Алан Мур",
   "actors": [
-    "Malin Akerman",
-    "Jeffrey Dean Morgan",
-    "Jackie Earle Haley"
+    "Малин Акерман",
+    "Джеффри Дин Морган",
+    "Джеки Эрл Хейли"
   ],
-  "storyline": "In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it."
+  "storyline": "Действие разворачивается в альтернативной версии 1985 года, на фоне обострения холодной войны между США и СССР. В этом мире супергерои некогда были обыденностью, но теперь их деятельность запрещена законом. Загадочное убийство одного из бывших героев запускает цепочку событий: последний активный вигилант по прозвищу Роршах начинает собственное расследование. Оно приводит к открытиям о масштабном заговоре, который угрожает глобальному миру и способен радикально изменить ход мировой истории навсегда."
 }

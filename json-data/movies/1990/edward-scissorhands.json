@@ -1,26 +1,25 @@
 {
-  "name": "Edward Scissorhands ",
+  "name": "Эдвард Руки-ножницы",
   "year": 1990,
   "runtime": 105,
   "categories": [
-    "drama",
-    "fantasy",
-    "romance"
+    "драма",
+    "фэнтези",
+    "мелодрама"
   ],
   "release-date": "1990-12-14",
-  "director": "Tim Burton",
+  "director": "Тим Бёртон",
   "writer": [
-    "Tim Burton",
-    "Caroline Thompson"
+    "Тим Бёртон",
+    "Кэролайн Томпсон"
   ],
   "actors": [
-    "Johnny Depp",
-    "Winona Ryder",
-    "Dianne Wiest",
-    "Anthony Michael Hall",
-    "Kathy Baker",
-    "Robert Oliveri"
+    "Джонни Депп",
+    "Вайнона Райдер",
+    "Дайан Уиест",
+    "Энтони Майкл Холл",
+    "Кэти Бейкер",
+    "Роберт Оливиери"
   ],
-  "storyline": "In a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse."
+  "storyline": "В заброшенном замке на вершине холма живёт незавершённое творение гениального изобретателя — молодой человек по имени Эдвард. Вместо рук у него острые металлические ножницы, которые делают его одновременно талантливым и беспомощным. После смерти создателя Эдвард годами остаётся в одиночестве, пока добрая продавщица косметики Пэг не находит его и не приглашает в свой дом в идеальном американском пригороде. Поначалу соседи в восторге от необычного гостя: он творит садовые шедевры, создаёт изысканные причёски и очаровывает всех своей наивностью. Но постепенно страх перед его внешностью, сплетни и мелкие недоразумения приводят к трагическим последствиям, обнажая тёмную сторону человеческой природы."
 }
-

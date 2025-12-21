@@ -1,19 +1,21 @@
 {
-    "name": "Resident Evil",
-    "year": 2002,
-    "runtime": 100,
-    "categories": [
-      "horror",
-      "action",
-      "sci-fi"
-    ],
-    "release-date": "2002-05-30",
-    "director": "Paul W. S. Anderson",
-    "writer": "Paul W. S. Anderson",
-    "actors": [
-      "Milla Jovovich",
-      "Michelle Rodriguez",
-      "James Purefoy"
-    ],
-    "storyline": "A virus has escaped in a secret facility called The Hive, turning the staff into hungry zombies and releasing the mutated Lab Animals that they were studying. The complex computer shuts down the base to prevent infection. The parent corporation sends in an elite military unit, where they meet Alice, who is suffering from amnesia due to exposure to nerve gas. The military team must shut down the computer and get out, fighting their way past zombies, mutants, and the computer itself, before the virus escapes and infects the rest of the world. Alice must also come to terms with her slowly-returning memories."
+  "name": "Обитель зла",
+  "year": 2002,
+  "runtime": 100,
+  "categories": [
+    "ужасы",
+    "боевик",
+    "фантастика"
+  ],
+  "release-date": "2002-05-30",
+  "director": "Пол У. С. Андерсон",
+  "writers": [
+    "Пол У. С. Андерсон"
+  ],
+  "actors": [
+    "Милла Йовович",
+    "Мишель Родригес",
+    "Джеймс Пьюрифой"
+  ],
+  "storyline": "Вирус вырвался на свободу в секретном подземном комплексе \"Улей\", превратив весь персонал в разъяренных голодных зомби и освободив мутировавших лабораторных животных, над которыми проводились эксперименты. Чтобы предотвратить катастрофу, главный компьютер автоматически запечатывает объект, полностью блокируя все выходы. Корпорация- владелец отправляет элитный спецназ для устранения угрозы. В лифте, ведущем в глубину, бойцы встречают Элис — загадочную женщину с амнезией, вызванной воздействием нервно-паралитического газа. Вместе они пытаются добраться до центрального компьютера, чтобы снять блокировку и выбраться наружу. По пути их поджидают орды зомби, жуткие мутанты и даже саморазумная система ИИ, которая защищает объект любой ценой. Элис постепенно вспоминает своё прошлое, раскрывая шокирующие тайны, связанные с экспериментами корпорации. В напряжённой схватке на выживание они сражаются не только за свои жизни, но и за спасение всего человечества от глобальной пандемии нежити."
 }

@@ -1,27 +1,27 @@
 {
-  "name": "Alien",
+  "name": "Чужой",
   "year": 1979,
   "runtime": 116,
   "categories": [
-    "horror",
-    "sci-fi"
+    "ужасы",
+    "фантастика"
   ],
   "release-date": "1979-05-25",
-  "director": "Ridley Scott",
+  "director": "Ридли Скотт",
   "writer": [
-    "Dan O'Bannon",
-    "Ronald Shusett"
+    "Дэн О'Бэннон",
+    "Рональд Шусетт"
   ],
   "actors": [
-    "Tom Skerritt",
-    "Sigourney Weaver",
-    "Veronica Cartwright",
-    "Harry Dean Stanton",
-    "John Hurt",
-    "Ian Holm",
-    "Yaphet Kotto",
-    "Bolaji Badejo",
-    "Helen Horton"
+    "Том Скерритт",
+    "Сигурни Уивер",
+    "Вероника Картрайт",
+    "Гарри Дин Стэнтон",
+    "Джон Хёрт",
+    "Иэн Холм",
+    "Яфет Котто",
+    "Боладжи Бадеджо",
+    "Хелен Хортон"
   ],
-  "storyline": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun."
+  "storyline": "Экипаж грузового космического корабля принимает неизвестный сигнал за зов о помощи и высаживается на загадочную пустынную планету. Исследуя руины инопланетного судна, они находят странные яйца, из одного из которых вылупляется паразит, нападающий на лицо астронавта. Вернувшись на борт, команда обнаруживает, что внутри товарища развивается смертоносный организм. Вылупившийся хищник начинает жестокую охоту: он проникает в вентиляционные шахты, использует тени и замкнутое пространство корабля, чтобы незаметно подкрадываться к жертвам. Паника охватывает экипаж, карантинные протоколы срабатывают, но монстр слишком умен и адаптивен. Каждый шаг — это борьба за жизнь, где доверие рушится, а ужас нарастает с каждой минутой."
 }

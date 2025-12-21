@@ -1,23 +1,23 @@
 {
-  "name": "The Dark Knight Rises",
+  "name": "Тёмный рыцарь: Возрождение легенды",
   "year": 2012,
   "runtime": 164,
   "categories": [
-    "adventure",
-    "thriller"
+    "приключения",
+    "триллер"
   ],
   "release-date": "2012-07-20",
-  "director": "Christopher Nolan",
+  "director": "Кристофер Нолан",
   "writer": [
-    "Jonathan Nolan",
-    "David S. Goyer",
-    "Christopher Nolan",
-    "Bob Kane"
+    "Джонатан Нолан",
+    "Дэвид С. Гойер",
+    "Кристофер Нолан",
+    "Боб Кейн"
   ],
   "actors": [
-    "Christian Bale",
-    "Tom Hardy",
-    "Anne Hathway"
+    "Кристиан Бэйл",
+    "Том Харди",
+    "Энн Хэтэуэй"
   ],
-  "storyline": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane."
+  "storyline": "Спустя восемь лет после анархии, посеянной Джокером, Тёмный рыцарь вынужден покинуть затворничество с помощью загадочной Женщины-кошки. Готэм-сити стоит на краю пропасти: жестокий террорист Бэйн, лидер повстанцев, захватывает контроль, разрушает инфраструктуру и сеет панику среди жителей. Герой должен вернуться в бой, противостоять превосходящим силам врага, раскрыть масштабный заговор и предотвратить полное уничтожение города. В этой напряжённой схватке на кону не только судьба мегаполиса, но и личное искупление борца с преступностью."
 }

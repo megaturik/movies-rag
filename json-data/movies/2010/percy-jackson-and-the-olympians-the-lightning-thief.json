@@ -1,15 +1,15 @@
 {
-  "name": "Percy Jackson and the Olympians: The Lightning Thief",
+  "name": "Перси Джексон и похититель молний",
   "year": 2010,
   "runtime": 119,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2010-02-02",
   "director": "Chris Columbus",
-  "writer": [
+  "writers": [
     "Craig Titley",
     "Rick Riordan"
   ],
@@ -39,5 +39,5 @@
     "Catherine Keener",
     "Joe Pantoliano"
   ],
-  "description": "Always trouble-prone, the life of teenager Percy Jackson (Logan Lerman) gets a lot more complicated when he learns he's the son of the Greek god Poseidon. At a training ground for the children of deities, Percy learns to harness his divine powers and prepare for the adventure of a lifetime: he must prevent a feud among the Olympians from erupting into a devastating war on Earth, and rescue his mother from the clutches of Hades, god of the underworld."
+  "storyline": "Подросток Перси Джексон всегда попадал в неприятности, но его жизнь кардинально меняется, когда он узнаёт, что является сыном греческого бога морей Посейдона. В тайном лагере для полубогов он начинает осваивать свои сверхъестественные способности: управлять водой, сражаться с мифическими чудовищами и постигать древние тайны. Главная опасность — пропавшая молния верховного бога Зевса, которую обвиняют в краже его отца. Перси должен отправиться в рискованное путешествие через страну, полную оживших легенд, чтобы вернуть артефакт, предотвратить войну между олимпийцами и спасти мать из лап мрачного Аида, владыки подземного царства. По пути его поддержат верные друзья: умная дочь Афины и хитрый сатир-наставник."
 }

@@ -1,25 +1,24 @@
 {
-  "name": "Crouching Tiger, Hidden Dragon",
+  "name": "Тигр, крадущийся сквозь камыши",
   "year": 2000,
   "runtime": 120,
   "categories": [
-    "wuxia",
-    "action"
+    "уся",
+    "боевик"
   ],
   "release-date": "2000-05-18",
-  "director": "Ang Lee",
+  "director": "Энг Ли",
   "writer": [
-    "Hui-Ling Wang",
-    "James Schamus",
-    "Kuo Jung Tsai"
+    "Ван Хуэйлын",
+    "Джеймс Шеймус",
+    "Цай Го-жун"
   ],
-
   "actors": [
-    "Chow Yun-Fat",
-    "Michelle Yeoh",
-    "Zhang Ziyi",
-    "Chang Chen",
-    "Cheng Pei-pei"
+    "Чоу Юнь-Фат",
+    "Мишель Йео",
+    "Чжан Цзыи",
+    "Чан Чэнь",
+    "Чэн Пэй-пэй"
   ],
-  "storyline": "The film tells the story of two women, both exquisite fighters, and whose lives are in the days of the Qing Dynasty. Their fates lead them on a violent and startling journey that will force them to make choices that could change their lives."
+  "storyline": "Действие происходит в эпоху Цинской династии. Легендарный воин Ли Мубай, устав от бесконечных битв, решает передать свой прославленный меч «Зелёный Судьбы» на хранение старому учителю Сяо. Однако хитроумная и неуловимая воровка Джени Юй Шо крадёт клинок и скрывается в ночи. В погоню за ней бросается Ю Шяо Ху — молодая аристократка и ученица Ли Мубая, влюблённая в своего наставника. Их пути переплетаются в водовороте страстей, интриг и яростных поединков. Две выдающиеся мастерицы боевых искусств сталкиваются с былыми врагами, внутренними демонами и судьбоносными решениями, которые грозят разрушить их жизни и перевернуть весь мир вокруг."
 }

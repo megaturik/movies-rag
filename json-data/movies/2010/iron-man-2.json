@@ -1,25 +1,25 @@
 {
-  "name": "Iron Man 2",
+  "name": "Железный человек 2",
   "year": 2010,
   "runtime": 124,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "2010-05-07",
-  "director": "Jon Favreau",
+  "director": "Джон Фавро",
   "writer": [
-    "Justin Theroux",
-    "Stan Lee",
-    "Don Heck",
-    "Larry Lieber",
-    "Jack Kirby"
+    "Джастин Теру",
+    "Стэн Ли",
+    "Дон Хек",
+    "Ларри Либер",
+    "Джек Кирби"
   ],
   "actors": [
-    "Robert Downey Jr",
-    "Gwyneth Paltrow",
-    "Mickey Rourke"
+    "Роберт Дауни-мл.",
+    "Гвинет Пэлтроу",
+    "Мики Рурк"
   ],
-  "storyline": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies"
+  "storyline": "Мир теперь знает о двойной жизни гениального миллиардера Тони Старка — изобретателя и бронированного супергероя. Правительство, пресса и общественность давят на него, требуя передать военным свою революционную технологию. Старк категорически отказывается делиться изобретением, опасаясь последствий. Вместе с верными соратниками — ассистенткой Пеппер Поттс и другом Джеймсом «Роуди» Роудсом — он вынужден искать новых союзников. На пути возникают могущественные враги, ведомые жаждой мести и жаждой власти. Старк сталкивается не только с внешними угрозами, но и с внутренними проблемами: его тело отравляется собственным миниатюрным реактором в груди. Ему предстоит изобрести новые улучшенные доспехи, раскрыть семейные тайны и сразиться за будущее человечества в эпичной битве высоких технологий и человеческой воли."
 }

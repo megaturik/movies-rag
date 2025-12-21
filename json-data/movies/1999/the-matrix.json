@@ -1,10 +1,10 @@
 {
-  "name": "The Matrix",
+  "name": "Матрица",
   "year": 1999,
   "runtime": 136,
   "categories": [
-    "action",
-    "fantasy"
+    "боевик",
+    "фэнтези"
   ],
   "description": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he  meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
   "release-date": "1999-03-31",
@@ -12,7 +12,7 @@
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
-  "writer": [
+  "writers": [
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
@@ -55,5 +55,6 @@
     "Nigel Harbach",
     "Mike Duncan",
     "Rana Morrison"
-  ]
+  ],
+  "storyline": "Нео, талантливый программист и хакер, живёт двойной жизнью: днём — обычный офисный сотрудник, ночью — исследователь теневой стороны сети. Его мучает навязчивое ощущение, что окружающий мир — не настоящая реальность. Он ищет ответ на ключевой вопрос о природе всего сущего. Загадочная красавица Тринити выходит с ним на связь и вводит в опасный подпольный мир, где Нео наконец встречает легендарного Морфеуса — человека, которого считают самым опасным на планете. Морфеус раскрывает шокирующие тайны и предлагает выбор, который изменит всё. Вместе с командой повстанцев они ведут отчаянную борьбу за выживание против группы безжалостных и сверхумных агентов системы. Истина, которую узнает Нео, угрожает не только его жизни, но и всему, что он считал ценным. Этот путь пробуждения полон экшена, философских размышлений и революционных открытий."
 }

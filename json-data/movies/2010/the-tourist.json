@@ -1,29 +1,29 @@
 {
-  "name": "The Tourist",
+  "name": "Турист",
   "year": 2010,
   "runtime": 103,
   "categories": [
-    "action",
-    "adventure",
-    "crime",
-    "mystery",
-    "romance",
-    "thriller"
+    "боевик",
+    "приключения",
+    "криминал",
+    "детектив",
+    "романтика",
+    "триллер"
   ],
   "release-date": "2010-12-10",
-  "director": "Florian Henckel von Donnersmarck",
+  "director": "Флориан Хенкель фон Доннерсмарк",
   "writer": [
-    "Florian Henckel von Donnersmarck",
-    "Christopher McQuarrie",
-    "Julian Fellowes",
-    "Jérôme Salle"
+    "Флориан Хенкель фон Доннерсмарк",
+    "Кристофер Маккуорри",
+    "Джулиан Феллоуз",
+    "Жером Саль"
   ],
   "actors": [
-    "Johnny Depp",
-    "Angelina Jolie",
-    "Paul Bettany",
-    "Timothy Dalton",
-    "Steven Berkoff"
+    "Джонни Депп",
+    "Анджелина Джоли",
+    "Пол Беттани",
+    "Тимоти Далтон",
+    "Стивен Беркрофф"
   ],
-  "storyline": "Elise (Jolie) sits next to an American tourist, Frank (Depp), on a train going to Venice. She has chosen him as a decoy, making believe that he is her lover who is wanted by police. Not only will they need to evade the police, but also the mobster whose money her lover stole."
+  "storyline": "Элегантная Элиза (Анджелина Джоли) усаживается в вагон поезда, мчащегося в Венецию, именно рядом с обычным американским туристом Фрэнком (Джонни Депп). Она тщательно выбрала его как отвлекающий манёвр: теперь все, включая полицию, уверены, что он и есть её любовник, разыскиваемый за крупное преступление. На деле её настоящий партнёр украл огромную сумму у влиятельного гангстера. Героям предстоит не только ускользнуть от неумолимых стражей порядка, но и противостоять жестокой мести мафиози и его наёмников. В лабиринтах каналов Венеции разворачивается напряжённая игра в кошки-мышки, где переплетаются обман, внезапная страсть, интриги и борьба за жизнь, полная неожиданных поворотов и опасных секретов."
 }

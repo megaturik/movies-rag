@@ -1,30 +1,30 @@
 {
-  "name": "Mad Max 4: Fury Road",
+  "name": "Безумный Макс: Дорога ярости",
   "year": 2015,
   "runtime": 120,
   "categories": [
-    "action",
-    "dystopian"
+    "боевик",
+    "антиутопия"
   ],
   "release-date": "2015-05-07",
   "director": [
-    "George Miller"
+    "Джордж Миллер"
   ],
   "writer": [
-    "George Miller",
-    "Brendan McCarthy",
-    "Nico Lathouris"
+    "Джордж Миллер",
+    "Брендан Маккарти",
+    "Нико Латхурис"
   ],
   "actors": [
-    "Tom Hardy",
-    "Charlize Theron",
-    "Nicholas Hoult",
-    "Hugh Keays-Byrne",
-    "Rosie Huntington-Whiteley",
-    "Riley Keough",
-    "Zoë Kravitz",
-    "Abbey Lee",
-    "Courtney Eaton"
+    "Том Харди",
+    "Шарлиз Терон",
+    "Николас Холт",
+    "Хью Кеяз-Байрн",
+    "Роузи Хантингтон-Уайтли",
+    "Райли Кио",
+    "Зои Кравиц",
+    "Эбби Ли",
+    "Кортни Итон"
   ],
-  "storyline": "The film is set in a future desert wasteland where gasoline and water are scarce commodities. It follows Max Rockatansky, who joins forces with Imperator Furiosa to flee from cult leader Immortan Joe and his army in an armoured tanker truck, which leads to a lengthy road battle."
+  "storyline": "Действие разворачивается в постапокалиптической пустыне будущего, где вода и бензин — самые дефицитные ресурсы. Бывший полицейский Макс Рокатански, захваченный в плен и используемый как \"универсальный донор\" для воинов, сбегает и объединяется с отважной воительницей Императором Фуриосой. Она угоняет бронированный цистерновоз с ценным грузом — группой молодых женщин, которых тиран Бессмертный Джо держит в заточении как наложниц для рождения наследников. Преследуемые огромной армией байкеров и мутантов на боевых машинах, герои мчатся через выжженную пустошь в эпической гонке на выживание. Затяжные дорожные баталии полны взрывов, огнеметных установок, переворотов и безжалостного экшена, где каждый поворот может стать последним."
 }

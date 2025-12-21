@@ -1,18 +1,18 @@
 {
-    "name": "Enola Holmes",
-    "year": 2020,
-    "runtime": 123,
-    "categories": [
-        "action",
-        "adventure",
-        "crime"
-    ],
-    "release-date": "2020-09-23",
-    "director": "Harry Bradbeer",
-    "actors": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "Sam Claflin"
-    ],
-    "storyline": "England, 1884 - a world on the brink of change. On the morning of her 16th birthday, Enola Holmes (Millie Bobby Brown) wakes to find that her mother (Helena Bonham Carter) has disappeared, leaving behind an odd assortment of gifts but no apparent clue as to where she's gone or why. After a free-spirited childhood, Enola suddenly finds herself under the care of her brothers Sherlock (Henry Cavill) and Mycroft (Sam Claflin), both set on sending her away to a finishing school for \"proper\" young ladies. Refusing to follow their wishes, Enola escapes to search for her mother in London. But when her journey finds her entangled in a mystery surrounding a young runaway Lord (Louis Partridge), Enola becomes a super-sleuth in her own right, outwitting her famous brother as she unravels a conspiracy that threatens to set back the course of history."
+  "name": "Энола Холмс",
+  "year": 2020,
+  "runtime": 123,
+  "categories": [
+    "боевик",
+    "приключения",
+    "криминал"
+  ],
+  "release-date": "2020-09-23",
+  "director": "Гарри Брэдбир",
+  "actors": [
+    "Милли Бобби Браун",
+    "Генри Кавилл",
+    "Сэм Клафлин"
+  ],
+  "storyline": "Англия, 1884 год — мир на грани перемен. Утром своего 16-летия Энола Холмс просыпается и обнаруживает, что мать исчезла, оставив лишь странные подарки без подсказок о её местонахождении или причинах. После беззаботного детства она оказывается под опекой братьев Шерлока и Майкрофта, которые решают отправить её в пансионат для \"приличных\" молодых леди. Не желая смириться, Энола сбегает в Лондон на поиски матери. Однако путь приводит её к загадке вокруг юного лорда-беглеца. Становясь искусным сыщиком, она перехитряет знаменитого брата и раскрывает заговор, грозящий изменить ход истории."
 }

@@ -1,25 +1,25 @@
 {
-  "name": "A Star is Born",
+  "name": "Звезда родилась",
   "year": 2018,
   "runtime": 135,
   "categories": [
-    "drama",
-    "music",
-    "romance"
+    "драма",
+    "мелодрама",
+    "музыкальный"
   ],
   "release-date": "2018-09-07",
-  "director": "Bradley Cooper",
+  "director": "Брэдли Купер",
   "writer": [
-    "Lady Gaga",
-    "Bradley Cooper",
-    "Sam Elliott"
+    "Леди Гага",
+    "Брэдли Купер",
+    "Сэм Эллиотт"
   ],
   "actors": [
-    "Eric Roth",
-    "Bradley Cooper",
-    "Will Fetters",
-    "William A. Wellman",
-    "Robert Carson"
+    "Эрик Рот",
+    "Брэдли Купер",
+    "Уилл Феттерс",
+    "Уильям А. Уэллман",
+    "Роберт Карсон"
   ],
-  "storyline": "Seasoned musician Jackson Maine (Bradley Cooper) discovers-and falls in love with-struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer - until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons. Written by Warner Bros."
+  "storyline": "Опытный рок-музыкант Джексон Мэйн (Брэдли Купер), чья карьера на спаде из-за борьбы с алкоголизмом и наркозависимостью, случайно замечает в маленьком гей-клубе талантливую певицу Элли (Леди Гага), работающую официанткой. Влюбившись в неё с первого взгляда, он берёт её под своё крыло, выводит на большую сцену и помогает записать дебютный хит. Элли стремительно становится мировой звездой, радикально меняя стиль и имидж под влиянием продюсеров. Тем временем Джек всё глубже тонет в своих демонах, теряя голос и уважение публики. Их страстная любовь проходит через ревность, предательства и трагические испытания, показывая цену славы и хрупкость человеческих отношений."
 }

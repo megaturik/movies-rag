@@ -1,27 +1,27 @@
 {
-  "name": "Tomb Raider",
+  "name": "Лара Крофт",
   "year": 2018,
   "runtime": 118,
   "categories": [
-    "action",
-    "adventure",
-    "fantasy"
+    "боевик",
+    "приключения",
+    "фэнтези"
   ],
   "release-date": "2018-03-16",
-  "director": "Roar Uthaug",
+  "director": "Роар Утхауг",
   "writer": [
-    "Geneva Robertson-Dworet", 
-	"Evan Daugherty"
+    "Женева Робертсон-Дуорэт",
+    "Эван Доэрти"
   ],
   "actors": [
-    "Alicia Vikander",
-    "Dominic West",
-    "Walton Goggins",
-    "Daniel Wu",
-    "Derek Jacobi",
-    "Alexandre Willaume ",
-    "Tamer Burjaq ",
-	"Kristin Scott Thomas"
+    "Алисия Викандер",
+    "Доминик Уэст",
+    "Уолтон Гоггинс",
+    "Дэниел Ву",
+    "Дерек Джейкоби",
+    "Александр Виллоум",
+    "Тамер Буржак",
+    "Кристин Скотт Томас"
   ],
-  "storyline":"Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father disappeared."
+  "storyline": "Упорная и независимая дочь пропавшего археолога-авантюриста решает отправиться на поиски отца, чей след давно потерян. Она находит координаты загадочного острова в Тихом океане, где он исчез много лет назад. Чтобы добраться туда и выжить среди диких джунглей, древних руин и коварных врагов, героине предстоит преодолеть свои физические и душевные пределы. По пути она столкнется с могущественной корпорацией, охотящейся за секретом бессмертия, и раскроет семейные тайны, которые перевернут её жизнь. Напряжённые погони, акробатические трюки и эпические сражения ждут впереди в этом захватывающем путешествии к истине."
 }

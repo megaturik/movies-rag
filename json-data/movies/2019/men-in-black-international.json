@@ -1,24 +1,24 @@
 {
-    "name" : "Men in Black: International",
-    "year" : 2019,
-    "runtime" : 115,
-    "categories" : [
-      "action",
-      "adventure",
-      "comedy",
-      "sci-Fi"
-    ],
-    "release-date" : "2019-06-14",
-    "director" : "F. Gary Gray",
-    "writer" : [
-      "Matt Holloway",
-      "Art Marcum",
-      "Lowell Cunningham"
-    ],
-    "actors" : [
-      "Chris Hemsworth",
-      "Tessa Thompson",
-      "Kumail Nanjiani"
-    ],
-    "storyline" : "After an eye-opening encounter of the third kind, the secret MiB organisation's newest recruit, Agent M, finds herself under the wing of the heroic Agent H in cosmopolitan London, when a shape-shifting duo of intergalactic assassins executes an alien aristocrat. Now, with a devastating super-weapon of mass destruction hidden somewhere on Earth, the Men in Black will leave no stone unturned to retrieve it; however, heavy clouds of mistrust and a scent of betrayal envelop the once-incorruptible agency. Is there a well-placed mole in their midst?"
+  "name": "Люди в чёрном: Интернэшнл",
+  "year": 2019,
+  "runtime": 115,
+  "categories": [
+    "боевик",
+    "приключения",
+    "комедия",
+    "фантастика"
+  ],
+  "release-date": "2019-06-14",
+  "director": "Ф. Гэри Грей",
+  "writer": [
+    "Мэтт Холлоуэй",
+    "Арт Маркум",
+    "Лоуэлл Каннингем"
+  ],
+  "actors": [
+    "Крис Хемсворт",
+    "Тесса Томпсон",
+    "Кумайл Нанджиани"
+  ],
+  "storyline": "После ошеломительной встречи третьего рода новенькая агент М из секретной организации по защите Земли от инопланетян попадает под опеку отважного агента H в шумном Лондоне. Именно там пара оборотней-убийц из другой галактики жестоко расправляется с видным инопланетным аристократом. Теперь на кону судьба планеты: где-то на Земле спрятано супероружие массового уничтожения, способное стереть всё живое. Агенты бросаются на поиски, переворачивая каждый камень, но в некогда безупречной организации сгущаются тучи подозрений. Недоверие разъедает ряды, а предательство витает в воздухе. Неужели среди них затаился предатель — коварный шпион, подосланный врагами? Борьба с внешней угрозой перерастает в охоту на внутреннего врага, где каждый шаг может стать последним."
 }

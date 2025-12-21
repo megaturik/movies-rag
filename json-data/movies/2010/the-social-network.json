@@ -1,23 +1,23 @@
 {
-  "name": "The Social Network",
+  "name": "Социальная сеть",
   "year": 2010,
   "runtime": 120,
   "categories": [
-    "biography",
-	"drama"
+    "биография",
+    "драма"
   ],
   "release-date": "2010-10-01",
-  "director": "David Fincher",
+  "director": "Дэвид Финчер",
   "writer": [
-    "Aaron Sorkin",
-    "Ben Mezrich"
+    "Аарон Соркин",
+    "Бен Мезрич"
   ],
   "actors": [
-    "Jesse Eisenberg",
-    "Justin Timberlake",
-    "Rooney Mara",
-	"Joseph Mazzello",
-	"Andrew Garfield"
+    "Джесси Айзенберг",
+    "Джастин Тимберлейк",
+    "Руни Мара",
+    "Джозеф Мацелло",
+    "Эндрю Гарфилд"
   ],
-  "storyline":"Harvard student Mark Zuckerberg creates a social networking site that would become Facebook and is later sued by two brothers who claimed that Zuckerberg stole their idea and the co-founder who was pushed out of the business"
+  "storyline": "Студент Гарвардского университета Марк Цукерберг, обиженный отказом в поступлении на вечеринку престижного женского клуба, создаёт сайт для оценки привлекательности сокурсниц. Идея быстро эволюционирует в социальную сеть исключительно для студентов элитных вузов. Проект взрывается популярностью, привлекая инвестиции и превращаясь в глобальный феномен. Но триумф омрачается судебными тяжбами: близнецы Кэмерон и Тайлер Уинклвосс обвиняют Марка в краже их концепции, а сооснователь Эдуардо Саверин, чьи права на компанию постепенно сводят на нет, подаёт иск. Фильм раскрывает закулисные интриги, предательства, амбиции и моральные компромиссы на пути к созданию цифровой империи."
 }

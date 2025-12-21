@@ -1,26 +1,26 @@
 {
-  "name": "The Greatest Showman",
+  "name": "Величайший шоумен",
   "year": 2017,
   "runtime": 105,
   "categories": [
-    "Biography",
-    "Drama",
-    "Musical"
+    "Биография",
+    "Драма",
+    "Мюзикл"
   ],
   "release-date": "2017-12-08",
-  "director": "Michael Gracey",
+  "director": "Майкл Грейси",
   "writer": [
-    "Jenny Bicks",
-    "Bill Condon"
+    "Дженни Бикс",
+    "Билл Кондон"
   ],
   "actors": [
-    "Hugh Jackman",
-    "Michelle Williams",
-    "Zac Efron",
-    "Zendaya",
-    "Rebecca Ferguson",
-    "Austyn Johnson",
-    "Cameron Seely"
+    "Хью Джекман",
+    "Мишель Уильямс",
+    "Зак Эфрон",
+    "Зендая",
+    "Ребекка Фергюсон",
+    "Аустин Джонсон",
+    "Кэмерон Сили"
   ],
-  "storyline": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation."
+  "storyline": "Амбициозный предприниматель из низов общества решает создать уникальное шоу, собрав самых необычных талантов: карликов, акробатов, бородатых женщин и экзотических артистов. Его представления сначала шокируют публику, но вскоре покоряют сердца миллионов, превращая скромный цирк в мировую сенсацию. Герой преодолевает финансовые кризисы, предрассудки высшего света, личные трагедии и конфликты в семье. Благодаря упорству, вере в мечту и харизме он строит империю развлечений, доказывая, что любой может стать звездой, если осмелится быть собой."
 }

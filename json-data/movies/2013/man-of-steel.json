@@ -1,21 +1,21 @@
 {
-  "name": "Man of Steel",
+  "name": "Человек из стали",
   "year": 2013,
   "runtime": 143,
   "categories": [
-    "action",
-    "adventure",
-    "fantasy"
+    "боевик",
+    "приключения",
+    "фэнтези"
   ],
   "release-date": "2013-06-14",
-  "director": "Zack Snyder",
+  "director": "Зак Снайдер",
   "writer": [
-    "David S. Goyer"
+    "Дэвид С. Гойер"
   ],
   "actors": [
-    "Henry Cavill",
-    "Amy Adams",
-    "Michael Shannon"
+    "Генри Кавилл",
+    "Эми Адамс",
+    "Майкл Шэннон"
   ],
-  "storyline": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction."
+  "storyline": "Кларк Кент, один из последних выживших криптонцев, выросший на Земле среди обычных людей, скрывает свою сверхчеловеческую силу, скорость и другие способности. Он ведёт скромную жизнь, размышляя о своём предназначении. Однако всё меняется, когда на планету прибывает генерал Зод с остатками криптонской армии. Они намерены захватить Землю, чтобы возродить свой уничтоженный мир, перестроив планету под нужды криптонцев, что неизбежно приведёт к гибели человечества. Кларку приходится раскрыть свою истинную сущность, принять наследие отца и стать защитником Земли в эпической битве за выживание."
 }

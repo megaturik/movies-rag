@@ -1,22 +1,22 @@
 {
-  "name": "The Lost World: Jurassic Park",
+  "name": "Потерянный мир: Парк Юрского периода",
   "year": 1997,
   "runtime": 129,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "1997-05-23",
-  "director": "Steven Spielberg",
+  "director": "Стивен Спилберг",
   "writer": [
-    "Michael Crichton",
-    "David Koepp"
+    "Майкл Крайтон",
+    "Дэвид Копп"
   ],
   "actors": [
-    "Jeff Goldblum",
-    "Julianne Moore",
-    "Pete Postlethwaite"
+    "Джефф Голдблюм",
+    "Джулианна Мур",
+    "Пит Постлтуэйт"
   ],
-  "storyline": "Four years after the failure of Jurassic Park on Isla Nublar, John Hammond reveals to Ian Malcolm that there was another island (\"Site B\") on which dinosaurs were bred before being transported to Isla Nublar. Left alone since the disaster, the dinosaurs have flourished, and Hammond is anxious that the world see them in their \"natural\" environment before they are exploited."
+  "storyline": "Прошло четыре года после трагических событий на острове Исла-Нублар, где был разрушен амбициозный проект по воскрешению динозавров. Миллиардер Джон Хэммонд раскрывает секрет своему знакомому ученому Иэну Малкольму: существует другой остров, известный как Сайт B. Именно там динозавры успешно размножались в естественной среде перед транспортировкой. Без человеческого вмешательства популяция этих древних существ невероятно выросла. Хэммонд мечтает организовать документальную экспедицию, чтобы показать миру динозавров в их первозданной среде обитания, пока недобросовестные корпорации не начали их охоту и эксплуатацию. Малкольм скептически относится к идее, но соглашается присоединиться к команде палеонтологов и фотографов. Однако параллельно на остров прибывает группа наемных охотников, нанятых соперниками Хэммонда, чтобы захватить динозавров живьем для коммерческих целей. Вскоре экспедиция превращается в борьбу за выживание среди свирепых хищников и предательств."
 }

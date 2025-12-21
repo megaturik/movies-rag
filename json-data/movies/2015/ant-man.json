@@ -1,27 +1,27 @@
 {
-  "name": "Ant-Man",
+  "name": "Человек-муравей",
   "year": 2015,
   "runtime": 117,
   "categories": [
-    "action",
-    "adventure",
-    "comedy"
+    "боевик",
+    "приключения",
+    "комедия"
   ],
   "release-date": "2015-07-17",
-  "director": "Payton Reed",
+  "director": "Пейтон Рид",
   "writer": [
-    "Edgar Wright",
-    "Joe Cornish",
-    "Adam McKay",
-    "Paul Rudd",
-    "Stan Lee",
-    "Jack Kirby"
+    "Эдгар Райт",
+    "Джо Корниш",
+    "Адам Маккей",
+    "Пол Радд",
+    "Стэн Ли",
+    "Джек Кирби"
   ],
   "actors": [
-    "Paul Rudd",
-    "Michael Douglas",
-    "Evangeline Lilly",
-    "Corey Stoll"
+    "Пол Радд",
+    "Майкл Дуглас",
+    "Эванджелин Лилли",
+    "Кори Столл"
   ],
-  "storyline": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world."
+  "storyline": "Бывший вор Скотт Лэнг выходит из тюрьмы и пытается наладить жизнь с дочерью, но получает неожиданное предложение от эксцентричного доктора Хэнка Пима. Этот гениальный учёный изобрёл костюм, позволяющий уменьшаться до микроскопических размеров, сохраняя при этом огромную силу и скорость. Скотт должен стать новым Человеком-муравьём, чтобы вместе с Пимом и его дочерью Хоуп совершить дерзкое ограбление корпорации, контролируемой опасным Дарреном Кроссом. Тот разрабатывает свою версию технологии, способную уничтожить мир. Скотт осваивает способности, собирает команду из муравьёв и сражается с жутким Желтым Шмелем, спасая планету в эпичном финале."
 }

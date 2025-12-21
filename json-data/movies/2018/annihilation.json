@@ -1,19 +1,22 @@
 {
-  "name": "Annihilation",
+  "name": "Аннигиляция",
   "year": 2018,
   "runtime": 115,
   "categories": [
-    "adventure",
-    "drama",
-    "horror"
+    "приключения",
+    "драма",
+    "ужасы"
   ],
   "release-date": "2018-02-23",
-  "director": "Alex Garland",
-  "writer": ["Alex Garland", "Jeff VanderMeer"],
-  "actors": [
-    "Natalie Portman",
-    "Jennifer Jason Leigh",
-    "Tessa Thompson"
+  "director": "Алекс Гарленд",
+  "writer": [
+    "Алекс Гарленд",
+    "Джефф ВандерМир"
   ],
-  "storyline":"Melinda Moore is a steadfast, hardworking wife who supports her husband, Robert Gayle, an engineer trying to sell an innovative battery design. A running total/dwindling balance of the proceeds Melinda receives after her mother's death is portrayed as the couple gets in over their heads in debt, which fractures their marriage over time. The film is divided into categories based in the emotional spectrum that Melinda experiences."
+  "actors": [
+    "Натали Портман",
+    "Дженнифер Джейсон Ли",
+    "Тесса Томпсон"
+  ],
+  "storyline": "Мелинда Мур — преданная и трудолюбивая жена, которая всеми силами поддерживает мужа Роберта Гейла, инженера, пытающегося продать инновационный дизайн батареи. Фильм детально показывает динамику средств: от полного наследства после смерти матери Мелинды до их полного истощения. Пара постепенно тонет в долгах, что приводит к глубоким трещинам в браке и эмоциональному разладу. Структура картины разделена на этапы эмоционального спектра героини — от оптимизма и любви к отчаянию, гневу и одиночеству. Через призму финансовых невзгод раскрывается хрупкость семейных уз, где деньги становятся катализатором разрушения, а повседневные заботы перерастают в трагедию."
 }

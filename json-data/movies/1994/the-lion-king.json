@@ -1,19 +1,17 @@
 {
-  "name": "The Lion King",
+  "name": "Король Лев",
   "year": 1994,
   "runtime": 88,
   "categories": [
-    "animated",
-    "musical"
+    "анимационный",
+    "мюзикл"
   ],
   "release-date": "1994-06-15",
-  "director": 
-    [
-      "Roger Allers",
-      "Rob Minkoff"
-    ],
-  "writer":
-  [
+  "director": [
+    "Roger Allers",
+    "Rob Minkoff"
+  ],
+  "writer": [
     "Linda Woolverton",
     "Irene Mecchi",
     "Jonathan Roberts",
@@ -35,6 +33,5 @@
     "Jim Cummings",
     "Madge Sinclair"
   ],
-  "storyline": "The Lion King tells the story of Simba, a young lion who is to succeed his father, Mufasa, as King of the Pride Lands; however, after Simba's uncle Scar (Mufasa's jealous younger brother), murders Mufasa, Simba is manipulated into thinking he was responsible and flees into exile. Upon maturation living with two wastrels, Simba is given some valuable perspective from his childhood friend, Nala, and his shaman, Rafiki, before returning to challenge Scar to end his tyranny and take his place in the Circle of Life as the rightful King."
+  "storyline": "Симба — молодой лев, наследник трона своего отца, мудрого короля Муфасы в Землях Гордости. Однако завистливый дядя Шрам, младший брат Муфасы, плетет коварный заговор: он убивает короля и убеждает племянника в его собственной виновности. Раздавленный горем, Симба бежит в изгнание. Там он взрослеет под опекой беззаботных друзей — сурка Тимона и бородавочника Пумбы, проповедующих философию 'хака́-на матата'. Позже детская подруга Нала находит его и повествует о разрухе в родных землях под властью Шрама. Шаман Рафики помогает Симбе обрести видение отца и внутреннюю силу. Воодушевленный, Симба возвращается, чтобы сразиться с тираном, разоблачить его предательство и занять законное место в Круге Жизни как истинный правитель."
 }
-

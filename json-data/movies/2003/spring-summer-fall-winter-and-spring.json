@@ -1,21 +1,21 @@
 {
-  "name": "Spring, Summer, Fall, Winter and Spring",
+  "name": "Весна, лето, осень, зима… и снова весна",
   "year": 2003,
   "runtime": 103,
   "categories": [
-    "drama",
-    "romance"
+    "драма",
+    "романтика"
   ],
   "release-date": "2003-09-19",
-  "director": "Kim Ki-duk",
-  "writer": "Kim Ki-duk",
+  "director": "Ким Ки-дук",
+  "writer": "Ким Ки-дук",
   "actors": [
-    "Oh Yeong-su",
-    "Kim Ki-duk",
-    "Kim Young-min",
-    "Seo Jae-kyung",
-    "Ha Yeo-jin",
-    "Kim Jong-ho"
+    "О Ён-су",
+    "Ким Ки-дук",
+    "Ким Ён-мин",
+    "Со Джэ-гён",
+    "Ха Ё-джин",
+    "Ким Чон-хо"
   ],
-  "storyline": "The story is about the life of a Buddhist monk as he passes through the seasons of his life, from childhood to old age."
+  "storyline": "В уединённом буддийском монастыре на горном озере старый монах растит своего маленького ученика. Их жизнь неразрывно связана с циклами природы и сезонами. С весны детской невинности и шалостей, через лето юности, первой любви и страсти, осень зрелости, где совершается тяжкий грех, зиму сурового покаяния и самобичевания, до новой весны старческой мудрости и преемственности. Фильм размышляет о карме, бренности бытия, compassion и вечном круге рождения, страдания и просветления в духе дзен-буддизма."
 }

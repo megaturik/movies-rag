@@ -1,21 +1,21 @@
 {
-    "name": "Hobbs & Shaw",
-    "year": 2019,
-    "runtime": 136,
-    "categories": [
-      "action" 
-    ],
-    "release-date": "2019-07-13",
-    "director": "David Leitch",
-    "writer": [
-      "Chris Morgan",
-      "Drew Pearce"
-    ],
-    "actors": [
-      "Dwayne Johnson",
-      "Jason Statham",
-      "Idris Elba",
-      "Vanessa Kirby"
-    ],
-    "storyline": "Brixton Lorr is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lorr from destroying humanity."
-  }
+  "name": "Хоббс и Шоу",
+  "year": 2019,
+  "runtime": 136,
+  "categories": [
+    "боевик"
+  ],
+  "release-date": "2019-07-13",
+  "director": "Дэвид Лейтч",
+  "writer": [
+    "Крис Морган",
+    "Дрю Пирс"
+  ],
+  "actors": [
+    "Дуэйн Джонсон",
+    "Джейсон Стэйтем",
+    "Идрис Эльба",
+    "Ванесса Кирби"
+  ],
+  "storyline": "Брикстон Лорр — кибернетически усиленный суперсолдат, обладающий сверхчеловеческой силой, гениальным интеллектом и смертоносным патогеном, способным уничтожить половину населения Земли. Чтобы остановить эту угрозу, бывшие враги — могучий блюститель закона Люк Хоббс и неуловимый оперативник Декард Шоу — вынуждены забыть обиды и объединиться. Им предстоит жестокая схватка с практически неуязвимым антагонистом, полная трюков, погонь и взрывов. Герои используют грубую силу, хитрость и высокотехнологичное оружие, чтобы спасти человечество от полного уничтожения в этой динамичной и зрелищной истории о командной работе на краю пропасти."
+}

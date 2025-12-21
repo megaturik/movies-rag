@@ -1,34 +1,34 @@
 {
-    "name" : "John Wick Parabellum",
-    "year" : 2019,
-    "runtime" : 131,
-    "categories" : [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
-    "release-date" : "2019-05-17",
-    "director" : "Chad Stahelski",
-    "writer" : [
-      "Derek Kolstad",
-      "Shay Hatten",
-      "Chris Collins",
-      "Marc Abrams"
-    ],
-    "actors" : [
-      "Keanu Reeves",
-      "Halle Berry",
-      "Laurence Fishburne",
-      "Mark Dacascos",
-      "Asia Kate Dillon",
-      "Lance Reddick",
-      "Anjelica Huston",
-      "Ian McShane",
-      "Susan Blommaert",
-      "Jason Mantzoukas",
-      "Yayan Ruhian",
-      "Saïd Taghmaoui",
-      "Tiler Peck"
-    ],
-    "storyline" : "Super-assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere."
+  "name": "Джон Уик 3: Заживо сгоревший",
+  "year": 2019,
+  "runtime": 131,
+  "categories": [
+    "Боевик",
+    "Триллер",
+    "Криминал"
+  ],
+  "release-date": "2019-05-17",
+  "director": "Чад Стагельски",
+  "writer": [
+    "Дерек Колстад",
+    "Шей Хаттен",
+    "Крис Коллинз",
+    "Марк Абрамс"
+  ],
+  "actors": [
+    "Киану Ривз",
+    "Хэлли Берри",
+    "Лоуренс Фишбёрн",
+    "Марк Дакаскос",
+    "Азия Кейт Диллон",
+    "Лэнс Реддик",
+    "Анджелика Хьюстон",
+    "Иэн Макшейн",
+    "Сьюзан Бломмарт",
+    "Джейсон Манцукас",
+    "Яян Рухиан",
+    "Саид Тагмауи",
+    "Тайлер Пек"
+  ],
+  "storyline": "Легендарный наёмный убийца вынужден скрываться после убийства одного из членов могущественной международной гильдии ассасинов. На его голову назначена цена в 14 миллионов долларов, превратившая его в главную цель для киллеров со всего мира. Преследуемый безжалостными охотниками, он использует свои выдающиеся боевые навыки, обширные связи в подпольном мире и хитроумные тактики, чтобы выжить. В жестокой иерархии, где честь и преданность решают судьбу, герой сталкивается с новыми угрозами, заключает неожиданные альянсы и борется за своё место в этой опасной паутине. Напряжённые погони, изощрённые дуэли и эпические сражения ждут впереди в этой безжалостной войне за выживание."
 }

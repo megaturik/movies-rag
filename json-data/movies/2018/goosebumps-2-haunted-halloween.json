@@ -1,24 +1,24 @@
 {
-    "name": "Goosebumps 2: Haunted Halloween",
-    "year": 2018,
-    "runtime": 100,
-    "categories": [
-      "adventure",
-      "comedy",
-      "family"
-    ],
-    "release-date": "2018-10-12",
-    "director": "Ari Sandel",
-    "writer": [
-        "Rob Lieber",
-        "Darren Lemke",
-        "R.L. Stine"
-    ],
-    "actors": [
-      "Jack Black",
-      "Wendi McLendon-Covey",
-      "Madison Iseman",
-      "Jeremy Ray Taylor"
-    ],
-    "storyline":"Halloween comes to life in a comedy adventure based on R.L. Stine's 400-million-selling series of books."
+  "name": "Мурашки 2: Хэллоуин",
+  "year": 2018,
+  "runtime": 100,
+  "categories": [
+    "приключения",
+    "комедия",
+    "семейный"
+  ],
+  "release-date": "2018-10-12",
+  "director": "Ari Sandel",
+  "writer": [
+    "Rob Lieber",
+    "Darren Lemke",
+    "R.L. Stine"
+  ],
+  "actors": [
+    "Jack Black",
+    "Wendi McLendon-Covey",
+    "Madison Iseman",
+    "Jeremy Ray Taylor"
+  ],
+  "storyline": "В канун Хэллоуина трое друзей-подростков — Сонни, Сэм и Чемпион — решают оживить манекен злой ведьмы с помощью странного устройства, найденного в заброшенном доме. Но вместо магии Хэллоуина они случайно высвобождают зловещего писателя, который выпускает на волю армию монстров из своих кошмарных историй. Город заполоняют гигантские червеобразные слизни, снежный монстр-абоминог, зомби, гигантский praying mantis и другие ужасы. Друзьям приходится сражаться с ордой чудовищ, используя смекалку, импровизированное оружие и командную работу. Они проникают в дом писателя, чтобы найти способ запереть монстров обратно в книги, переживая кучу смешных и страшных приключений. В итоге дружба и отвага помогают им победить хаос и спасти всех от кошмарного Хэллоуина."
 }

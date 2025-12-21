@@ -1,39 +1,39 @@
 {
-  "name": "The Godfather: Part III",
+  "name": "Крёстный отец 3",
   "year": 1990,
   "runtime": 162,
   "categories": [
-    "action",
-    "crime",
-    "drama"
+    "боевик",
+    "криминал",
+    "драма"
   ],
   "release-date": "1990-12-20",
-  "director": "Francis Ford Coppola",
-  "writer": [
-    "Francis Ford Coppola",
-    "Mario Puzo"
+  "director": "Фрэнсис Форд Коппола",
+  "writers": [
+    "Фрэнсис Форд Коппола",
+    "Марио Пузо"
   ],
   "actors": [
-    "Al Pacino",
-    "Andy García",
-    "Diane Keaton",
-    "Talia Shire",
-    "Sofia Coppola",
-    "Eli Wallach",
-    "George Hamilton",
-    "Joe Mantegna",
-    "Richard Bright",
-    "Bridget Fonda",
-    "Raf Vallone",
-    "Franc D'Ambrosio",
-    "Donal Donnelly",
-    "Helmut Berger",
-    "Don Novello",
-    "John Savage",
-    "Mario Donatone",
-    "Vittorio Duse",
-    "Enzo Robutti",
-    "Al Martino"
+    "Аль Пачино",
+    "Энди Гарсия",
+    "Диана Китон",
+    "Талия Шайр",
+    "София Коппола",
+    "Илай Уоллах",
+    "Джордж Хэмилтон",
+    "Джо Мантенья",
+    "Ричард Брайт",
+    "Бриджит Фонда",
+    "Раф Валлоне",
+    "Фрэнк Д'Амброзио",
+    "Донал Донован",
+    "Хельмут Бергер",
+    "Дон Новелло",
+    "Джон Сэвидж",
+    "Марио Донатоне",
+    "Витторио Дузе",
+    "Энцо Робутти",
+    "Аль Мартино"
   ],
-  "storyline": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing."
+  "storyline": "1979 год. Стареющий дон Майкл Корлеоне стремится легализовать свою империю в Нью-Йорке и Италии, очистив её от криминального прошлого. Мучаясь угрызениями совести, он пытается искупить грехи, вводя в дело племянника Винсента Мансини, сына Сонни. Винцент импульсивен и агрессивен, что провоцирует конфликты. Майкл ввязывается в рискованные сделки с Ватиканом, сталкиваясь с интригами конкурентов, предательствами и угрозами семье. Борьба за легитимность оборачивается трагедией."
 }

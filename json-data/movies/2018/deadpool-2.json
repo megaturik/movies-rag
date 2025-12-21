@@ -1,23 +1,23 @@
 {
-  "name": "Deadpool 2",
+  "name": "Дэдпул 2",
   "year": 2018,
   "runtime": 119,
   "categories": [
-    "action",
-    "adventure",
-    "comedy"
+    "боевик",
+    "приключения",
+    "комедия"
   ],
   "release-date": "2018-05-10",
-  "director": "David Leitch",
+  "director": "Дэвид Лейтч",
   "writer": [
-    "Rhett Reese",
-    "Paul Wernick",
-    "Ryan Reynolds"
+    "Ретт Рис",
+    "Пол Верник",
+    "Райан Рейнольдс"
   ],
   "actors": [
-    "Ryan Reynolds",
-    "Josh Brolin",
-    "Morena Baccarin"
+    "Райан Рейнольдс",
+    "Джош Бролин",
+    "Морена Баккарин"
   ],
-  "storyline": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable."
+  "storyline": "Грубый мутант-наемник Уэйд Уилсон с неудержимым чувством юмора и регенеративными способностями собирает команду эксцентричных мутантов-отщепенцев. Их миссия — защитить юного Рассела, обладающего мощными телекинетическими силами, от Кейбла, грозного киборга из постапокалиптического будущего. Кейбл вернулся в настоящее, чтобы устранить мальчика и предотвратить катастрофу. В вихре безумных сражений, абсурдных шуток и неожиданных альянсов Уэйд рискует всем, сталкиваясь с жестокими врагами, личными демонами и нелепыми ситуациями, доказывая силу цинизма, дружбы и отваги."
 }

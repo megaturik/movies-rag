@@ -1,23 +1,23 @@
 {
-  "name": "Percy Jackson: Sea of Monsters",
+  "name": "Перси Джексон и Море чудовищ",
   "year": 2013,
   "runtime": 106,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2013-08-07",
-  "director": "Thor Freudenthal",
-  "writer": [
-    "Marc Guggenheim",
-    "Rick Riordan"
+  "director": "Тор Фройдендаль",
+  "writers": [
+    "Марк Гуггенхайм",
+    "Рик Риордан"
   ],
   "actors": [
-    "Logan Lerman",
-    "Alexandra Daddario",
-    "Brandon T. Jackson",
-    "Leven Rambin"
+    "Логан Лерман",
+    "Александра Даддарио",
+    "Брэндон Т. Джексон",
+    "Ливен Рэмбин"
   ],
-  "storyline": "In this retelling of Rick Riordans book, The Sea of Monsters, Percy Jackson, accompanied by his friends Annabeth Chase, Clarisse La Rue and Tyson, his half brother, goes on a journey to the Sea of Monsters to retrieve the Golden Fleece and save Camp Half-Blood."
+  "storyline": "Лагерь Полукровок в опасности: его защитный барьер разрушен, монстры вторглись на территорию. Перси Джексон узнаёт, что спасение кроется в легендарном Золотом Руне, способном исцелить древнее дерево и восстановить магию. Вместе с друзьями — умной Эннбет Чейз, воительницей Кларисс Ла Рю и циклопом Тайсоном, своим сводным братом — он отправляется в рискованное путешествие через Атлантику в загадочное Море чудовищ, известное как Бермудский треугольник. По пути герои сражаются с гигантскими мифическими существами, вроде гидры и сирен, разгадывают древние тайны, сталкиваются с предательством и проверяют свою дружбу на прочность. Смогут ли они добыть Руно и спасти лагерь от гибели?"
 }

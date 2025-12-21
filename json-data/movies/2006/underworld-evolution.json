@@ -1,18 +1,18 @@
 {
-  "name": "Underworld: Evolution",
+  "name": "Другой мир: Эволюция",
   "year": 2006,
   "runtime": 106,
   "categories": [
-    "horror",
-    "action",
-    "sci-fi",
-    "fantasy",
-    "thriller",
-    "drama",
-    "adventure"
+    "ужасы",
+    "боевик",
+    "фантастика",
+    "фэнтези",
+    "триллер",
+    "драма",
+    "приключения"
   ],
   "release-date": "2006-01-12",
-  "director": "Len Wiseman",
+  "director": "Лен Вайзман",
   "writer": [
     "Kevin Grevioux",
     "Danny McBride",
@@ -31,5 +31,5 @@
     "Zita Görög",
     "Brian Steele"
   ],
-  "storyline": "Seductive vampire Selene (Kate Beckinsale) and renegade werewolf Michael (Scott Speedman) love one another, but find themselves abhorred by the members of their own clans. Seeking clues that might provide a key to healing the rift between their species, they are hounded by Marcus (Tony Curran), an ancient creature obsessed with perpetuating the war between them. Continually beset by enemies from both sides, the lovers explore their pasts as they seek their destiny."
+  "storyline": "Соблазнительная вампирша Селин и ренегат-оборотень Майкл, чья любовь противоречит многовековой вражде кланов, бегут от преследователей. Их союз рождает надежду на примирение рас, но пробуждает древние тайны. Маркус, один из первых бессмертных, одержим продолжением войны и охотится за ними, раскрывая шокирующие секреты происхождения вампиров и ликанов. Неустанно атакуемые врагами с обеих сторон, влюбленные погружаются в свое прошлое, сражаются в эпичных битвах и ищут путь к спасению, эволюционируя в борьбе за судьбу миров."
 }

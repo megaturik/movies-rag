@@ -1,16 +1,21 @@
 {
-  "name": "The Strangers: Prey at Night",
+  "name": "Странники: Ночь охоты",
   "year": 2018,
   "runtime": 85,
-  "categories": ["horror"],
-  "release-date": "2019-03-09",
-  "director": "Johannes Roberts",
-  "writer": ["Bryan Bertino", "Ben Ketai"],
-  "actors": [
-    "Christina Hendricks",
-    "Martin Henderson",
-    "Bailee Madison",
-    "Lewis Pullman"
+  "categories": [
+    "ужасы"
   ],
-  "storyline": "A family's road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relatives and find it mysteriously deserted. Under the cover of darkness, three masked psychopaths pay them a visit to test the family's every limit as they struggle to survive."
+  "release-date": "2019-03-09",
+  "director": "Йоханнес Робертс",
+  "writer": [
+    "Брайан Бертино",
+    "Бен Кетай"
+  ],
+  "actors": [
+    "Кристина Хендрикс",
+    "Мартин Хендерсон",
+    "Бэйли Мэдисон",
+    "Льюис Пуллман"
+  ],
+  "storyline": "Семья отправляется в автопутешествие, которое оборачивается кошмаром, когда они прибывают в отдалённый парк мобильных домов, чтобы остановиться у родственников. Место оказывается загадочно пустым и заброшенным. Под покровом ночи на них нападают трое психопатов в масках, превращая отдых в смертельную игру. Родители и подростки дети вынуждены использовать смекалку и все подручные средства, чтобы выстоять против безжалостных убийц. Каждый шаг — это борьба за выживание в полной темноте, где страх и напряжение достигают предела, а помощь кажется недостижимой."
 }

@@ -1,24 +1,24 @@
 {
-  "name": "Mad Max",
+  "name": "Безумный Макс",
   "year": 1979,
   "runtime": 93,
   "categories": [
-    "action",
-    "dystopian"
+    "боевик",
+    "антиутопия"
   ],
   "release-date": "1979-04-12",
-  "director": "George Miller",
-  "writer": [
-    "George Miller",
-    "James McCausland"
+  "director": "Джордж Миллер",
+  "writers": [
+    "Джордж Миллер",
+    "Джеймс Маккослэнд"
   ],
   "actors": [
-    "Mel Gibson",
-    "Joanne Samuel",
-    "Hugh Keays-Byrne",
-    "Steve Bisley",
-    "Tim Burns",
-    "Roger Ward"
+    "Мел Гибсон",
+    "Джоан Самуэль",
+    "Хью Киз-Байрн",
+    "Стив Бисли",
+    "Тим Бёрнс",
+    "Роджер Уорд"
   ],
-  "storyline": "The film presents a tale of societal collapse, murder, and vengeance set in a future Australia, in which a vengeful policeman becomes embroiled in a feud with a vicious motorcycle gang."
+  "storyline": "В недалеком будущем Австралия охвачена анархией из-за острого дефицита топлива, что привело к полному краху общества и взлету преступности. Последние бастионы закона — элитные полицейские патрули на сверхмощных автомобилях. Главный герой, опытный офицер полиции, наслаждается семейным счастьем, но все меняется после жестокой атаки психопатической мотобанды во главе с садистом. Потеряв напарника и близких в трагедии, разъяренный страж порядка оставляет службу и устремляется в дикую погоню за возмездием. Фильм поражает динамичными погонями по пустынным дорогам, взрывами и атмосферой неизбежного апокалипсиса."
 }

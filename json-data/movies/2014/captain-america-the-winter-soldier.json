@@ -1,27 +1,27 @@
 {
-  "name": "Captain America: The Winter Soldier",
+  "name": "Первый мститель: Другая война",
   "year": 2014,
   "runtime": 136,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "2014-04-04",
   "director": [
-    "Anthony Russo",
-    "Joe Russo"
+    "Энтони Руссо",
+    "Джо Руссо"
   ],
-  "writer": [
-    "Christopher Markus",
-    "Stephen McFeely",
-    "Jack Kirby",
-    "Joe Simon"
+  "writers": [
+    "Кристофер Маркус",
+    "Стивен МакФили",
+    "Джек Кирби",
+    "Джо Саймон"
   ],
   "actors": [
-    "Chris Evans",
-    "Scarlett Johansson",
-    "Samuel L. Jackson"
+    "Крис Эванс",
+    "Скарлетт Йоханссон",
+    "Самуэл Л. Джексон"
   ],
-  "storyline": "For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies. When Rogers acts on Fury's warning to trust no one there, he is branded as a traitor by the organization. Now a fugitive, Captain America must get to the bottom of this deadly mystery with the help of the Black Widow and his new friend, The Falcon. However, the battle will be costly for the Sentinel of Liberty, with Rogers finding enemies where he least expects them while learning that the Winter Soldier looks disturbingly familiar."
+  "storyline": "Для Стива Роджерса пробуждение после десятилетий анабиоза — это не только погружение в современную поп-культуру, но и столкновение с миром скрытых угроз и сложных моральных выборов. Старомодный идеалист из прошлого вынужден адаптироваться к новой реальности. Ситуация накаляется, когда директора Ника Фьюри убивает загадочный ассасин Зимний Солдат. Перед смертью Фьюри успевает предупредить: Щ.И.Т. пронизан предателями. Решив никому не верить, Роджерс сам объявляется врагом организации и становится беглецом. Вместе с Черной Вдовой и новым союзником Соколом он расследует смертельный заговор, раскрывая предательство в самых неожиданных местах. Кульминацией становится столкновение с Зимним Солдатом, чьё лицо вызывает у героя пугающее ощущение дежавю. Битва за истину требует огромных жертв и меняет всё."
 }

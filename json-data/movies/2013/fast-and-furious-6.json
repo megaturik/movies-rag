@@ -1,29 +1,29 @@
 {
-  "name": "Fast & Furious 6",
+  "name": "Форсаж 6",
   "year": 2013,
   "runtime": 130,
   "categories": [
-    "action",
-    "crime",
-    "thriller"
+    "боевик",
+    "криминал",
+    "триллер"
   ],
   "release-date": "2013-05-24",
-  "director": "Justin Lin",
+  "director": "Джастин Лин",
   "writer": [
-    "Chris Morgan"
+    "Крис Морган"
   ],
   "actors": [
-    "Vin Diesel",
-    "Paul Walker",
-    "Dwayne Johnson",
-    "Michelle Rodriguez",
-    "Jordana Brewster",
-    "Tyrese Gibson",
-    "Chris Ludacris Bridges",
-    "Sung Kang",
-    "Luke Evans",
-    "Gina Carano",
-    "John Ortiz"
+    "Вин Дизель",
+    "Пол Уокер",
+    "Дуэйн Джонсон",
+    "Мишель Родригес",
+    "Джорданна Брюстер",
+    "Тайриз Гибсон",
+    "Крис «Ludacris» Бриджес",
+    "Сунг Канг",
+    "Люк Эванс",
+    "Джина Карано",
+    "Джон Ортис"
   ],
-  "storyline": "Agent Hobbs cuts a deal with Dominic to clear his crew's all criminal records and in return catch a team of mercenaries. During the journey, Dominic unexpectedly meets his presumed-dead lover Letty who is a part of the group."
+  "storyline": "Агент Люк Хоббс заключает сделку с Домиником Торето: в обмен на полное снятие уголовных обвинений с его команды они должны поймать банду безжалостных наемников под предводительством экс-пилота ВВС Оуэна Шоу. Команда отправляется в Лондон, где сталкивается с высокоскоростными погонями на тюнингованных машинах, хитроумными ловушками и ожесточенными боями. Неожиданно Дом узнает, что его бывшая возлюбленная Летти, погибшая несколько лет назад в автокатастрофе, жива и работает на противника. Это потрясающее открытие разжигает в нём надежду на воссоединение, но усложняет миссию. Друзья рискуют жизнью в эпичных трюках: от парящего танка до взрывов на шоссе. Верность, предательство и жажда мести сплетаются в напряжённом противостоянии, где цена ошибки — смерть."
 }

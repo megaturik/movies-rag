@@ -1,34 +1,34 @@
 {
-    "name": "Shirley",
-    "year": 2019,
-    "runtime": 107,
-    "categories": [
-      "drama",
-      "biography",
-      "thriller"
-    ],
-    "release-date": "2019-07-09",
-    "director": "Josephine Decker", 
-    "writer": [ 
-      "Sarah Gubbins",
-      "Susan Scarf Merrell"
-    ],
-    "actors": [
-      "Elisabeth Moss ",
-      "Odessa Young ",
-      "Michael Stuhlbarg ",
-      "Logan Lerman ",
-      "Victoria Pedretti",
-      "Robert Wuhl ",
-      " Paul O'Brien ",
-      "Orlagh Cassidy ",
-      "Bisserat Tseggai ",
-      "Allen McCullough ",
-      "Tony Manna ",
-      "Molly Fahey ",
-      "Edward O'Blenis",
-      "Ryan Spahn ",
-      "Vincent McCauley "
-    ],
-    "storyline": "As renowned for her morose nature as she is for her horror fiction, writer Shirley Jackson (Elizabeth Moss) is crafting yet another masterpiece when the arrival of newlyweds Fred and Rose disrupt her creative process and marriage to literary critic - and philandering professor - Stanley Hyman (Michael Stuhlbarg). As Stanley spars to maintain academic dominance over his would-be protégé Fred, Rose attempts to dampen her own ambitions and adjust to married life while living under the roof of their fiery intellectual hosts with quicksilver loyalties and myriad neuroses. When the motives of Shirley's literary muse prove elusive, Rose's curiosity and trusting nature make her tender prey for a brilliant author whose only allegiance is to her work."
+  "name": "Ширли",
+  "year": 2019,
+  "runtime": 107,
+  "categories": [
+    "драма",
+    "биография",
+    "триллер"
+  ],
+  "release-date": "2019-07-09",
+  "director": "Джозефин Декер",
+  "writer": [
+    "Сара Габбинс",
+    "Сьюзан Скарф Меррелл"
+  ],
+  "actors": [
+    "Элизабет Мосс",
+    "Одесса Янг",
+    "Майкл Стюльбарг",
+    "Логан Лерман",
+    "Виктория Педретти",
+    "Роберт Вул",
+    "Пол О'Брайен",
+    "Орла Кэссиди",
+    "Биссэрат Цеггай",
+    "Аллен Маккаллоу",
+    "Тони Манна",
+    "Молли Фахей",
+    "Эдвард О'Бленис",
+    "Райан Спан",
+    "Винсент Макколи"
+  ],
+  "storyline": "Писательница, не менее известная своим мрачным характером, чем хоррор-произведениями, работает над новым шедевром. Прибытие молодых супругов Фреда и Роуз нарушает её творческий процесс и брак с мужем — литературным критиком и ветреным профессором Стэнли Хайманом. Стэнли борется за академическое превосходство над протеже Фредом, а Роуз пытается подавить амбиции, привыкая к замужеству в доме вспыльчивых интеллектуалов с переменчивыми лояльностями и множеством неврозов. Когда музу ускользают мотивы, доверчивая Роуз становится лёгкой добычей для автора, преданного только работе. Напряжение растёт, раскрывая тёмные грани таланта, одержимости и человеческих слабостей."
 }

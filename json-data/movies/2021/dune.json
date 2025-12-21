@@ -1,18 +1,18 @@
 {
-    "name": "Dune",
-    "year": 2021,
-    "runtime": 155,
-    "categories": [
-        "action",
-        "adventure",
-        "drama"
-    ],
-    "release-date": "2021-10-22",
-    "director": "Denis Villeneuve",
-    "actors": [
-        "Timothée Chalamet",
-        "Rebecca Ferguson",
-        "Zendaya"
-    ],
-    "storyline": "A mythic and emotionally charged hero's journey, \"Dune\" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive."
+  "name": "Дюна",
+  "year": 2021,
+  "runtime": 155,
+  "categories": [
+    "боевик",
+    "приключения",
+    "драма"
+  ],
+  "release-date": "2021-10-22",
+  "director": "Дени Вильнёв",
+  "actors": [
+    "Тимоти Шаламе",
+    "Ребекка Фергюсон",
+    "Зендая"
+  ],
+  "storyline": "Мифическое и эмоционально насыщенное путешествие героя повествует о Поле Атрейдесе, блестящем и одарённом молодом человеке, рождённом для великой судьбы, которую он сам не в силах осознать. Ему предстоит отправиться на самую опасную планету Вселенной, чтобы спасти будущее своей семьи и народа. Зловещие силы разгораются в яростной борьбе за контроль над уникальными запасами планеты самого ценного ресурса в мироздании — вещества, способного разжечь величайший потенциал человечества и изменить ход истории. В этом мире предательства и интриг выживают лишь те, кто сумеет покорить свой страх и обрести внутреннюю силу. Полу предстоит пройти через испытания, полные опасностей, предательств и открытий, чтобы принять свою истинную роль в грядущей судьбоносной битве."
 }

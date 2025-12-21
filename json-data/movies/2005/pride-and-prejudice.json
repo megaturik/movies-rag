@@ -1,22 +1,22 @@
 {
-    "name": "Pride & Prejudice",
-    "year": 2005,
-    "runtime": 129 ,
-    "categories": [
-        "drama",
-        "romance"
-    ],
-    "release-date": "2005-11-23",
-    "director": "Joe Wright",
-    "writer": [
-        "Jane Austen",
-        "Deborah Moggach"
-    ],
-    "actors": [
-        "Keira Knightley",
-        "Matthew Macfadyen",
-        "Brenda Blethyn",
-        "Donald Sutherland"
-    ],
-    "storyline": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?"
+  "name": "Гордость и предубеждение",
+  "year": 2005,
+  "runtime": 129,
+  "categories": [
+    "драма",
+    "романтика"
+  ],
+  "release-date": "2005-11-23",
+  "director": "Джо Райт",
+  "writers": [
+    "Джейн Остин",
+    "Дебора Моггак"
+  ],
+  "actors": [
+    "Кира Найтли",
+    "Мэттью Макфэдиен",
+    "Бренда Блетин",
+    "Дональд Сазерленд"
+  ],
+  "storyline": "В Англии начала XIX века семья Беннетов с пятью незамужними дочерьми сталкивается с угрозой: их поместье по закону перейдёт к дальнему мужскому родственнику. Мать семейства миссис Беннет лихорадочно ищет богатых женихов для девочек. В соседний Netherfield прибывает обаятельный и обеспеченный мистер Бингли вместе с загадочным другом — гордым и аристократичным мистером Дарси. Духовитая и независимая Элизабет Беннет сразу испытывает антипатию к надменному Дарси, а он презирает её за низкое происхождение. Однако под внешней холодностью Дарси зреет неожиданная страсть. Смогут ли герои преодолеть социальные барьеры, предрассудки и собственную гордость, чтобы обрести настоящее счастье?"
 }

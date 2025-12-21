@@ -1,24 +1,24 @@
 {
-  "name": "50 First Dates",
+  "name": "50 первых поцелуев",
   "year": 2004,
   "runtime": 99,
   "categories": [
-    "comedy",
-    "drama",
-    "romance"
+    "комедия",
+    "драма",
+    "романтика"
   ],
   "release-date": "2004-02-13",
-  "director": "Peter Segal",
-  "writer": [
-    "George Wing"
+  "director": "Питер Сигал",
+  "writers": [
+    "Джордж Уинг"
   ],
   "actors": [
-    "Adam Sandler",
-    "Drew Barrymore",
-    "Rob Schneider",
-    "Sean Astin",
-    "Blake Clark",
-    "Dan Aykroyd"
+    "Адам Сэндлер",
+    "Дрю Бэрримор",
+    "Роб Шнайдер",
+    "Шон Эстин",
+    "Блейк Кларк",
+    "Дэн Эйкройд"
   ],
-  "description": "Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the next day."
+  "storyline": "Генри Рот — ветеринар на Гавайях, мастер лёгких романов без обязательств. Однажды он встречает прекрасную Люси Уитмор, и между ними мгновенно возникает взаимопонимание. Они проводят незабываемый вечер, но наутро Люси его не узнаёт. Оказывается, после трагической аварии у девушки стёрта кратковременная память: каждый день для неё начинается заново, без воспоминаний о прошлом. Генри решает не сдаваться и каждый день заново завоёвывает её сердце, придумывая хитроумные способы напомнить о себе. Он создаёт видео с их историей, привлекает друзей и даже меняет свою жизнь ради неё. Их отношения полны юмора, нежности и испытаний, где любовь борется с забвением, а Генри учится ценить настоящее и будущее."
 }

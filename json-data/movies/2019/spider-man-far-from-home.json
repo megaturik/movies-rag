@@ -1,35 +1,35 @@
 {
-    "name": "Spider-Man: Far from Home",
-    "year": 2019,
-    "runtime": 129,
-    "categories": [
-      "action",
-      "adventure",
-      "sci-fi"
-    ],
-    "release-date": "2019-07-02",
-    "director": "Jon Watts",
-    "writer": [
-      "Chris McKenna",
-      "Erik Sommers",
-      "Stan Lee",
-      "Steve Dikto"
-    ],
-    "actors": [
-      "Tom Holland",
-      "Samuel L.Jackson",
-      "Jake Gyllenhaal",
-      "Marisa Tomei",
-      "Jon Favreau",
-      "Zendaya",
-      "Jacob Batalon",
-      "Tony Revolori",
-      "Angourie Rice",
-      "Remy Hii",
-      "Martin Starr",
-      "Jorge Lendeborg Jr.",
-      "Cobie Smulders",
-      "Numan Acar"
-    ],
-    "storyline": "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent."
-  }
+  "name": "Человек-паук: Вдали от дома",
+  "year": 2019,
+  "runtime": 129,
+  "categories": [
+    "боевик",
+    "приключения",
+    "фантастика"
+  ],
+  "release-date": "2019-07-02",
+  "director": "Джон Уоттс",
+  "writer": [
+    "Крис Маккенна",
+    "Эрик Соммерс",
+    "Стэн Ли",
+    "Стив Дитко"
+  ],
+  "actors": [
+    "Том Холланд",
+    "Самуэль Л. Джексон",
+    "Джейк Джилленхол",
+    "Мариса Томей",
+    "Джон Фавро",
+    "Зендая",
+    "Джейкоб Баталон",
+    "Тони Револори",
+    "Ангусури Райс",
+    "Реми Хии",
+    "Мартин Старр",
+    "Хорхе Лендеборг мл.",
+    "Коби Смолдерс",
+    "Нумен Акар"
+  ],
+  "storyline": "Дружелюбный соседский Супергерой решает присоединиться к своим лучшим друзьям Неду, МДж и остальной школьной компании в долгожданном европейском отпуске. Питер Паркер мечтает ненадолго забыть о супергеройских обязанностях, насладиться путешествиями по живописным городам и разобраться в личных чувствах. Однако идиллия быстро заканчивается: Ник Фьюри неожиданно связывается с ним и просит помощи в расследовании серии загадочных атак могучих элементальных существ. Эти таинственные монстры — огненный, водный, земной и воздушный — сеют хаос и разрушения по всему континенту, угрожая миллионам жизней. Питеру приходится неохотно вернуться к делу, балансируя между отдыхом, дружбой, первой любовью и глобальной угрозой, раскрывая заговор, который изменит его взгляд на героизм."
+}

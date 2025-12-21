@@ -1,26 +1,26 @@
 {
-  "name": "The Dark Tower",
+  "name": "Тёмная башня",
   "year": 2017,
   "runtime": 95,
   "categories": [
-    "sci-fi",
-    "thriller",
-    "fantasy"
+    "фантастика",
+    "триллер",
+    "фэнтези"
   ],
   "release-date": "2017-08-18",
-  "director": "Nikolaj Arcel",
+  "director": "Николай Арцел",
   "writer": [
-    "Akiva Goldsman",
-    "Nikolaj Arcel",
-    "Jeff Pinkner",
-    "Anders Thomas Jensen"
+    "Акива Голдсман",
+    "Николай Арцел",
+    "Джефф Пинкнер",
+    "Андерс Томас Дженсен"
   ],
   "actors": [
-    "Idris Elba",
-    "Matthew McConaughey",
-    "Tom Taylor",
-    "Abbey Lee Kershaw",
-    "Katheryn Winnick"
+    "Идрис Эльба",
+    "Мэттью Макконахи",
+    "Том Тейлор",
+    "Эбби Ли Кершоу",
+    "Кэтрин Винник"
   ],
-  "storyline": "Roland Deschain (Idris Elba), the last Gunslinger, is locked in an eternal battle with Walter O'Dim (Matthew McConaughey), also known as the Man in Black. The Gunslinger must prevent the Man in Black from toppling the Dark Tower, the key that holds the universe together. With the fate of worlds at stake, two men collide in the ultimate battle between good and evil."
+  "storyline": "Роланд Дешейн (Идрис Эльба), последний Стрелок, вовлечён в вечную битву с Уолтером О’Димом (Мэттью Макконахи), известным также как Человек в Чёрном. Стрелок должен помешать Человеку в Чёрном разрушить могучую Башню — единственный оплот, который удерживает миры воедино и предотвращает надвигающийся хаос. В постапокалиптическом мире Мид-мира, где магия соседствует с руинами древних технологий, Роланд преследует врага через выжженные пустоши и опасные земли. Ему помогает мальчик Джейк Чемберс из нашего мира, обладающий пророческими видениями разрушения. На кону судьба бесчисленных измерений и реальностей. Два заклятых противника сходятся в эпической схватке добра и зла, где цена поражения — полный конец мироздания."
 }

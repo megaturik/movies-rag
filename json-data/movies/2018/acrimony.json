@@ -1,27 +1,27 @@
 {
-  "name": "Acrimony",
+  "name": "Гнев",
   "year": 2018,
   "runtime": 120,
   "categories": [
-    "drama",
-    "family",
-    "crime"
+    "драма",
+    "семейный",
+    "криминал"
   ],
   "release-date": "2018-03-30",
-  "director": "Tyler Perry",
+  "director": "Тайлер Перри",
   "writer": [
-    "Tyler Perry"
+    "Тайлер Перри"
   ],
   "actors": [
-    "Taraji P. Henson",
-    "Lyriq Bent",
-    "Crystle Stewart",
-    "Jazmyn Simon",
-    "Ptosha Storey",
-    "Danielle Nicolet",
-    "Nelson Estevez",
-    "Antonio Madison",
-    "Ajiona Alexus"
+    "Тариджи П. Хенсон",
+    "Лирик Бент",
+    "Кристл Стюарт",
+    "Джазмин Саймон",
+    "Птоша Стори",
+    "Даниэль Николет",
+    "Нельсон Эстебес",
+    "Антонио Мэдисон",
+    "Аджоина Алексис"
   ],
-  "storyline": "Melinda Moore is a steadfast, hardworking wife who supports her husband, Robert Gayle, an engineer trying to sell an innovative battery design. A running total/dwindling balance of the proceeds Melinda receives after her mother's death is portrayed as the couple gets in over their heads in debt, which fractures their marriage over time. The film is divided into categories based in the emotional spectrum that Melinda experiences."
+  "storyline": "Мелинда Мур — преданная и трудолюбивая жена, которая всеми силами поддерживает мужа Роберта Гейла, инженера, стремящегося продать инновационный дизайн батареи. После смерти матери она получает наследство, показанное как постепенно тающий баланс средств, пока пара не тонет в долгах. Это разрушает их брак. Фильм разделён на этапы эмоционального спектра Мелинды: от любви и надежды через разочарование и боль к ярости и предательству. История раскрывает цену слепой преданности, когда амбиции одного человека приводят к трагедии для обоих, подчёркивая темы доверия, жертвы и мести в семейных отношениях."
 }

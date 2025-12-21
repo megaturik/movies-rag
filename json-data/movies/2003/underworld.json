@@ -1,19 +1,19 @@
 {
-  "name": "Underworld",
+  "name": "Другой мир",
   "year": 2003,
   "runtime": 134,
   "categories": [
-    "horror",
-    "action",
-    "sci-fi",
-    "fantasy",
-    "thriller",
-    "drama",
-    "adventure"
+    "ужасы",
+    "боевик",
+    "фантастика",
+    "фэнтези",
+    "триллер",
+    "драма",
+    "приключения"
   ],
   "release-date": "2003-09-19",
   "director": "Len Wiseman",
-  "writer": [
+  "writers": [
     "Kevin Grevioux",
     "Danny McBride",
     "Robert Orr",
@@ -29,5 +29,5 @@
     "Zita Görög",
     "Scott McElroy"
   ],
-  "storyline": "Under cover of night, vampires engage in an age-old battle with their sworn enemies, the Lycans, a clan of violent werewolves. Selene (Kate Beckinsale), a vampire orphaned in the wake of a bloody Lycan attack, works for the vampire clan as a trained killer. When the Lycans take a mysterious interest in Michael Corvin (Scott Speedman), an exceptional mortal doctor, Selene struggles to save him from Lucian (Michael Sheen), a ruthless Lycan leader hellbent on ending the vampire bloodline."
+  "storyline": "Под покровом ночи вампиры ведут многовековую войну со своими заклятыми врагами — ликанами, кланом свирепых оборотней, чьи схватки окрашивают улицы в кровь. Селин (Kate Beckinsale), вампирша, осиротевшая после жестокого нападения ликанов на её семью, теперь служит клану вампиров в роли элитной убийцы, мастерски владеющей оружием и тактикой. Её спокойная жизнь рушится, когда ликане внезапно проявляют загадочный интерес к Майклу Корвину (Scott Speedman), талантливому смертному врачу беззащитному перед сверхъестественными силами. Селин бросается спасать его от Лuciана (Michael Sheen), харизматичного и безжалостного лидера оборотней, одержимого местью и жаждой окончательно стереть с лица земли вампирский род. В водовороте предательств, древних тайн и яростных сражений Селин раскрывает shocking связи прошлого кланов, которые грозят перевернуть ход войны навсегда."
 }

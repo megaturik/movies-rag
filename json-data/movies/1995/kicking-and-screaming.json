@@ -1,21 +1,23 @@
 {
-  "name": "Kicking and Screaming",
+  "name": "Крича и вопя",
   "year": 1995,
   "runtime": 96,
-  "categories": ["comedy"],
+  "categories": [
+    "комедия"
+  ],
   "release-date": "1995-10-06",
-  "director": "Noah Baumbach",
+  "director": "Ноа Баумбах",
   "writer": [
-    "Noah Baumbach",
-    "Oliver Berkman"
+    "Ноа Баумбах",
+    "Оливер Беркман"
   ],
   "actors": [
-    "Josh Hamilton",
-    "Olivia d'Abo",
-    "Chris Eigeman",
-    "Parker Posey",
-    "Elliott Gould",
-    "Eric Stoltz"
+    "Джош Хэмилтон",
+    "Оливия д’Або",
+    "Крис Эйгеман",
+    "Паркер Поузи",
+    "Эллиотт Гулд",
+    "Эрик Столтц"
   ],
-  "storyline": "After college graduation, Grover's girlfriend Jane tells him she's moving to Prague to study writing. Grover declines to accompany her, deciding instead to move in with several friends, all of whom can't quite work up the inertia to escape their university's pull. Nobody wants to make any big decisions that would radically alter his life, yet none of them wants to end up like Chet, the professional student who tends bar and is in his tenth year of university studies."
+  "storyline": "После окончания колледжа девушка Гровера по имени Джейн объявляет, что уезжает в Прагу, чтобы изучать писательское мастерство. Гровер отказывается сопровождать её и переезжает к группе друзей, которые, как и он, не в силах преодолеть инерцию и окончательно порвать с университетской жизнью. Все они избегают серьёзных решений, способных кардинально изменить их существование. Никто не хочет взрослеть и строить карьеру, но в то же время боится повторить судьбу Чета — «профессионального студента», бармена, который уже десять лет не может расстаться с кампусом, бесконечно откладывая настоящий старт во взрослой жизни. Эта комедия о застое и страхе перемен раскрывает абсурдность молодой взрослости."
 }

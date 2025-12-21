@@ -1,11 +1,11 @@
 {
-  "name": "The Curse of La Llorona",
+  "name": "Проклятие Ла Льороны",
   "year": 2019,
   "runtime": 93,
   "categories": [
-    "horror",
-    "mystery",
-    "thriller"
+    "ужасы",
+    "мистика",
+    "триллер"
   ],
   "release-date": "2019-04-19",
   "director": "Michael Chaves",
@@ -18,5 +18,5 @@
     "Raymond Cruz",
     "Patricia Velásquez"
   ],
-  "storyline": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm. Their only hope to survive La Llorona's deadly wrath may be a disillusioned priest and the mysticism he practices to keep evil at bay, on the fringes where fear and faith collide."
+  "storyline": "В Лос-Анджелесе 1973 года социальный работник Энн Тейт расследует дело обеспокоенной матери, подозреваемой в угрозе жизни своим детям. Игнорируя её жуткие предупреждения о древнем зле, Энн и её собственные сыновья вскоре сами становятся жертвами сверхъестественной угрозы — духа Ла Льороны, легендарной плачущей женщины, которая заманивает и утаскивает детей в пучину. Единственная надежда на спасение — помощь разочарованному священнику Рафаэлю Оливейре, освоившему древние мексиканские ритуалы для борьбы с нечистью. На грани страха и веры семья борется за выживание в мире, где реальность сливается с кошмаром."
 }

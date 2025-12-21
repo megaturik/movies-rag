@@ -1,25 +1,25 @@
 {
-  "name": "Spectre",
+  "name": "007: Спектр",
   "year": 2015,
   "runtime": 148,
   "categories": [
-    "action",
-    "adventure",
-    "thriller"
+    "боевик",
+    "приключения",
+    "триллер"
   ],
   "release-date": "2015-11-06",
-  "director": "Sam Mendes",
+  "director": "Сэм Мендес",
   "writer": [
-    "John Logan",
-    "Neal Purvis",
-    "Robert Wade",
-    "Jez Butterworth"
+    "Джон Логан",
+    "Нил Пёрвис",
+    "Роберт Уэйд",
+    "Джез Баттерворт"
   ],
   "actors": [
-    "Daniel Craig",
-    "Christoph Waltz",
-    "Léa Seydoux",
-    "Ralph Fiennes"
+    "Дэниел Крейг",
+    "Кристоф Вальц",
+    "Леа Сейду",
+    "Ральф Файнс"
   ],
-  "storyline": "A cryptic message from Bond's past, sends him on a trail to uncover a sinister organization. While M battles political forces to keep the Secret Service alive, Bond peels back the layers of deceit to reveal the terrible truth behind S.P.E.C.T.R.E."
+  "storyline": "Таинственное послание из прошлого Джеймса Бонда отправляет его в рискованное расследование, чтобы разоблачить тайную и чрезвычайно опасную организацию, угрожающую миру. В это время глава MI6, М, ведет ожесточенную борьбу с политическими интригами и бюрократией, чтобы сохранить независимость Секретной разведывательной службы. Бонд, преодолевая вероломные ловушки и маскировку, слой за слоем раскрывает грандиозный заговор, стоящий за аббревиатурой S.P.E.C.T.R.E. Его путь лежит через экзотические локации, полные адреналина, предательств и смертельных стычек с загадочным антагонистом."
 }

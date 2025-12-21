@@ -1,26 +1,26 @@
 {
-  "name": "Mortdecai",
+  "name": "Мордекай",
   "year": 2015,
   "runtime": 107,
   "categories": [
-    "action",
-    "comedy",
-    "crime",
-    "mystery",
-    "romance"
+    "боевик",
+    "комедия",
+    "криминал",
+    "детектив",
+    "романтика"
   ],
   "release-date": "2005-02-05",
-  "director": "David Koepp",
-  "writer": [
-    "Eric Aronson",
-    "Kyril Bonfiglioli"
+  "director": "Дэвид Кепп",
+  "writers": [
+    "Эрик Аронсон",
+    "Кирил Бонфильоли"
   ],
   "actors": [
-    "Johnny Depp",
-    "Gwyneth Paltrow",
-    "Paul Bettany",
-    "Ewan McGregor",
-    "Olivia Munn"
+    "Джонни Депп",
+    "Гвинет Пэлтроу",
+    "Пол Беттани",
+    "Юэн Макгрегор",
+    "Оливия Манн"
   ],
-  "storyline": "Juggling some angry Russians, the British Mi5, his impossibly leggy wife and an international terrorist, debonair art dealer and part-time rogue Charlie Mortdecai must traverse the globe armed only with his good looks and special charm in a race to recover a stolen painting rumored to contain the code to a lost bank account filled with Nazi gold."
+  "storyline": "Элегантный арт-дилер и любитель сомнительных авантюр оказывается в эпицентре международного скандала. Ему приходится балансировать между разъярёнными русскими, агентами британской MI5, своей женой с невероятно длинными ногами и коварным террористом. Вооружённый лишь неотразимой внешностью, особым шармом и острым умом, он отправляется в кругосветное путешествие. Цель — вернуть украденную картину, на которой, по легенде, скрыт код к забытому банковскому счёту, набитому нацистским золотом. По пути герой переживает череду опасных стычек, абсурдных недоразумений и комичных перипетий, полагаясь только на свою харизму и хитрость, чтобы выжить и преуспеть в этой безумной гонке."
 }

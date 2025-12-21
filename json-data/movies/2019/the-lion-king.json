@@ -1,33 +1,33 @@
 {
-  "name": "The Lion King",
+  "name": "Король Лев",
   "year": 2019,
   "runtime": 118,
   "categories": [
-    "animation",
-    "adventure",
-    "drama",
-    "family",
-    "musical"
+    "анимация",
+    "приключения",
+    "драма",
+    "семейный",
+    "мюзикл"
   ],
   "release-date": "2019-07-19",
-  "director": "Jon Favreau",
+  "director": "Джон Фавро",
   "writer": [
-    "Jeff Nathanson",
-    "Brenda Chapman",
-    "Irene Mecchi",
-    "Jonathan Roberts",
-    "Linda Woolverton"
+    "Джефф Натансон",
+    "Бренда Чепман",
+    "Айрин Мекки",
+    "Джонатан Робертс",
+    "Линда Вулвертон"
   ],
   "actors": [
-    "Donald Glover",
-    "Seth Rogen",
-    "Chiwetel Ejiofor",
-    "Alfre Woodard",
-    "Billy Eichner",
-    "John Kani",
-    "John Oliver",
-    "Beyonc� Knowles-Carter",
-    "James Earl Jones"
+    "Дональд Гловер",
+    "Сет Роген",
+    "Чиветел Эджиофор",
+    "Альфри Вудард",
+    "Билли Айхнер",
+    "Джон Кани",
+    "Джон Оливер",
+    "Бейонсе Ноулз-Картер",
+    "Джеймс Эрл Джонс"
   ],
-  "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+  "storyline": "После убийства своего отца молодой львенок-брат бежит из своего королевства, чтобы позже понять истинное значение ответственности и смелости."
 }

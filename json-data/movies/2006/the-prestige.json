@@ -1,21 +1,21 @@
 {
-  "name": "The Prestige",
+  "name": "Престиж",
   "year": 2006,
   "runtime": 130,
   "categories": [
-    "thriller",
-    "sci-fi"
+    "триллер",
+    "фантастика"
   ],
   "release-date": "2006-10-17",
-  "director": "Christopher Nolan",
+  "director": "Кристофер Нолан",
   "writer": [
-    "Christopher Nolan",
-    "Jonathan Nolan"
+    "Кристофер Нолан",
+    "Джонатан Нолан"
   ],
   "actors": [
-    "Christian Bale",
-    "Hugh Jackman",
-    "Scarlett Johansson"
+    "Кристиан Бэйл",
+    "Хью Джекман",
+    "Скарлетт Йоханссон"
   ],
-  "storyline": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but with terrible consequences."
+  "storyline": "Два друга и коллеги-иллюзиониста превращаются в заклятых врагов после внезапной трагедии на сцене. Их соперничество выходит за рамки профессионального соревнования: каждый стремится превзойти другого, раскрывая секреты величайших фокусов и изобретая новые трюки. Они жертвуют дружбой, семьями, моральными принципами и даже здоровьем, чтобы добиться славы и признания. Эта одержимость приводит к цепи необратимых событий, полных обмана, предательства и шокирующих открытий, которые меняют их жизни навсегда. Борьба за превосходство в мире иллюзий оборачивается трагедией, где грань между реальностью и вымыслом стирается."
 }

@@ -1,28 +1,28 @@
 {
-  "name": "Hackers",
+  "name": "Хакеры",
   "year": 1995,
   "runtime": 107,
   "categories": [
-    "comedy",
-    "crime",
-    "drama"
+    "комедия",
+    "криминал",
+    "драма"
   ],
   "release-date": "1995-09-15",
-  "director": "Iain Softley",
+  "director": "Иэн Софтли",
   "writer": [
-    "Rafael Moreu"
+    "Рафаэль Моеру"
   ],
   "actors": [
-    "Jonny Lee Miller",
-    "Angelina Jolie",
-    "Jesse Bradford",
-    "Matthew Lillard",
-    "Laurence Mason",
-    "Renoly Santiago",
-    "Fisher Stevens",
-    "Alberta Watson",
-    "Darren Lee",
-    "Peter Y. Kim"
+    "Джонни Ли Миллер",
+    "Анджелина Джоли",
+    "Джесси Брэдфорд",
+    "Мэттью Лиллард",
+    "Лоуренс Мэйсон",
+    "Реноли Сантьяго",
+    "Фишер Стивенс",
+    "Альберта Уотсон",
+    "Даррен Ли",
+    "Питер Ы. Ким"
   ],
-  "storyline": "A teenage hacker finds himself framed for the theft of millions of dollars from a major corporation. Master hacker Dade Murphy, aka Zero Cool, aka Crash Override, has been banned from touching a keyboard for seven years after crashing over 1,500 Wall Street computers at the age of 11. Now keen to get back in front of a monitor, he finds himself in more trouble than ever."
+  "storyline": "Талантливый подросток-хакер Дейд Мерфи, известный под никами Зеро Кул и Крэш Оверрайд, в 11 лет взломал более 1500 компьютеров Уолл-стрит, за что получил запрет на использование компьютеров на семь лет. Переехав в Нью-Йорк, он собирает команду таких же молодых хакеров: умную Кейт, эксцентричного Феникса и других энтузиастов. Вместе они ввязываются в опасную авантюру, расследуя заговор коррумпированного компьютерного гения Эдгара Мертона, который подставляет Дейда в краже 25 миллионов долларов из суперкомпьютера гигантской корпорации. Их ждет серия виртуальных сражений, погонь, столкновений с ФБР и корпоративными интригами, где грань между реальным и цифровым миром стирается."
 }

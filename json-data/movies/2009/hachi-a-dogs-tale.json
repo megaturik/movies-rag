@@ -1,21 +1,22 @@
 {
-  "name": "Hachi: A Dog's Tale",
+  "name": "Хатико: Самый верный друг",
   "year": 2009,
   "runtime": 93,
   "categories": [
-    "drama",
-    "family"
+    "драма",
+    "семейный"
   ],
   "release-date": "2009-06-08",
-  "director": "Lasse Hallström",
+  "director": "Лассе Халльстрём",
   "writer": [
-    "Stephen P. Lindsey",
-    "Kaneto Shindo"
+    "Стивен П. Линдси",
+    "Канэто Синдо"
   ],
   "actors": [
-    "Richard Gere",
-    "Joan Allen",
-    "Sarah Roemer"
+    "Ричард Гир",
+    "Джоан Аллен",
+    "Сара Ромер"
   ],
-  "description": "When his master dies, a loyal pooch named Hachiko keeps a vigil for more than a decade at the train station where he once greeted his owner every day."
+  "description": "When his master dies, a loyal pooch named Hachiko keeps a vigil for more than a decade at the train station where he once greeted his owner every day.",
+  "storyline": "Профессор музыки Паркер Уилсон находит на вокзале в США щенка японской породы акита-ину и забирает его домой. Он называет пса Хатико, и между ними возникает глубокая дружба. Каждый день собака провожает хозяина на станцию и терпеливо ждёт его возвращения. Их связь становится образцом беззаветной преданности. Однажды профессор внезапно умирает от сердечного приступа на работе. Хатико, не ведая о трагедии, продолжает приходить на вокзал, надеясь увидеть друга. Проходят годы, пёс стареет, но не теряет надежды. Его стойкость поражает окружающих, превращаясь в легенду о верности, которая вдохновляет весь мир и напоминает о ценности истинной любви и лояльности."
 }

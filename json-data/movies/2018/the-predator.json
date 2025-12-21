@@ -1,11 +1,24 @@
 {
-  "name": "The Predator",
+  "name": "Хищник",
   "year": 2018,
   "runtime": 107,
-  "categories": ["horror", "action", "adventure"],
+  "categories": [
+    "ужасы",
+    "боевик",
+    "приключения"
+  ],
   "release-date": "2018-09-14",
-  "director": "Shane Black",
-  "writer": ["Fred Dekker", "Shane Black", "Jim Thomas", "John Thomas"],
-  "actors": ["Boyd Holbrook", "Trevante Rhodes", "Jacob Tremblay"],
-  "storyline": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race."
+  "director": "Шейн Блэк",
+  "writers": [
+    "Фред Деккер",
+    "Шейн Блэк",
+    "Джим Томас",
+    "Джон Томас"
+  ],
+  "actors": [
+    "Бойд Холбрук",
+    "Треванте Роудс",
+    "Джейкоб Тремблей"
+  ],
+  "storyline": "Маленький мальчик случайно активирует сигнал, который вызывает на Землю самых смертоносных охотников из глубин космоса. Эти инопланетные убийцы эволюционировали, став еще сильнее и хитрее предыдущих. Чтобы остановить надвигающуюся катастрофу и спасти человечество от полного истребления, собирается необычная команда: отставные солдаты с боевым опытом, каждый из которых борется со своими травмами, и раздраженный гениальный ученый с синдромом Аспергера. Им предстоит объединить силы, использовать передовые технологии и импровизированное оружие в отчаянной схватке с превосходящим врагом под покровом ночи."
 }

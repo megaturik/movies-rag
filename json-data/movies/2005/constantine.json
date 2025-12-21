@@ -1,22 +1,22 @@
 {
-  "name": "Constantine",
+  "name": "Константин",
   "year": 2005,
   "runtime": 121,
   "categories": [
-    "Action",
-    "Horror",
-    "Mystery"
+    "Боевик",
+    "Ужасы",
+    "Мистика"
   ],
   "release-date": "2005-02-18",
-  "director": "Francis Lawrence",
+  "director": "Фрэнсис Лоуренс",
   "writer": [
-    "Jamie Delano",
-    "Garth Ennis"
+    "Джейми Делано",
+    "Гарт Эннис"
   ],
   "actors": [
-    "Keanu Reeves",
-    "Rachel Weisz",
-    "Djimon Hounsou"
+    "Киану Ривз",
+    "Рэйчел Вайс",
+    "Джаймон Хounsоу"
   ],
-  "storyline": "John Constantine is approached by Det. Angela Dodson who needs his help to prove that her twin sister Isabel's death was not a suicide. The dead woman was a devout Catholic and Angela refuses to accept she would have taken her own life. She's asked Constantine for help because he has a reputation for dealing with the mystical. In fact, he is a demon hunter whose sole purpose on Earth is to send demons back to the nether regions. John himself has been to Hell and knows that he is destined to return there on his death - but hopes his good deeds may find him a place in Heaven. As he looks into Isabel's death, he realizes demons are trying to break through to the human world, and his battles lead him into a direct conflict with Satan."
+  "storyline": "К охотнику на демонов Джону Константину обращается детектив Анджела Додсон. Она просит помочь доказать, что смерть её сестры-близняшки Изабеллы не была самоубийством. Покойная была убеждённой католичкой, и Анджела не верит, что та могла пойти на такой грех. Константин известен способностью общаться с потусторонним: он отправляет демонов обратно в адские бездны. Сам он уже побывал в Аду и знает, что после смерти ему уготована та же участь, но надеется искупить вину добрыми делами и попасть в Рай. Расследуя загадочную смерть, он раскрывает заговор: демоны планируют прорыв в мир людей через Изабеллу как врата. Битвы с нечистью приводят к кульминации — личному противостоянию с самим Люцифером, где на кону стоит судьба человечества и душа главного героя."
 }

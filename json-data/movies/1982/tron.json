@@ -1,18 +1,18 @@
 {
-    "name": "TRON",
-    "year": 1982,
-    "runtime": 96,
-    "categories": [
-        "action",
-        "adventure",
-        "sci-fi"
-    ],
-    "release-date": "1982-07-09",
-    "director": "Steven Lisberger",
-    "actors": [
-        "Jeff Bridges",
-        "Bruce Boxleitner",
-        "David Warner"
-    ],
-    "storyline": "Hacker/arcade owner Kevin Flynn is digitally broken down into a data stream by a villainous software pirate known as Master Control and reconstituted into the internal, 3-D graphical world of computers. It is there, in the ultimate blazingly colorful, geometrically intense landscapes of cyberspace, that Flynn joins forces with Tron to outmaneuver the Master Control Program that holds them captive in the equivalent of a gigantic, infinitely challenging computer game."
+  "name": "Трон",
+  "year": 1982,
+  "runtime": 96,
+  "categories": [
+    "боевик",
+    "приключения",
+    "фантастика"
+  ],
+  "release-date": "1982-07-09",
+  "director": "Стивен Лисбергер",
+  "actors": [
+    "Джефф Бриджес",
+    "Брюс Бокслайтнер",
+    "Дэвид Уорнер"
+  ],
+  "storyline": "Хакер и владелец аркадного зала Кевин Флинн подвергается цифровому распаду на поток данных от рук злодейского пирата ПО, известного как Мастер Контроль Программа. Он воссоздается в виртуальном 3D-мире внутри компьютера — ослепительном царстве ярких цветов, геометрических фигур и бесконечных ландшафтов киберпространства. Здесь Флинн объединяется с защитной программой Трон, чтобы перехитрить тирана Мастер Контроль, который держит их в плену в гигантской, невероятно сложной компьютерной игре. Они сражаются на световых мотоциклах, участвуют в гладиаторских боях и виртуальных поединках, рискуя всем ради свободы системы и возвращения в реальный мир."
 }

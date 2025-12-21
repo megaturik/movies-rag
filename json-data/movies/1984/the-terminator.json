@@ -1,27 +1,28 @@
 {
-  "name": "The Terminator",
+  "name": "Терминатор",
   "year": 1984,
   "runtime": 107,
   "categories": [
-    "action",
-    "sci-fi"
+    "боевик",
+    "научная фантастика"
   ],
   "description": "A human-looking indestructible cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.",
   "release-date": "1984-10-26",
-  "director": "James Cameron",
-  "writer": [
-    "James Cameron",
-    "Gale Anne Hurd",
-    "William Wisher Jr."
+  "director": "Джеймс Кэмерон",
+  "writers": [
+    "Джеймс Кэмерон",
+    "Гейл Энн Хёрд",
+    "Уильям Уишер мл."
   ],
   "actors": [
-    "Arnold Schwarzenegger",
-    "Michael Biehn",
-    "Linda Hamilton",
-    "Paul Winfield",
-    "Lance Henriksen",
-    "Rick Rossovich",
-    "Bess Motta",
-    "Earl Boen"
-  ]
+    "Арнольд Шварценеггер",
+    "Майкл Бьён",
+    "Линда Хэмилтон",
+    "Пол Уинфилд",
+    "Лэнс Хенриксен",
+    "Рик Россович",
+    "Бесс Мотта",
+    "Эрл Боэн"
+  ],
+  "storyline": "Из 2029 года в 1984-й прибывает неуничтожимый киборг, внешне неотличимый от человека. Его цель — ликвидировать Сару Коннор, обычную официантку, чей нерождённый сын в будущем станет лидером человечества в войне против машин. Сопротивление посылает назад во времени солдата Кайла Риза, чтобы защитить её любой ценой. В Лос-Анджелесе начинается безжалостная охота: Сара и Кайл, преследуемые полицией, сражаются с сверхмощным убийцей, который не ведает усталости, боли или жалости. Каждую секунду на счету в этой гонке со временем за спасение будущего."
 }

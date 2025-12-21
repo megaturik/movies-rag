@@ -1,25 +1,25 @@
 {
-  "name": "Jurassic World",
+  "name": "Мир Юрского периода",
   "year": 2015,
   "runtime": 124,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "научная фантастика"
   ],
   "release-date": "2015-06-12",
-  "director": "Colin Trevorrow",
+  "director": "Колин Треворроу",
   "writer": [
-    "Rick Jaffa",
-    "Amanda Silver",
-    "Colin Trevorrow",
-    "Derek Connolly",
-    "Michael Crichton"
+    "Рик Джаффа",
+    "Аманда Сильвер",
+    "Колин Треворроу",
+    "Дерек Коннолли",
+    "Майкл Крайтон"
   ],
   "actors": [
-    "Chris Pratt",
-    "Bryce Dallas Howard",
-    "Ty Simpkins"
+    "Крис Пратт",
+    "Брайс Даллас Ховард",
+    "Тай Симпкинс"
   ],
-  "storyline": "22 years after the original Jurassic Park failed, the new park (also known as Jurassic World) is open for business. After years of studying genetics the scientists on the park genetically engineer a new breed of dinosaur. When everything goes horribly wrong, will our heroes make it off the island?"
+  "storyline": "Спустя 22 года после трагической катастрофы в оригинальном парке динозавров на тропическом острове открывается новый масштабный развлекательный комплекс, привлекающий миллионы посетителей. Ученые, годами изучающие генетику, создают совершенно новую породу динозавра — сверххищника, чтобы оживить интерес публики. Однако эксперимент выходит из-под контроля: генетически модифицированное существо сбегает, сея хаос и смерть. Два брата-подростка, приехавшие в гости к родственникам, храбрая директор парка и опытный дрессировщик велоцирапторов объединяют силы, чтобы выжить в мире, где природа мстит человеку за свои вмешательства. Им предстоит невероятное путешествие через джунгли, полные первобытных чудовищ, полное напряжения, открытий и борьбы за жизнь."
 }

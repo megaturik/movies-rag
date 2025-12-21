@@ -1,21 +1,21 @@
 {
-    "name": "Beautiful Boy",
-    "year": 2018,
-    "runtime": 120,
-    "categories": [
-      "biography",
-      "drama"
-    ],
-    "release-date": "2018-10-12",
-    "director": "Felix Van Groeningen",
-    "writer": [
-        "Luke Davies",
-        "Felix Van Groeningen"
-    ],
-    "actors": [
-      "Steve Carell",
-      "Timothée Chalamet",
-      "Maura Tierney"
-    ],
-    "storyline":"Based on the best-selling pair of memoirs from father and son David and Nic Sheff, Beautiful Boy chronicles the heartbreaking and inspiring experience of survival, relapse, and recovery in a family coping with addiction over many years."
+  "name": "Красивый мальчик",
+  "year": 2018,
+  "runtime": 120,
+  "categories": [
+    "биография",
+    "драма"
+  ],
+  "release-date": "2018-10-12",
+  "director": "Феликс ван Грунинген",
+  "writer": [
+    "Люк Дейвис",
+    "Феликс ван Грунинген"
+  ],
+  "actors": [
+    "Стив Карелл",
+    "Тимоти Шаламе",
+    "Мора Тиерни"
+  ],
+  "storyline": "Фильм основан на двух бестселлерных мемуарах отца и сына — Дэвида и Ника Шефф. Он охватывает многолетнюю борьбу семьи с разрушительной наркотической зависимостью молодого человека. Любящий отец, журналист Дэвид, делает всё возможное, чтобы вытащить сына из пропасти: организует лечение, поддерживает в моменты отчаяния, переживает бесконечные рецидивы и ложные надежды. История раскрывает ужасы зависимости — потерю контроля, разбитые мечты, боль близких. Но сквозь трагедию пробивается тема безусловной любви, стойкости и поиска пути к выздоровлению. Это пронзительный портрет семьи на грани, полный эмоций, реализма и вдохновения на борьбу."
 }

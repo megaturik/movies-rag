@@ -1,28 +1,28 @@
 {
-  "name": "Mission: Impossible - Fallout",
+  "name": "Миссия невыполнима: Последствия",
   "year": 2018,
   "runtime": 148,
   "categories": [
-    "action",
-    "adventure",
-    "thriller"
+    "боевик",
+    "приключения",
+    "триллер"
   ],
   "release-date": "2018-05-10",
-  "director": "Christopher McQuarrie",
+  "director": "Кристофер МакКуарри",
   "writer": [
-    "Christopher McQuarrie"
+    "Кристофер МакКуарри"
   ],
   "actors": [
-    "Tom Cruise",
-    "Henry Cavill",
-    "Ving Rhames",
-    "Simon Pegg",
-    "Rebecca Ferguson",
-    "Sean Harris",
-    "Angela Bassett",
-    "Michelle Monaghan",
-    "Alec Baldwin",
-    "Vanessa Kirby"
+    "Том Круз",
+    "Генри Кавилл",
+    "Винг Рэймс",
+    "Саймон Пегг",
+    "Ребекка Фергюсон",
+    "Шон Харрис",
+    "Анджела Бассетт",
+    "Мишель Монаган",
+    "Алек Болдуин",
+    "Ванесса Кирби"
   ],
-  "storyline": "Two years after Ethan Hunt had successfully captured Solomon Lane, the remnants of the Syndicate have reformed into another organization called the Apostles. Under the leadership of a mysterious fundamentalist known only as John Lark, the organization is planning on acquiring three plutonium cores. Ethan and his team are sent to Berlin to intercept them, but the mission fails when Ethan saves Luther and the Apostles escape with the plutonium. With CIA agent August Walker joining the team, Ethan and his allies must now find the plutonium cores before it's too late"
+  "storyline": "Через два года после успешного захвата Соломона Лейна Итаном Хантом остатки Синдиката возродились в новой террористической организации под названием Апостолы. Во главе стоит загадочный фундаменталист, известный лишь как Джон Ларк. Они планируют заполучить три плутониевых сердечника для создания мощного оружия массового поражения. Итан Хант и его верная команда IMF отправляются в Берлин на перехват груза, но операция срывается: Итан спасает напарника Лютера, и Апостолы уносят плутоний. К отряду присоединяется агент ЦРУ Август Уокер, чьи мотивы вызывают подозрения. Теперь героям предстоит гонка со временем: отыскать сердечники, разгадать личность Ларка и предотвратить глобальную катастрофу, преодолевая предательства и невероятные опасности по всему миру."
 }

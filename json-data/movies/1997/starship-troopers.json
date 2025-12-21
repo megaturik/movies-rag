@@ -1,29 +1,29 @@
 {
-  "name": "Starship Troopers",
+  "name": "Звёздный десант",
   "year": 1997,
   "runtime": 129,
   "categories": [
-    "action",
-    "adventure",
-    "sci-fi",
-    "thriller"
+    "боевик",
+    "приключения",
+    "научная фантастика",
+    "триллер"
   ],
   "release-date": "1997-11-07",
-  "director": "Paul Verhoeven",
+  "director": "Пол Верхувен",
   "writer": [
-    "Edward Neumeier",
-    "Robert A. Heinlein"
+    "Эдвард Ноймейер",
+    "Роберт А. Хайнлайн"
   ],
   "actors": [
-    "Casper Van Dien",
-    "Dina Meyer",
-    "Denise Richards",
-    "Jake Busey",
-    "Neil Patrick Harris",
-    "Clancy Brown",
-    "Seth Gilliam",
-    "Patrick Muldoon",
-    "Michael Ironside"
+    "Каспер Ван Дин",
+    "Дина Мейер",
+    "Дэниз Ричардс",
+    "Джейк Бьюзи",
+    "Нил Патрик Харрис",
+    "Клэнси Браун",
+    "Сет Гиллиам",
+    "Патрик Малдун",
+    "Майкл Иронсайд"
   ],
-  "storyline": "In the distant future, the Earth is at war with a race of giant alien insects. Little is known about the Bugs except that they are intent on the eradication of all human life. But there was a time before the war... A Mobile Infantry travels to distant alien planets to take the war to the Bugs. They are a ruthless enemy with only one mission: Survival of their species no matter what the cost..."
+  "storyline": "В далеком будущем Земная Федерация ведет беспощадную войну с ордами гигантских инопланетных насекомых, прозванных Багз. Эти чудовищные твари, обитающие на далеких планетах, намерены полностью истребить человечество. Молодые идеалисты, жаждущие славы и долга перед обществом, вступают в ряды элитной Мобильной пехоты. После жесткой подготовки они отправляются в космос, чтобы нанести превентивный удар по врагу. Багз — хитрые, многочисленные и агрессивные противники, готовые пожертвовать всем ради доминирования. В этой галактической мясорубке решается судьба всей цивилизации, где патриотизм сталкивается с ужасающей реальностью боев."
 }

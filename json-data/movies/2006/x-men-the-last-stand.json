@@ -1,22 +1,22 @@
 {
-  "name": "X-Men: The Last Stand",
+  "name": "Люди Икс: Последняя битва",
   "year": 2006,
   "runtime": 104,
   "categories": [
-    "action",
-    "adventure",
-    "fantasy"
+    "боевик",
+    "приключения",
+    "фэнтези"
   ],
   "release-date": "2006-05-26",
-  "director": "Brett Ratner",
+  "director": "Бретт Ратнер",
   "writer": [
-    "Simon Kinberg",
-    "Zak Penn"
+    "Саймон Кинберг",
+    "Зак Пенн"
   ],
   "actors": [
-    "Patrick Stewart",
-    "Hugh Jackman",
-    "Halle Berry"
+    "Патрик Стюарт",
+    "Хью Джекман",
+    "Хэлли Берри"
   ],
-  "storyline": "When a cure is found to treat mutations, lines are drawn amongst the X-Men, led by Professor Charles Xavier, and the Brotherhood, a band of powerful mutants organized under Xavier's former ally, Magneto."
+  "storyline": "Открытие лекарства, подавляющего мутации, вызывает глубокий раскол среди мутантов. Профессор Чарльз Ксавьер и его команда супергероев выступают за мирное сосуществование с людьми, предлагая добровольное лечение. В противовес этому бывший союзник Ксавьера, Магнето, формирует Братство — отряд могучих мутантов, видящих в 'сыворотке' угрозу геноцида и готовых к войне. Напряжение достигает пика, когда в Джин Грей пробуждается неконтролируемая мощь Феникса, сея хаос и разрушение. Героям приходится выбирать стороны в эпической битве, где решается будущее двух рас и баланс сил в мире."
 }

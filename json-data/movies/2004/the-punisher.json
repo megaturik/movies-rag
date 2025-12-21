@@ -1,22 +1,22 @@
 {
-  "name": "The Punisher",
+  "name": "Мститель",
   "year": 2004,
   "runtime": 124,
   "categories": [
-    "action",
-    "crime",
-    "drama"
+    "боевик",
+    "криминал",
+    "драма"
   ],
   "release-date": "2004-16-04",
-  "director": "Jonathan Hensleigh",
+  "director": "Джонатан Хенсли",
   "writer": [
-    "Jonathan Hensleigh",
-    "Michael France"
+    "Джонатан Хенсли",
+    "Майкл Франс"
   ],
   "actors": [
-    "Thomas Jane",
-    "John Travolta",
-    "Samantha Mathis"
+    "Томас Джейн",
+    "Джон Траволта",
+    "Саманта Матис"
   ],
-  "storyline": "An undercover FBI agent becomes a vigilante assassin and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion."
+  "storyline": "Бывший агент ФБР Фрэнк Касл наслаждается отпуском с семьёй на живописном семейном пикнике. Внезапно на них обрушивается волна насилия: наёмники, нанятые могущественным и безжалостным бизнесменом Ховардом Сэнтом, устраивают кровавую резню. Вся семья Касла погибает в этой бойне, а сам Фрэнк чудом остаётся в живых. Поклявшись отомстить за близких, он превращается в неумолимого мстителя. Используя свои выдающиеся навыки спецназовца, Касл методично разбирается с преступной империей Сэнта, сея хаос и страх среди врагов, чтобы вершить суровое правосудие единолично."
 }

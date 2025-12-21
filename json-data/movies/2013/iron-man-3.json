@@ -1,28 +1,28 @@
 {
-  "name": "Iron Man 3",
+  "name": "Железный человек 3",
   "year": 2013,
   "runtime": 130,
   "categories": [
-    "adventure",
-    "action",
-    "sci-fi"
+    "приключения",
+    "боевик",
+    "фантастика"
   ],
   "release-date": "2013-05-03",
-  "director": "Shane Black",
-  "writer": [
-    "Drew Pearce",
-    "Shane Black",
-    "Stan Lee",
-    "Don Heck",
-    "Larry Lieber",
-    "Jack Kirby",
-    "Warren Ellis",
-    "Adi Granov"
+  "director": "Шейн Блэк",
+  "writers": [
+    "Дрю Пирс",
+    "Шейн Блэк",
+    "Стэн Ли",
+    "Дон Хек",
+    "Ларри Либер",
+    "Джек Кирби",
+    "Уоррен Эллис",
+    "Ади Гранов"
   ],
   "actors": [
-    "Robert Downey Jr",
-    "Gwyneth Paltrow",
-    "Guy Pearce"
+    "Роберт Дауни-мл.",
+    "Гвинет Пэлтроу",
+    "Гай Пирс"
   ],
-  "storyline": "After saving New York from an alien invasion, billionaire Tony Stark buries himself deeper into his work by building a ton of new and improved Iron Man suits. He also starts having constant nightmares and doesn't know why. But deep in the shadows, a new menace called the Mandarin starts orchestrating a series of terrorist attacks all over the world. When his home is demolished and his suits are destroyed, Stark begins a personal journey to finding out the truth about the bombings and tracking down whoever is truly responsible. Little does Stark know however is that someone else from his past has his own plans against him and proves to be even more powerful than Stark realizes."
+  "storyline": "После спасения Нью-Йорка от инопланетного нашествия миллиардер Тони Старк погружается в работу, создавая множество новых и улучшенных костюмов брони. Его терзают кошмары неизвестного происхождения. Тем временем в тени зреет новая угроза — загадочный Мандарин, устраивающий серию разрушительных терактов по всему миру. Дом Старка взорван, костюмы уничтожены, и он отправляется в одиночное путешествие, чтобы раскрыть правду о взрывах и выследить виновных. Не подозревая, Старк становится мишенью для старого знакомого, чьи планы и сила превосходят все его представления, превращая борьбу в настоящее испытание на выживание."
 }

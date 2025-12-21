@@ -1,42 +1,42 @@
 {
-    "name" : "The Adventures of Robin Hood",
-    "year" : 1938,
-    "runtime" : 102,
-    "categories" : [
-      "action",
-      "adventure",
-      "romance"
-    ],
-    "release-date" : "1938-05-14",
-    "director" : [
-	  "Michael Curtiz",
-	  "William Keighley"
-	],
-    "writer" : [
-      "Norman Reilly Raine",
-      "Seton I. Miller"
-    ],
-    "actors" : [
-      "Errol Flynn",
-      "Olivia de Havilland",
-      "Basil Rathbone",
-      "Claude Rains",
-      "Patric Knowles",
-      "Eugene Pallette",
-      "Alan Hale",
-      "Melville Cooper",
-      "Ian Hunter",
-      "Una O'Connor",
-      "Herbert Mundin",
-      "Montagu Love",
-      "Leonard Willey",
-      "Robert Noble",
-      "Kenneth Hunter",
-      "Robert Warwick",
-      "Colin Kenny",
-      "Lester Matthews",
-      "Harry Cording",
-      "Ivan F. Simpson"
-    ],
-    "storyline" : "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army."
+  "name": "Приключения Робин Гуда",
+  "year": 1938,
+  "runtime": 102,
+  "categories": [
+    "боевик",
+    "приключения",
+    "романтика"
+  ],
+  "release-date": "1938-05-14",
+  "director": [
+    "Michael Curtiz",
+    "William Keighley"
+  ],
+  "writers": [
+    "Norman Reilly Raine",
+    "Seton I. Miller"
+  ],
+  "actors": [
+    "Errol Flynn",
+    "Olivia de Havilland",
+    "Basil Rathbone",
+    "Claude Rains",
+    "Patric Knowles",
+    "Eugene Pallette",
+    "Alan Hale",
+    "Melville Cooper",
+    "Ian Hunter",
+    "Una O'Connor",
+    "Herbert Mundin",
+    "Montagu Love",
+    "Leonard Willey",
+    "Robert Noble",
+    "Kenneth Hunter",
+    "Robert Warwick",
+    "Colin Kenny",
+    "Lester Matthews",
+    "Harry Cording",
+    "Ivan F. Simpson"
+  ],
+  "storyline": "В отсутствие короля Ричарда I, отправившегося в крестовый поход, принц Джон и его нормандские лорды захватывают власть в Англии и начинают жестоко угнетать саксонских крестьян, обирая их непомерными налогами и насильственным отчуждением земель. Благородный саксонский лорд Робин из Локсли, лишившись владений и объявленный вне закона, уходит в Шервудский лес. Там он собирает отряд верных соратников — весёлых и отважных разбойников — и начинает партизанскую войну против тиранов. Они грабят богатых караваны знати, раздают добычу беднякам, защищают слабых и устраивают дерзкие налёты. Робин влюбляется в прекрасную леди Мэриан, племянницу шерифа Ноттингемского, которая разделяет его идеалы. Главные враги — коварный сэр Ги де Гисборн, алчный епископ и сам принц Джон — плетут заговоры, устраивают турниры и засады. Герои проходят через множество приключений, полных фехтовки, стрельбы из лука и хитроумных засад, борясь за справедливость и возвращение законного короля."
 }

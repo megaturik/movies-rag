@@ -1,35 +1,35 @@
 {
-  "name": "To Kill a Mockingbird",
+  "name": "Убить пересмешника",
   "year": 1962,
   "runtime": 129,
   "categories": [
-    "crime",
-    "drama"
+    "криминал",
+    "драма"
   ],
   "release-date": "1962-12-25",
-  "director": "Robert Mulligan",
+  "director": "Роберт Муллиган",
   "writer": [
-    "Harper Lee",
-    "Horton Foote"
+    "Харпер Ли",
+    "Хортон Фут"
   ],
   "actors": [
-    "Gregory Peck",
-    "John Megna",
-    "Frank Overton",
-    "Rosemary Murphy",
-    "Ruth White",
-    "Brock Peters",
-    "Estelle Evans",
-    "Paul Fix",
-    "Collin Wilcox Paxton",
-    "James Anderson",
-    "Alice Ghostley",
-    "Robert Duvall",
-    "William Windom",
-    "Crahan Denton",
-    "Richard Hale",
-    "Mary Badham",
-    "Phillip Alford"
+    "Грегори Пек",
+    "Джон Менья",
+    "Фрэнк Овертон",
+    "Розмари Мерфи",
+    "Рут Уайт",
+    "Брок Питерс",
+    "Эстель Эванс",
+    "Пол Фикс",
+    "Коллин Уилкокс Пакстон",
+    "Джеймс Андерсон",
+    "Элис Гостли",
+    "Роберт Дюваль",
+    "Уильям Уиндом",
+    "Крэйхан Дентон",
+    "Ричард Хейл",
+    "Мэри Бэдем",
+    "Филип Алфорд"
   ],
-  "storyline": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice."
+  "storyline": "В маленьком городке на Юге США во времена Великой депрессии адвокат Аттикус Финч защищает афроамериканца Тома Робинсона, ложно обвиненного в изнасиловании белой девушки. Общество охвачено расовыми предрассудками, и Финч подвергается остракизму за свою принципиальную позицию. Его дети, шестилетняя Скаут и старший брат Джем, живут обычной жизнью, но постепенно осознают жестокость мира через суд, слухи и столкновения с соседями. Аттикус учит их эмпатии, честности и стойкости перед лицом несправедливости, показывая пример моральной силы в эпоху сегрегации."
 }

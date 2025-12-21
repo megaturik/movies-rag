@@ -1,10 +1,10 @@
 {
-  "name": "The Matrix Reloaded",
+  "name": "Матрица: Перезагрузка",
   "year": 2003,
   "runtime": 138,
   "categories": [
-    "sci-fi",
-    "thriller"
+    "научная фантастика",
+    "триллер"
   ],
   "description": "Freedom fighters Neo (Keanu Reeves), Trinity (Carrie-Anne Moss) and Morpheus (Laurence Fishburne) continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation. In their quest to save the human race from extinction, they gain greater insight into the construct of The Matrix and Neo's pivotal role in the fate of mankind.",
   "release-date": "2003-05-15",
@@ -12,7 +12,7 @@
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
-  "writer": [
+  "writers": [
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
@@ -95,5 +95,6 @@
     "Lambert Wilson",
     "Anthony Brandon Wong",
     "Anthony Zerbe"
-  ]
+  ],
+  "storyline": "Борцы за свободу Нео (Кеану Ривз), Тринити (Кэрри-Энн Мосс) и Морфеус (Лоуренс Фишберн) продолжают возглавлять восстание против армии машин. Они обрушивают на врага арсенал сверхъестественных навыков и оружия, противостоя систематическим силам репрессий и эксплуатации. В своей квесте по спасению человечества от полного уничтожения герои обретают глубокое понимание архитектуры виртуального мира и ключевой роли Нео в определении судьбы людей. По пути им предстоит сразиться с усиленными стражами, разгадать тайны ключевых фигур системы и принять судьбоносные решения, которые определят исход затяжной войны за свободу и выживание."
 }

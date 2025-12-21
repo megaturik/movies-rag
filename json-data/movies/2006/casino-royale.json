@@ -1,24 +1,24 @@
 {
-  "name": "Casino Royale",
+  "name": "Казино Рояль",
   "year": 2006,
   "runtime": 144,
   "categories": [
-    "action",
-    "adventure",
-    "thriller"
+    "боевик",
+    "приключения",
+    "триллер"
   ],
   "release-date": "2006-11-17",
-  "director": "Martin Campbell",
-  "writer": [
-    "Neal Purvis",
-    "Robert Wade",
-    "Paul Haggis"
+  "director": "Мартин Кэмпбелл",
+  "writers": [
+    "Нил Пёрвис",
+    "Роберт Уэйд",
+    "Пол Хаггис"
   ],
   "actors": [
-    "Daniel Craig",
-    "Eva Green",
-    "Mads Mikkelsen",
-    "Judi Dench"
+    "Дэниел Крейг",
+    "Ева Грин",
+    "Мадс Миккельсен",
+    "Джуди Денч"
   ],
-  "storyline": "Armed with a license to kill, Secret Agent James Bond sets out on his first mission as 007, and must defeat a private banker to terrorists in a high stakes game of poker at Casino Royale, Montenegro, but things are not what they seem."
+  "storyline": "Получив лицензию на убийство, секретный агент Джеймс Бонд выходит на свою первую миссию в статусе 007. Ему поручено уничтожить финансиста террористов — загадочного банкира — в ходе азартной игры в покер на огромные суммы в роскошном казино черногории. Однако всё идёт не по плану: Бонд сталкивается с коварными интригами, жестокими подручными врага, предательством и страстным романом с умной и соблазнительной казначеей организации. В этой операции на кону не только миллионы долларов, но и глобальная безопасность, а герой проходит через испытания, которые закаляют его как агента и человека."
 }

@@ -1,22 +1,22 @@
 {
-  "name": "Fight Club",
+  "name": "Бойцовский клуб",
   "year": 1999,
   "runtime": 139,
   "categories": [
-    "drama"
+    "драма"
   ],
   "release-date": "1999-10-15",
-  "director": "David Fincher",
+  "director": "Дэвид Финчер",
   "writer": [
-    "Chuck Palahniuk",
-    "Jim Uhls"
+    "Чак Паланик",
+    "Джим Ухлс"
   ],
   "actors": [
-    "Edward Norton",
-    "Brad Pitt",
-    "Meat Loaf",
-    "Zach Grenier",
-    "Helena Bonham Carter"
+    "Эдвард Нортон",
+    "Брэд Питт",
+    "Мит Лоаф",
+    "Зак Гренье",
+    "Хелена Бонэм Картер"
   ],
-  "storyline": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention."
+  "storyline": "Уставший от жизни офисный клерк, мучающийся хронической бессонницей, случайно знакомится с харизматичным и эксцентричным продавцом мыла Тайлером Дёрдэном. После загадочного взрыва его идеальной квартиры герой переезжает в грязный, обшарпанный дом Тайлера. Два мужчины, полные разочарования в потребительском обществе и рутинной жизни, решают создать подпольный бойцовский клуб. В нём действуют строгие правила: первое — никогда не говорить о клубе, второе — то же самое. Клуб быстро набирает популярность среди таких же отчаявшихся мужчин, жаждущих почувствовать себя живыми через настоящие драки. Однако их крепкая дружба начинает трещать по швам, когда в их жизнь врывается Марла — циничная и загадочная женщина, постоянно посещающая группы психологической поддержки под ложным предлогом. Её появление провоцирует ревность и раскрывает тёмные тайны."
 }

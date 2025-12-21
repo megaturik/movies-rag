@@ -1,20 +1,20 @@
 {
-    "name": "Bigger",
-    "year": 2018,
-    "runtime": 107,
-    "categories": [
-      "drama"
-    ],
-    "release-date": "2018-10-12",
-    "director": "George Gallo",
-    "writer": [
-        "George Gallo",
-        "Andy Weiss"
-    ],
-    "actors": [
-      "Julianne Hough",
-      "Calum Von Moger",
-      "Colton Haynes"
-    ],
-    "storyline":"The inspirational tale of the grandfathers of fitness as we now know it, Joe and Ben Weider. Facing anti-Semitism and extreme poverty, the brothers beat all odds to build an empire and inspire future generations."
+  "name": "Больше",
+  "year": 2018,
+  "runtime": 107,
+  "categories": [
+    "драма"
+  ],
+  "release-date": "2018-10-12",
+  "director": "Джордж Галло",
+  "writers": [
+    "Джордж Галло",
+    "Энди Вайс"
+  ],
+  "actors": [
+    "Джулианна Хаф",
+    "Калум фон Могер",
+    "Колтон Хэйнс"
+  ],
+  "storyline": "Биографическая драма рассказывает об основателях современной индустрии фитнеса и бодибилдинга — братьях Джо и Бене Вейдерах. В 1940-е годы, в эпоху Великой депрессии, они сталкиваются с жестоким антисемитизмом, крайней нищетой и общественным презрением к их идеям. Несмотря на все преграды, братья издают первые журналы о физическом развитии, организуют соревнования по бодибилдингу и строят многомиллионную империю. Их неукротимая воля и дальновидность вдохновляют миллионы, закладывая основу для легендарных атлетов и меняя глобальное представление о здоровье и красоте тела."
 }

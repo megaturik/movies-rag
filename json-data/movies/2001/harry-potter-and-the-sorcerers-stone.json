@@ -1,22 +1,22 @@
 {
-  "name": "Harry Potter and the Sorcerer's Stone",
+  "name": "Гарри Поттер и философский камень",
   "year": 2001,
   "runtime": 152,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2001-11-16",
-  "director": "Chris Columbus",
+  "director": "Крис Коламбус",
   "writer": [
-    "J.K. Rowling",
-    "Steve Kloves"
+    "Дж. К. Роулинг",
+    "Стив Кловес"
   ],
   "actors": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Richard Harris"
+    "Дэниел Рэдклифф",
+    "Руперт Гринт",
+    "Ричард Харрис"
   ],
-  "storyline": "At Hogwarts School of Witchcraft and Wizardry, Harry embarks on the adventure of a lifetime. He learns the high-flying sport Quidditch and plays a thrilling game with living chess pieces on his way to face a Dark Wizard bent on destroying him."
+  "storyline": "Одиннадцатилетний сирота Гарри живёт в невзрачном пригороде с тётей и дядей, которые относятся к нему с презрением. В день его рождения начинают происходить странные события: загадочные письма, преследующие его, и наконец, добродушный великан увозит мальчика в волшебный мир. В школе чародейства и волшебства Гарри узнаёт правду о своём прошлом, обретает верных друзей — смышлёную Гермиону и весёлого Рона. Он осваивает магию, летает на метле в захватывающем квиддиче, разгадывает тайны с живыми шахматами и сталкивается с Тёмным Волшебником, жаждущим его смерти. Первое настоящее приключение полно чудес, опасностей и открытий."
 }

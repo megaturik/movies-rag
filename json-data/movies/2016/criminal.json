@@ -1,21 +1,21 @@
 {
-  "name": "Criminal",
+  "name": "Преступник",
   "year": 2016,
   "runtime": 113,
   "categories": [
-    "mistery",
-    "crime"
+    "детектив",
+    "криминал"
   ],
   "release-date": "2016-04-14",
-  "director": "Ariel Vromen",
+  "director": "Ариэль Вромен",
   "writer": [
-    "Douglas Vromen",
-    "David Weisberg"
+    "Дуглас Вромен",
+    "Дэвид Вайсберг"
   ],
   "actors": [
-    "Kevin Costner",
-    "Ryan Reynolds",
-    "Gal Gadot"
+    "Кевин Костнер",
+    "Райан Рейнольдс",
+    "Галь Гадот"
   ],
-  "storyline": "CIA agent Bill Pope (Ryan Reynolds) dies while traveling to a secret location to meet a hacker who can launch missiles at will. Desperate to find his whereabouts, officials turn to an experimental neurosurgeon who can transfer memories from one brain to another. The guinea pig for the procedure is Jerico Stewart (Kevin Costner), a violent and dangerous death-row inmate. Now gifted with Pope's skills and knowledge, Stewart must race against time to stop a sinister international conspiracy."
+  "storyline": "Агент ЦРУ Билл Поуп (Райан Рейнольдс), опытный оперативник, погибает по пути на сверхсекретную встречу с хакером по кличке 'Призрак', который обладает абсолютным контролем над запуском баллистических ракет и может спровоцировать глобальную катастрофу. В отчаянии коллеги Поупа обращаются к революционной процедуре нейрохирурга, позволяющей перенести воспоминания, навыки и знания умирающего мозга в тело другого человека. Подопытным становится Джеррико Стюарт (Кевин Костнер) — грубый, импульсивный и крайне опасный преступник, ожидавший казни в камере смертников. Операция удается: теперь в теле убийцы оживают профессионализм и интуиция агента ЦРУ. Однако сосуществование двух сознаний порождает внутренний конфликт. Под неусыпным надзором спецслужб Стюарт бросается в погоню: ему предстоит разгадать цепочку предательств, выследить хакера и предотвратить активацию оружия массового поражения, пока зловещий международный заговор не уничтожил мир."
 }

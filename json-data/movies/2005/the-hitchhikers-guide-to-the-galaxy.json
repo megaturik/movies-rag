@@ -1,22 +1,22 @@
 {
-    "name": "The Hitchhiker's Guide to the Galaxy",
-    "year": 2005,
-    "runtime": 109,
-    "categories": [
-        "adventure",
-        "comedy",
-        "sci-fi"
-    ],
-    "release-date": "2005-04-29",
-    "director": "Garth Jennings",
-    "writer": [
-        "Douglas Adams",
-        "Karey Kirkpatrick"
-    ],
-    "actors": [
-        "Martin Freeman",
-        "Yasiin Bey",
-        "Sam Rockwell"
-    ],
-    "storyline": "Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of The Hitchhiker's Guide to the Galaxy."
+  "name": "Автостопом по галактике",
+  "year": 2005,
+  "runtime": 109,
+  "categories": [
+    "приключения",
+    "комедия",
+    "научная фантастика"
+  ],
+  "release-date": "2005-04-29",
+  "director": "Гарт Дженнингс",
+  "writer": [
+    "Дуглас Адамс",
+    "Кэри Киркпатрик"
+  ],
+  "actors": [
+    "Мартин Фриман",
+    "Ясиин Бей",
+    "Сэм Рокуэлл"
+  ],
+  "storyline": "Непосредственно перед тем, как Землю уничтожит инопланетная строительная бригада для постройки гиперпространственной трассы, обычный служащий Артур Дент чудом спасается с планеты. Его друг Форд Префект, на самом деле инопланетянин с далёкой планеты Вегус, вовремя уводит его на украденном корабле. Форд работает исследователем, собирая данные для обновления всеобъемлющего справочника по галактике. Вместе они мчатся через космос, сталкиваясь с абсурдными бюрократами вроде Зифа Бидеброда, президентом Галактической Федерации, и роботом Марвином, страдающим от депрессии. Приключения полны чёрного юмора, философских загадок о смысле жизни и неожиданных поворотов, раскрывающих тайны Вселенной."
 }

@@ -1,19 +1,19 @@
 {
-  "name": "Fantastic Beasts and Where to Find Them",
+  "name": "Фантастические твари и где они обитают",
   "year": 2016,
   "runtime": 133,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2016-11-18",
-  "director": "David Yates",
-  "writer": "J.K. Rowling",
+  "director": "Дэвид Йейтс",
+  "writers": "Дж. К. Роулинг",
   "actors": [
-    "Eddie Redmayne",
-    "Katherine Waterston",
-    "Alison Sudol"
+    "Эдди Редмэйн",
+    "Кэтрин Уотерстон",
+    "Элисон Садол"
   ],
-  "storyline": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school."
+  "storyline": "В 1926 году магозоолог Ньют Скамандер приезжает в Нью-Йорк с магическим кейсом, полным редких фантастических тварей. По случайности одно существо сбегает, вызывая хаос в магическом сообществе. Ньют встречает бывшего аврора Тину Голдштейн, её эксцентричную сестру Квинну и простого пекаря-маггла Джейкоба. Вместе они ловят сбежавших тварей, сражаются с таинственным тёмным волшебником и предотвращают катастрофу, которая может разоблачить волшебный мир перед не-маглами. События происходят за семьдесят лет до знакомства с мальчиком-который-выжил."
 }

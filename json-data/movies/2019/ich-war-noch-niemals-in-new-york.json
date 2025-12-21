@@ -1,33 +1,33 @@
 {
-  "name": "Ich war noch niemals in New York",
+  "name": "Я ещё ни разу не был в Нью-Йорке",
   "year": 2019,
   "runtime": 127,
   "categories": [
-    "comedy",
-    "drama",
-    "musical",
-	  "romance"
+    "комедия",
+    "драма",
+    "мюзикл",
+    "мелодрама"
   ],
   "release-date": "2019-10-17",
-  "director": "Philipp Stölzl",
+  "director": "Филипп Штёльцль",
   "writer": [
-    "Alexander Dydyna",
-    "Philipp Stölzl",
-    "Jan Berger",
-    "Karsten Dusse",
-    "Gabriel Barylli",
-    "Christian Struppeck",
-    "Udo Jürgens"
+    "Александр Дюдьяна",
+    "Филипп Штёльцль",
+    "Ян Бергер",
+    "Карстен Дуссе",
+    "Габриэль Барелли",
+    "Кристиан Штруппек",
+    "Удо Юргенс"
   ],
   "actors": [
-    "Heike Makatsch",
-    "Moritz Bleibtreu",
-    "Katharina Thalbach",
-    "Uwe Ochsenknecht",
-    "Michael Ostroski",
-    "Pasquale Alearsi",
-    "Marlon Schram",
-    "Michael Aston"
+    "Хайке Макач",
+    "Мориц Бляйбтрой",
+    "Катарина Тальбах",
+    "Уве Оксенкнехт",
+    "Михаэль Остроски",
+    "Паскуале Алеарси",
+    "Марлон Шрам",
+    "Михаэль Астон"
   ],
-  "storyline": "For television presenter Lisa Wartberg her job is the most important thing in life. That changes, however, when her mother Maria loses her memory after an accident and suddenly knows only one thing: she has never been to New York. The feisty lady escapes from the hospital and smuggles herself as a stowaway on board a cruise ship to finally experience the city, which never sleeps, up close. Her daughter has no choice but to go on the search for her mother together with her make-up artist Fred. They do find her, but the ship leaves before Lisa and her mother get off board. A chaotic journey across the Atlantic begins, where Lisa not only gets to know passenger Axel and his son, but also her mother makes an exciting acquaintance."
+  "storyline": "Для телеведущей Лизы Вартберг карьера — главное в жизни. Но всё меняется после аварии: её мать Мария теряет память и помнит лишь одно — она никогда не была в Нью-Йорке. Упрямая дама сбегает из больницы, пробирается зайцем на круизный лайнер, чтобы наконец увидеть город, который не спит. Лиза в отчаянии летит на поиски с визажистом Фредом. Они находят Марию, но корабль отплывает. Начинается хаотичное путешествие через Атлантику: Лиза знакомится с обаятельным Акселем и его сыном, переживает романтику и музыку, а Мария обретает волнующую встречу, меняющую их жизни. По пути — смех, песни и важные открытия."
 }

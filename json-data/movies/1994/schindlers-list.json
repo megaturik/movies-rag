@@ -1,22 +1,22 @@
 {
-    "name": "Schindlers List",
-    "year": 1994,
-    "runtime": 195,
-    "categories": [
-      "biography",
-      "drama",
-      "history"
-    ],
-    "release-date": "1994-02-04",
-    "director": "Steven Spielberg",
-    "writer": [
-      "Thomas Keneally",
-      "Steven Zaillian"
-    ],
-    "actors": [
-      "Liam Neeson",
-      "Ralph Fiennes",
-      "Ben Kingsley"
-    ],
-    "storyline": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans."
-  }
+  "name": "Список Шиндлера",
+  "year": 1994,
+  "runtime": 195,
+  "categories": [
+    "биография",
+    "драма",
+    "история"
+  ],
+  "release-date": "1994-02-04",
+  "director": "Стивен Спилберг",
+  "writer": [
+    "Томас Кенелли",
+    "Стивен Заиллиан"
+  ],
+  "actors": [
+    "Лиам Нисон",
+    "Ральф Файнс",
+    "Бен Кингсли"
+  ],
+  "storyline": "В оккупированной немцами Польше во время Второй мировой войны промышленник Оскар Шиндлер, стремящийся к наживе, постепенно проникается сочувствием к своим еврейским рабочим. Он становится свидетелем жестоких преследований нацистами: массовых облав, унижений и отправки в лагеря смерти. Чтобы спасти их от гибели, Шиндлер начинает использовать своё влияние и связи, предлагая фабрику для военного производства и составляя списки 'необходимых' рабочих. Рискуя состоянием, свободой и жизнью, он спасает более тысячи евреев, превращаясь из эгоистичного дельца в настоящего спасителя в разгар Холокоста."
+}

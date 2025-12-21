@@ -1,30 +1,30 @@
 {
-  "name": "Memento",
+  "name": "Помни",
   "year": 2001,
   "runtime": 113,
   "categories": [
-    "thriller",
-    "crime",
-    "film noir",
-    "mystery",
-    "drama"
+    "триллер",
+    "криминал",
+    "фильм-нуар",
+    "детектив",
+    "драма"
   ],
   "release-date": "2001-09-05",
-  "director": "Christopher Nolan",
-  "writer": [
-    "Suzanne Todd",
-    "Jennifer Todd"
+  "director": "Кристофер Нолан",
+  "writers": [
+    "Сьюзен Тодд",
+    "Дженнифер Тодд"
   ],
   "actors": [
-    "Guy Pearce",
-    "Carrie-Anne Moss",
-    "Joe Pantoliano",
-    "Mark Boone Junior",
-    "Stephen Tobolowsky",
-    "Harriet Sansom Harris",
-    "Callum Keith Rennie",
-    "Larry Holden",
-    "Jorja Fox"
+    "Гай Пирс",
+    "Кэрри-Энн Мосс",
+    "Джо Пантолиано",
+    "Марк Бун Джуниор",
+    "Стивен Тоболовски",
+    "Гарриет Сансом Харрис",
+    "Каллум Кит Ренни",
+    "Ларри Холден",
+    "Джорджія Фокс"
   ],
-  "storyline": "Leonard (Guy Pearce) is tracking down the man who raped and murdered his wife. The difficulty, however, of locating his wife's killer is compounded by the fact that he suffers from a rare, untreatable form of memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why."
+  "storyline": "Леонард страдает от редкой формы антероградной амнезии: он не способен запоминать новые события дольше нескольких минут. Несмотря на это, он одержим местью — разыскивает человека, который изнасиловал и убил его жену. Леонард помнит всё до момента трагедии, но настоящее ускользает: он не знает, где находится, куда направляется и почему. Чтобы ориентироваться, герой использует татуировки на теле с ключевыми подсказками, записки в карманах и фотографиями с пометками. В мире, полном обмана и подозрительных личностей, Леонард борется с лабиринтом лжи, пытаясь отличить друзей от врагов. Его нелинейное путешествие раскрывает слои тайн, где прошлое и настоящее сплетаются в запутанный узор, заставляя зрителя сомневаться в каждом шаге."
 }

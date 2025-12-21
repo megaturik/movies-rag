@@ -1,21 +1,21 @@
 {
-  "name": "Jay and Silent Bob Strike Back",
+  "name": "Джей и Молчаливый Боб наносят ответный удар",
   "year": 2001,
   "runtime": 104,
   "categories": [
-    "comedy"
+    "комедия"
   ],
   "release-date": "2001-08-24",
-  "director": "Kevin Smith",
-  "writer": [
-     "Kevin Smith"
+  "director": "Кевин Смит",
+  "writers": [
+    "Кевин Смит"
   ],
   "actors": [
-     "Jason Mewes",
-     "Kevin Smith",
-     "Ben Afleck",
-     "Jeff Anderson",
-     "Brian O'Halloran"
+    "Джейсон Мьюз",
+    "Кевин Смит",
+    "Бен Аффлек",
+    "Джефф Андерсон",
+    "Брайан О'Халлоран"
   ],
-  "storyline": "The comic 'Bluntman and Chronic' is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation, they set out to wreck the movie."
+  "storyline": "Два закадычных друга, бездельники и любители травки, узнают, что в Голливуде снимают блокбастер по комиксу, вдохновлённому их собственной жизнью. Ни цента прибыли им не светит, так что они решают отправиться в Лос-Анджелес, чтобы раз и навсегда сорвать производство. По пути парни встречают старых знакомых из лавки за углом, знаменитостей и попадают в череду абсурдных, хулиганских приключений. С кучей отсылок к поп-культуре, самоиронией и фирменным юмором создателя, они сеют хаос на пути к своей цели, не жалея сил на эпатаж и розыгрыши."
 }

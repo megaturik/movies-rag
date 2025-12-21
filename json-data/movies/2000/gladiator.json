@@ -1,35 +1,35 @@
 {
-  "name": "Gladiator",
+  "name": "Гладиатор",
   "year": 2000,
   "runtime": 155,
   "categories": [
-    "adventure",
-    "drama",
-    "action"
+    "приключения",
+    "драма",
+    "боевик"
   ],
   "release-date": "2000-05-05",
-  "director": "Ridley Scott",
+  "director": "Ридли Скотт",
   "writer": [
-    "David Franzoni",
-    "John Logan",
-    "William Nicholson"
+    "Дэвид Франзони",
+    "Джон Логан",
+    "Уильям Николсон"
   ],
   "actors": [
-    "Russell Crowe",
-    "Joaquin Phoenix",
-    "Connie Nielsen",
-    "Oliver Reed",
-    "Richard Harris",
-    "Derek Jacobi",
-    "Djimon Hounsou",
-    "David Schofield",
-    "John Shrapnel",
-    "Tomas Arana",
-    "Ralf Moeller",
-    "Spencer Treat Clark",
-    "David Hemmings",
-    "Tommy Flanagan",
-    "Sven-Ole Thorsen"
+    "Рассел Кроу",
+    "Хоакин Феникс",
+    "Конни Нильсен",
+    "Оливер Рид",
+    "Ричард Харрис",
+    "Дерек Джэкоми",
+    "Джимон Хонсу",
+    "Дэвид Скофилд",
+    "Джон Шрэпнел",
+    "Томас Арана",
+    "Ральф Мёллер",
+    "Спенсер Трит Кларк",
+    "Дэвид Хеммингс",
+    "Томми Флэнаган",
+    "Свен-Оле Торсен"
   ],
-  "storyline": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge."
+  "storyline": "Максимус — выдающийся римский генерал, пользующийся любовью народа и уважением стареющего императора Марка Аврелия. Перед смертью монарх решает передать ему власть, обойдя родного сына Коммода. Это решение провоцирует ожесточённую борьбу за трон, в ходе которой Максимуса и его семью объявляют вне закона и приговаривают к казни. Не сумев защитить близких, преданный воин впадает в отчаяние, попадает в плен и оказывается на гладиаторских аренах, где ему суждено сражаться насмерть. Теперь его единственной опорой становится неукротимая жажда возмездия: подняться по кровавой лестнице славы, чтобы в упор взглянуть в глаза предателю и свершить правосудие."
 }

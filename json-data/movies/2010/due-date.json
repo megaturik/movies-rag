@@ -1,24 +1,24 @@
 {
-    "name": "Due Date",
-    "year": 2010,
-    "runtime": 95,
-    "categories": [
-        "comedy",
-        "adventure"
-    ],
-    "release-date": "2010-11-05",
-    "director": "Todd Phillips",
-    "writer": [
-        "Alan R. Cohen",
-        "Alan Freedland",
-        "Adam Sztykiel",
-        "Todd Phillips"
-    ],
-    "actors": [
-        "Robert Downey Jr.",
-        "Zach Galifianakis",
-        "Michelle Monaghan",
-        "Jamie Foxx"
-    ],
-    "storyline": "Businessman and first time father (to-be), Peter Highman's in Atalanta trying to get home to LA, where how wife's about to give birth, but after getting kicked off a plane, due to his seat mate, the pair end up trying to hitch a rideto the west coast."
+  "name": "Побег по правилам",
+  "year": 2010,
+  "runtime": 95,
+  "categories": [
+    "комедия",
+    "приключения"
+  ],
+  "release-date": "2010-11-05",
+  "director": "Тодд Филлипс",
+  "writer": [
+    "Алан Р. Коэн",
+    "Алан Фридланд",
+    "Адам Штыкель",
+    "Тодд Филлипс"
+  ],
+  "actors": [
+    "Роберт Дауни-мл.",
+    "Зак Галифианакис",
+    "Мишель Монаган",
+    "Джейми Фокс"
+  ],
+  "storyline": "Бизнесмен Питер Хайман, впервые становящийся отцом, спешит из Атланты в Лос-Анджелес, чтобы присутствовать при родах жены. На самолёте он ссорится с эксцентричным соседом по креслу Итаном Тремблеем, и обоих высаживают с рейса. Теперь им приходится добираться автостопом и на попутках через всю страну на Западное побережье. По пути парочка сталкивается с абсурдными ситуациями: от полицейских погонь и странных знакомств до личных кризисов и взаимных разборок. Эта вынужденная дружба раскрывает характеры героев, полна чёрного юмора, нелепых недоразумений и трогательных моментов, превращая поездку в настоящее испытание на прочность."
 }

@@ -1,21 +1,21 @@
 {
-  "name": "One Flew Over the Cuckoo's Nest",
+  "name": "Пролетая над гнездом кукушки",
   "year": 1975,
   "runtime": 134,
   "categories": [
-    "comedy",
-    "drama"
+    "комедия",
+    "драма"
   ],
   "release-date": "1975-11-19",
-  "director": "Miloš Forman",
+  "director": "Милош Форман",
   "writer": [
-    "Saul Zaentz",
-    "Michael Douglas"
+    "Сол Зентц",
+    "Майкл Дуглас"
   ],
   "actors": [
-    "Jack Nicholson",
-    "Louise Fletcher",
-    "William Redfield"
+    "Джек Николсон",
+    "Луиза Флетчер",
+    "Уильям Редфилд"
   ],
-  "storyline": "McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse."
+  "storyline": "Рэндл Патрик Макмёрфи, рецидивист с криминальным прошлым, снова попадает под суд и, чтобы избежать каторжного труда на ферме, симулирует безумие. Его переводят в психиатрическую клинику, в палату для хронически больных. Там царит железная власть главной медсестры Рэтчед — холодной, манипулятивной тиранки, которая подавляет пациентов с помощью лекарств, процедур и психологического давления, эксплуатируя их слабости. Макмёрфи, полный энергии и бунтарского духа, организует сопротивление: устраивает азартные игры, рыбалку, вечеринки. Пациенты пробуждаются, обретают смелость, но цена свободы высока — столкновение с системой приводит к трагедии."
 }

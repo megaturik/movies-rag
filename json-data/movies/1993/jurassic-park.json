@@ -1,22 +1,22 @@
 {
-  "name": "Jurassic Park",
+  "name": "Парк Юрского периода",
   "year": 1993,
   "runtime": 127,
   "categories": [
-    "adventure",
-    "thriller",
-    "sci-fi"
+    "приключения",
+    "триллер",
+    "фантастика"
   ],
   "release-date": "1993-06-11",
-  "director": "Steven Spielberg",
+  "director": "Стивен Спилберг",
   "writer": [
-    "Michael Crichton",
-    "David Koepp"
+    "Майкл Крайтон",
+    "Дэвид Копп"
   ],
   "actors": [
-    "Sam Neill",
-    "Laura Dern",
-    "Jeff Goldblum"
+    "Сэм Нилл",
+    "Лора Дерн",
+    "Джефф Голдблюм"
   ],
-  "storyline": "Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island."
+  "storyline": "Значительные прорывы в биотехнологиях позволили богатому магнату создать на отдалённом острове заповедник с живыми динозаврами, воссозданными из ДНК древних существ. Миллиардер Джон Хэммонд приглашает группу специалистов — палеонтолога Алана Гранта, палеоботаника Элли Сэттлер и хаотического математика Иэна Малкольма — вместе со своими внуками на экскурсию. Но идиллия рушится: саботажник-компьютерщик крадёт эмбрионы динозавров, системы безопасности парализованы тропическим штормом и хакерской атакой. Посетители и персонал в панике убегают от тираннозавров, велоцирапторов и других первобытных чудовищ, бродящих на свободе. Борьба за выживание превращается в кошмарный триллер, где наука сталкивается с неукротимой природой."
 }

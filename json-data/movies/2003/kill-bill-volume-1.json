@@ -1,23 +1,22 @@
 {
-    "name": "Kill Bill Volume 1",
-    "year": 2003,
-    "runtime": 111,
-    "categories": [
-        "Action",
-        "Thriller"
-    ],
-    "release-date": "2003-10-10",
-    "director": "Quentin Tarantino",
-    "writer": [
-        "Quentin Tarantino"
-    ],
-    "actors": [
-      "Uma Thurman",
-      "David Carradine",
-      "Lucy Liu",
-      "Daryl Hannah",
-      "Michael Madsen"
-    ],
-    "storyline": "When a member of the Deadly Viper Assassination squad led by 'Bill', realizes she is pregnant with his child, she decided to escape the life. She fled to Texas, met a man, and on the day of their wedding rehearsal, both of them were gunned down by Bill. Four years later, 'The Bride' wakes up from a coma to find that she had lost both her future husband and the baby. She then decides to seek revenge on Bill, and the team of assassians who destroyed her life."
-  }
-  
+  "name": "Убить Билла: Часть 1",
+  "year": 2003,
+  "runtime": 111,
+  "categories": [
+    "Боевик",
+    "Триллер"
+  ],
+  "release-date": "2003-10-10",
+  "director": "Квентин Тарантино",
+  "writer": [
+    "Квентин Тарантино"
+  ],
+  "actors": [
+    "Ума Турман",
+    "Дэвид Каррадин",
+    "Люси Лью",
+    "Дэрил Ханна",
+    "Майкл Мэдсен"
+  ],
+  "storyline": "Одна из элитных убийц отряда \"Смертельные гадюки\", подчиненного харизматичному и безжалостному Биллу, внезапно узнаёт, что беременна его ребёнком. Решив порвать с кровавым прошлым, она скрывается в тихом техасском городке, встречает любимого человека и готовится к свадьбе. Однако в день репетиции церемонии Билл с командой устраивают жестокую бойню: уничтожают всех присутствующих, убивают жениха и наносят невесте смертельные раны. Чудом выжившая, она впадает в кому на целых четыре года. Очнувшись в больнице, \"Невеста\" узнаёт страшную правду: её мечты о счастливой жизни разбиты, ребёнок погиб. Теперь охвачена жаждой мести, она методично планирует возмездие каждому члену отряда и, в конечном итоге, самому Биллу."
+}

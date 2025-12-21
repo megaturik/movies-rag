@@ -1,20 +1,20 @@
 {
-    "name": "Blue Beetle",
-    "year": 2023,
-    "runtime": 128,
-    "categories": [
-      "action",
-      "adventure",      
-      "sci-fi"
-    ],
-    "release-date": "2023-08-15",
-    "director": "Ángel Manuel Soto",
-    "writer": "Gareth Dunnet-Alcocer",
-    "actors": [
-      "Xolo Maridueña",
-      "Bruna Marquezine",
-      "Susan Sarandon",
-      "Raoul Max Trujillo"
-    ],
-    "storyline": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab. When the Scarab suddenly chooses Jaime to be its symbiotic host, he is bestowed with an incredible suit of armor capable of extraordinary and unpredictable powers, forever changing his destiny as he becomes the Super Hero BLUE BEETLE."
-  }
+  "name": "Жук",
+  "year": 2023,
+  "runtime": 128,
+  "categories": [
+    "боевик",
+    "приключения",
+    "фантастика"
+  ],
+  "release-date": "2023-08-15",
+  "director": "Ангель Мануэль Сото",
+  "writer": "Гарет Даннет-Алкосер",
+  "actors": [
+    "Холо Маридуэнья",
+    "Бруна Маркезине",
+    "Сьюзан Сарандон",
+    "Рауль Макс Трухильо"
+  ],
+  "storyline": "Недавний выпускник колледжа Джейми Рейес возвращается домой, полный амбиций и надежд на светлое будущее. Но реальность оказывается суровой: семья борется с финансовыми трудностями, а в мире царит хаос. Ища своё место в жизни, Джейми случайно обретает древнюю инопланетную реликвию — Скарабея, артефакт внеземной биотехнологии. Скарабей внезапно выбирает его симбиотическим хозяином, наделяя мощным костюмом брони с невероятными, непредсказуемыми способностями. Это меняет всё: обычный парень превращается в супергероя, вынужденного сражаться с могущественными антагонистами, такими как жестокий промышленник и его наёмники. Джейми предстоит освоить силы Скарабея, защитить близких и раскрыть тайны артефакта, чтобы предотвратить глобальную катастрофу и обрести истинное предназначение."
+}

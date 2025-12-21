@@ -1,26 +1,26 @@
 {
-  "name": "Hacksaw Ridge",
+  "name": "По соображениям совести",
   "year": 2016,
   "runtime": 139,
   "categories": [
-    "biographical drama", 
-    "war"
+    "биографическая драма",
+    "военный"
   ],
   "release-date": "2016-04-11",
-  "director": "Mel Gibson",
+  "director": "Мел Гибсон",
   "writer": [
-     	"Robert Schenkkan",
-      "Andrew Knight"
+    "Роберт Шенккан",
+    "Эндрю Найт"
   ],
   "actors": [
-     "Andrew Garfield",
-     "Sam Worthington",
-     "Luke Bracey",
-     "Teresa Palmer",
-     "Ryan Corr",
-     "Hugo Weaving",
-     "Rachel Griffiths",
-     "Vince Vaughn"
+    "Эндрю Гарфилд",
+    "Сэм Уортингтон",
+    "Люк Брейси",
+    "Тереза Палмер",
+    "Райан Корр",
+    "Хьюго Уивинг",
+    "Рэйчел Гриффитс",
+    "Винс Вон"
   ],
-  "storyline": "In rural Virginia in the mid-1920s, young boy Desmond Doss nearly kills his younger brother Hal while they play. Because of this event and his Adventist education, Doss's belief in the commandment 'Thou shalt not kill' is reinforced. Years later, as an adult, Doss takes an injured man on the street to the hospital and meets Nurse Dorothy Schutte. The two start a romance and Doss tells Dorothy about his interest in medical work."
+  "storyline": "В сельской Вирджинии в середине 1920-х годов юный Десмонд Досс во время игры чуть не убивает своего младшего брата Хэла. Этот инцидент и адвентистское воспитание укрепляют его веру в библейскую заповедь «Не убий». Спустя годы взрослый Досс помогает раненому прохожему и встречает в больнице медсестру Дороти Шутт. Между ними вспыхивает роман, он делится с ней мечтой о медицинской карьере. Решив служить родине во Второй мировой войне, Досс записывается в армию как санитар, отказываясь от оружия из-за убеждений. В учебке он сталкивается с жестоким давлением и издевательствами товарищей и офицеров, но не отступает. На фронте в Тихом океане его вера подвергается тяжелейшим испытаниям, где он проявляет невероятный героизм, спасая жизни под огнем противника."
 }

@@ -1,10 +1,10 @@
 {
-  "name": "The Matrix Revolutions",
+  "name": "Матрица: Революция",
   "year": 2003,
   "runtime": 129,
   "categories": [
-    "action",
-    "thriller"
+    "боевик",
+    "триллер"
   ],
   "description": "In a dystopia overrun by robots, Neo (Keanu Reeves), mankind's greatest hope, is trapped in a limbo world. Meanwhile, the majority of the planet's population remains in a state of suspended virtual reality. The few humans who are cognizant of the grim realities of the world desperately try to hold off their mechanical enemies long enough for Neo to escape and save the day, but things turn disastrous when all-powerful computer program Agent Smith (Hugo Weaving) arrives in the flesh.",
   "release-date": "2003-11-05",
@@ -12,7 +12,7 @@
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
-  "writer": [
+  "writers": [
     "Lana Wachowski",
     "Lilly Wachowski"
   ],
@@ -65,7 +65,7 @@
     "Anthony Brandon Wong",
     "Anthony Zerbe",
     "Craig Walker"
-  ]
-  ,
-  "Rating":"6.7(IMDB)"
+  ],
+  "Rating": "6.7(IMDB)",
+  "storyline": "В постапокалиптической дистопии, где роботы-машины поработили человечество, Нео, последняя надежда людей, оказывается запертым в промежуточном мире-лимбо. Большинство населения существует в иллюзорной виртуальной реальности, не ведая о реальных ужасах. Горстка свободных борцов за свободу яростно обороняет последний человеческий город от нашествия механических армий, выигрывая время для Нео, чтобы он вырвался и переломил ход войны. Однако ситуация выходит из-под контроля: могущественная компьютерная программа Агент Смит обретает физическое воплощение и превращается в неконтролируемого вируса, угрожающего уничтожить как симуляцию, так и реальный мир. Нео предстоит финальное испытание, где цена победы — его собственная жизнь, а на кону судьба всего сущего."
 }

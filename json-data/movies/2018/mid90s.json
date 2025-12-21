@@ -1,20 +1,20 @@
 {
-  "name": "Mid90s",
+  "name": "Мид90с",
   "year": 2018,
   "runtime": 84,
   "categories": [
-    "comedy",
-    "drama"
+    "комедия",
+    "драма"
   ],
   "release-date": "2018-10-19",
-  "director": "Jonah Hill",
-  "writer": [
-    "Jonah Hill"
+  "director": "Джон Хилл",
+  "writers": [
+    "Джон Хилл"
   ],
   "actors": [
-    "Sunny Suljic",
-    "Lucas Hedges",
-    "Na-kel Smith"
+    "Санни Сулжич",
+    "Лукас Хеджес",
+    "На-кел Смит"
   ],
-  "storyline": "The movie follows a teenager named Stevie growing up in Los Angeles. He's struggling with his family, including his co-dependent single mom and his abusive older brother, and at school, where his richer friends seem to overlook him. When Stevie befriends a crew of skateboarders, he learns some tough lessons about class, race, and privilege. Written by Polly_Kat."
+  "storyline": "В Лос-Анджелесе 90-х подросток Стиви переживает нелёгкий период взросления. Дома его угнетает агрессивный старший брат и эмоционально зависимая мать-одиночка, а в школе обеспеченные друзья игнорируют его, подчёркивая социальные разрывы. Спасение приходит с новой компанией — группой скейтеров, которые берут его под крыло. Они учат кататься на доске, жить на полную катушку, рисковать и вставать после падений. Через дружбу, первые синяки и конфликты Стиви постигает суровые уроки о классовых различиях, расовых предрассудках и настоящих привилегиях, обретая уверенность и своё место в мире."
 }

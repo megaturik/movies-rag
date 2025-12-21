@@ -1,22 +1,22 @@
 {
-  "name": "Harry Potter and the Goblet of Fire",
+  "name": "Гарри Поттер и Кубок огня",
   "year": 2005,
   "runtime": 157,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2005-11-18",
-  "director": "Mike Newell",
-  "writer": [
-    "Steve Kloves",
-    "J.K. Rowling"
+  "director": "Майк Ньюэлл",
+  "writers": [
+    "Стив Кловс",
+    "Дж. К. Роулинг"
   ],
   "actors": [
-    "Daniel Radcliffe",
-    "Emma Watson",
-    "Rupert Grint"
+    "Дэниел Рэдклифф",
+    "Эмма Уотсон",
+    "Руперт Гринт"
   ],
-  "description": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named. In this fourth film adaptation of J.K. Rowling's Harry Potter series, everything changes as Harry, Ron and Hermione leave childhood forever and take on challenges greater than anything they could have imagined."
+  "storyline": "Когда имя Гарри Поттера неожиданно вылетает из загадочного Кубка огня, он становится четвёртым участником Турнира трёх волшебников — изнурительного состязания между лучшими учениками трёх магических школ за славу и вечную ссору. Гарри не подавал свою кандидатуру, так кто же подстроил эту ловушку? Теперь юному волшебнику предстоит пережить схватку с огромным огнедышащим драконом, погружение в холодное озеро, где обитают свирепые русалки и водные демоны, а также опасный путь через зачарованный лабиринт, полный смертельных ловушек и иллюзий. В кульминации Гарри попадает в лапы Того-Кого-Нельзя-Называть, и начинается битва, меняющая всё. Вместе с друзьями Роном и Гермионой он навсегда прощается с беззаботным детством, сталкиваясь с вызовами, которые проверяют на прочность дружбу, смелость и веру в добро."
 }

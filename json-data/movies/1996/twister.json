@@ -1,22 +1,22 @@
 {
-  "name": "Twister",
+  "name": "Торнадо",
   "year": 1996,
   "runtime": 113,
   "categories": [
-    "action",
-    "adventure",
-    "drama"
+    "боевик",
+    "приключения",
+    "драма"
   ],
   "release-date": "1996-05-17",
-  "director": "Jan de Bont",
+  "director": "Ян де Бонт",
   "writer": [
-    "Michael Crichton",
-    "Anne-Marie Martin"
+    "Майкл Крайтон",
+    "Энн-Мари Мартин"
   ],
   "actors": [
-    "Bill Paxton",
-    "Helen Hunt",
-    "Jami Gertz"
+    "Билл Пэкстон",
+    "Хелен Хант",
+    "Джейми Гёрц"
   ],
-  "storyline": "During the approach of the most powerful storm in decades, university professor Dr. Jo Harding (Helen Hunt) and an underfunded team of students prepare the prototype for Dorothy, a ground-breaking tornado data-gathering device conceived by her estranged husband, Bill"
+  "storyline": "Во время приближения самого мощного торнадо за десятилетия профессор университета доктор Джо Хардинг (Хелен Хант) и её недофинансированная команда студентов готовят прототип устройства «Дороти» — революционного прибора для сбора данных внутри смерча, изобретённого её бывшим мужем Биллом (Билл Пэкстон). Билл неожиданно возвращается в разгар бури, чтобы завершить проект. Команда охотников за ураганами мчится по равнинам Оклахомы, преследуя гигантские F5-торнадо. Они рискуют жизнью, чтобы впервые проникнуть в сердце бури, собрать ценные данные и спасти жизни. Между Джо и Биллом возрождается старая страсть, пока они сражаются с неукротимой силой природы, преодолевая предательство и опасности."
 }

@@ -1,30 +1,30 @@
 {
-  "name": "The Avengers",
+  "name": "Мстители",
   "year": 2012,
   "runtime": 143,
   "categories": [
-    "action",
-    "adventure",
-    "fantasy"
+    "боевик",
+    "приключения",
+    "фэнтези"
   ],
   "release-date": "2012-04-11",
-  "director": "Joss Whedon",
+  "director": "Джосс Уидон",
   "writer": [
-    "Zak Penn",
-    "Joss Whedon"
+    "Зак Пенн",
+    "Джосс Уидон"
   ],
   "actors": [
-    "Robert Downey Jr.",
-    "Chris Evans",
-    "Mark Ruffalo",
-    "Chris Hemsworth",
-    "Scarlett Johansson",
-    "Jeremy Renner",
-    "Tom Hiddleston",
-    "Clark Gregg",
-    "Cobie Smulders",
-    "Stellan Skarsgård",
-    "Samuel L. Jackson"
+    "Роберт Дауни-мл.",
+    "Крис Эванс",
+    "Марк Руффало",
+    "Крис Хемсворт",
+    "Скарлетт Йоханссон",
+    "Джереми Реннер",
+    "Том Хиддлстон",
+    "Кларк Грегг",
+    "Коби Смолдерс",
+    "Стеллан Скарсгård",
+    "Самуэл Л. Джексон"
   ],
-  "storyline": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster which is formed by Loki and his team."
+  "storyline": "Ник Фьюри — директор Щ.И.Т., международной организации по поддержанию глобального мира. В её ряды входят выдающиеся супергерои: Железный человек, Невероятный Халк, Тор, Капитан Америка, Соколиный глаз и Чёрная вдова. Когда бог озорства Локи сбегает из заключения и объединяется с армией инопланетных захватчиков, чтобы захватить Землю с помощью космического артефакта — Тессеракта, Фьюри активирует секретный протокол. Он собирает эту команду героев с разными характерами и способностями. Им предстоит преодолеть личные конфликты, взаимное недоверие и эгоизм, чтобы сплотиться в единый кулак. Только совместными усилиями они смогут остановить вторжение, разгромить силы Локи и спасти планету от тотального уничтожения."
 }

@@ -1,22 +1,23 @@
 {
-    "year": 2018,
-    "release-date": "2018-12-14",
-    "categories": [
-      "fantasy",
-      "sci-fi"
-    ],
-    "director": "Christian Rivers",
-    "writer": [
-      "Philip Reeve",
-      "Peter Jackson "
-    ],
-    "actors": [
-      "Hugo Weaving",
-      "Robert Sheehan",
-      "Stephen Lang"
-    ],
-    "future": true,
-    "runtime": 125,
-    "plot": "Many years after the \"Sixty Minute War,\" cities survive a now desolate Earth by moving around on giant wheels attacking and devouring smaller towns to replenish their resources.",
-    "name": "Mortal Engines"
-  }
+  "year": 2018,
+  "release-date": "2018-12-14",
+  "categories": [
+    "фэнтези",
+    "научная фантастика"
+  ],
+  "director": "Кристиан Риверс",
+  "writers": [
+    "Филип Рив",
+    "Питер Джексон"
+  ],
+  "actors": [
+    "Хьюго Уивинг",
+    "Роберт Шихэн",
+    "Стивен Лэнг"
+  ],
+  "future": true,
+  "runtime": 125,
+  "plot": "Many years after the \"Sixty Minute War,\" cities survive a now desolate Earth by moving around on giant wheels attacking and devouring smaller towns to replenish their resources.",
+  "name": "Смертельные двигатели",
+  "storyline": "Спустя десятилетия после разрушительной «Шестидесятиминутной войны», опустошившей Землю, человечество выживает в гигантских передвижных городах на огромных колесах. Эти «тракторные» метрополии перемещаются по пустошам, охотясь за мелкими поселениями: захватывают, разбирают и поглощают их, чтобы добыть ресурсы и металлолом. В этом мире разворачивается история юной Хестер Шоу, чья жизнь омрачена трагедией детства и жаждой мести загадочному убийце матери. Её пути пересекается с Томом Натсуорти, простым музейным рабочим из Лондона, который невольно ввязывается в опасные приключения. Вместе они раскрывают древние тайны, способные перевернуть весь баланс сил в мире на колесах и предотвратить новую катастрофу."
+}

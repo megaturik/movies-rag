@@ -1,22 +1,22 @@
 {
-  "name": "Harry Potter and the Deathly Hallows: Part 2",
+  "name": "Гарри Поттер и Дары Смерти: Часть 2",
   "year": 2011,
   "runtime": 130,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2011-07-15",
-  "director": "David Yates",
-  "writer": [
-    "Steve Kloves",
-    "J.K. Rowling"
+  "director": "Дэвид Йейтс",
+  "writers": [
+    "Стив Кловс",
+    "Дж. К. Роулинг"
   ],
   "actors": [
-    "Daniel Radcliffe",
-    "Emma Watson",
-    "Rupert Grint"
+    "Дэниел Рэдклифф",
+    "Эмма Уотсон",
+    "Руперт Гринт"
   ],
-  "description": "In Part 2 of the epic finale, the battle between the good and evil forces of the Wizarding World escalate into an all-out war. The stakes have never been higher and no one is safe. But it is Harry Potter who may be called upon to make the ultimate sacrifice as he draws closer to the climactic showdown with Lord Voldemort. It all ends here."
+  "storyline": "Во второй части эпического финала противостояние сил добра и зла в волшебном мире перерастает в полномасштабную войну за судьбу всего сущего. Битва охватывает Хогвартс и его окрестности, где союзники и враги сражаются насмерть. Ставки небывало высоки: никто не в безопасности, потери огромны, а надежда тает с каждым мгновением. Гарри Поттеру, главному герою саги, предстоит принять тяжёлое решение и, возможно, принести высшую жертву, чтобы приблизиться к решающей дуэли с Лордом Волдемортом. Друзья, такие как Рон и Гермиона, стоят плечом к плечу, а предательства и открытия меняют всё. Кульминация полна напряжения, магии и отчаянных актов героизма. Здесь история подходит к драматическому завершению, определяя будущее волшебного мира."
 }

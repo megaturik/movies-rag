@@ -1,32 +1,31 @@
 {
-    "name": "Frozen",
-    "year": 2013,
-    "runtime": 102,
-    "categories": [
-      "animation",
-      "adventure",
-      "comedy",
-      "family",
-      "fantasy",
-      "musical"
-    ],
-    "release-date": "2013-11-27",
-    "director": [
-      "Chris Buck",
-      "Jennifer Lee"
-    ],
-    "writer": [
-      "Jennifer Lee",
-      "Chris Buck",
-      "Shane Morris"
-    ],
-    "actors": [
-      "Kristen Bell",
-      "Idina Menzel",
-      "Jonathan Groff",
-      "Josh Gad",
-      "Santino Fontana"
-    ],
-    "storyline": "It is the story of a fearless princess who sets off on a journey alongside a rugged iceman, his loyal reindeer, and a naive snowman to find her estranged sister, whose icy powers have inadvertently trapped their kingdom in eternal winter."
-  }
-  
+  "name": "Холодное сердце",
+  "year": 2013,
+  "runtime": 102,
+  "categories": [
+    "анимация",
+    "приключения",
+    "комедия",
+    "семейный",
+    "фэнтези",
+    "мюзикл"
+  ],
+  "release-date": "2013-11-27",
+  "director": [
+    "Chris Buck",
+    "Jennifer Lee"
+  ],
+  "writer": [
+    "Jennifer Lee",
+    "Chris Buck",
+    "Shane Morris"
+  ],
+  "actors": [
+    "Kristen Bell",
+    "Idina Menzel",
+    "Jonathan Groff",
+    "Josh Gad",
+    "Santino Fontana"
+  ],
+  "storyline": "В живописном королевстве царит праздник коронации, но скрытая магия старшей принцессы вызывает катастрофу: её ледяные силы выходят из-под контроля, окутывая земли вечной зимой. Младшая сестра, полная решимости и оптимизма, отправляется в рискованное путешествие через снежные пустоши, чтобы найти родную сестру и спасти всех от гибели. В попутчиках у неё оказывается суровый, но добрый проводник-ледокол с верным оленем и обаятельный, наивный снеговик, мечтающий о лете. По пути они сталкиваются с яростными метелями, древними духами природы, предательством и открывают семейные тайны прошлого. Приключение учит силе истинной любви, прощению и принятию себя, сопровождаясь зажигательными песнями и яркой анимацией."
+}

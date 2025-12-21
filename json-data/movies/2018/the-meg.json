@@ -1,24 +1,24 @@
 {
-  "name": "The Meg",
+  "name": "Мег",
   "year": 2018,
   "runtime": 113,
   "categories": [
-    "action",
-    "horror",
-    "sci-fi"
+    "боевик",
+    "ужасы",
+    "научная фантастика"
   ],
   "release-date": "2018-08-10",
-  "director": "Jon Turteltaub",
+  "director": "Джон Тертлтауб",
   "writer": [
-    "Dean Georgaris",
-    "Jon Hoeber",
-    "Erich Hoeber",
-    "Steve Alten"
+    "Дин Джорджарис",
+    "Джон Хоубер",
+    "Эрих Хоубер",
+    "Стив Альтен"
   ],
   "actors": [
-    "Jason Statham",
-    "Bingbing Li",
-    "Rainn Wilson"
+    "Джейсон Стэйтем",
+    "Ли Бинбин",
+    "Рэйн Уилсон"
   ],
-  "storyline": "After escaping an attack by what he claims was a 70-foot shark, Jonas Taylor must confront his fears to save those trapped in a sunken submersible.\nFive years ago, expert sea diver and Naval Captain Jonas Taylor encountered an unknown danger in the unexplored recesses of the Mariana Trench that forced him to abort his mission and abandon half his crew. Though the tragic incident earned him a dishonorable discharge, what ultimately cost him his career, his marriage and any semblance of honor was his unsupported and incredulous claims of what caused it - an attack on his vessel by a mammoth, 70-foot sea creature, believed to be extinct for more than a million years. But when a submersible lies sunk and disabled at the bottom of the ocean - carrying his ex-wife among the team onboard - he is the one who gets the call. Whether a shot at redemption or a suicide mission, Jonas must confront his fears and risk his own life and the lives of everyone trapped below on a single question: Could the Carcharodon Megalodon - the largest marine predator that ever existed - still be alive ... and on the hunt?"
+  "storyline": "Пять лет назад опытный дайвер и капитан ВМС Джонас Тейлор столкнулся с таинственной угрозой в неизведанных глубинах Марианской впадины. Неизвестная опасность вынудила его прервать миссию, бросив половину экипажа. Трагедия привела к не почетному увольнению, разрыву брака и потере репутации из-за его невероятных утверждений: на подлодку напало гигантское 20-метровое морское существо, вымершее миллионы лет назад. Теперь батискаф с его бывшей женой на борту затонул на океанском дне. Джонас вызван на спасение. Это шанс на искупление или самоубийственная миссия? Ему предстоит преодолеть страхи, рискнуть жизнью и выяснить: жив ли кархародон мегалодон — самый крупный морской хищник в истории — и вышел ли на охоту? Напряженная борьба с первобытным ужасом развернется в бездне."
 }

@@ -1,28 +1,28 @@
 {
-    "name": "Raya and the Last Dragon",
-    "year": 2021,
-    "runtime": 124,
-    "categories": [
-      "animation",
-      "action",
-      "adventure"
-    ],
-    "release-date": "2021-03-04",
-    "director": [
-        "Don Hall",
-        "Carlos López Estrada"
-    ],    
-    "writer": [
-      "Qui Nguyen",
-      "Adele Lim"
-    ],
-    "actors": [
-         "Kelly Marie Tran",
-         "Awkwafina", 
-         "Izaac Wang", 
-         "Gemma Chan", 
-         "Daniel Dae Kim", 
-         "Benedict Wong"
-    ],
-    "storyline": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good."
-  }
+  "name": "Райя и последний дракон",
+  "year": 2021,
+  "runtime": 124,
+  "categories": [
+    "анимация",
+    "боевик",
+    "приключения"
+  ],
+  "release-date": "2021-03-04",
+  "director": [
+    "Don Hall",
+    "Carlos López Estrada"
+  ],
+  "writer": [
+    "Qui Nguyen",
+    "Adele Lim"
+  ],
+  "actors": [
+    "Kelly Marie Tran",
+    "Awkwafina",
+    "Izaac Wang",
+    "Gemma Chan",
+    "Daniel Dae Kim",
+    "Benedict Wong"
+  ],
+  "storyline": "Давным-давно в фантастическом мире Кумандра люди и драконы жили в гармонии и мире. Но когда зловещие монстры по имени Друун, сеющие хаос и превращающие живых существ в камень, напали на землю, драконы объединились и пожертвовали собой, чтобы спасти человечество. Они создали магический драконий камень, который изгнал монстров. Прошло 500 лет. Кумандра раскололась на враждующие кланы, а Друун вернулись, угрожая уничтожить все живое. Теперь отважная воительница из клана Харт отправляется в опасное путешествие по землям Кумандры. Ей предстоит найти последнего дракона, собрать осколки магического камня, преодолеть предательства и объединить разрозненные народы, чтобы остановить катастрофу навсегда и вернуть гармонию в мир."
+}

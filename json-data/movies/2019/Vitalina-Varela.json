@@ -1,30 +1,28 @@
 {
-  "name": "Vitalina Varela",
+  "name": "Виталина Варела",
   "year": 2019,
   "runtime": 124,
   "categories": [
-    "drama"
+    "драма"
   ],
   "release-date": "2019-08-14",
-  "director": "Pedro Costa",
-  "writer": [
-    "Pedro Costa",
-    "Vitalina Varela"
+  "director": "Педру Кошта",
+  "writers": [
+    "Педру Кошта",
+    "Виталина Варела"
   ],
   "actors": [
-    "Vitalina Varela",
-    " Manuel Tavares Almeida",
-    "Tavares Borges",
-	"Francisco Brito",
-	"Marina Alves Domingues",
-	"Imídio Monteiro",
-	"Manuel Tavares Almeida",
-	"Emídio Landim Monteiro",
-	"Nilsa Fortes",
-	"Benvinda Mendes",
-	"Bruno Brito Varela"
-	
-	
+    "Виталина Варела",
+    "Мануэл Тавеш Алмейда",
+    "Тавеш Боржеш",
+    "Франсишку Бриту",
+    "Марина Алвеш Домингес",
+    "Эмидиу Монтейру",
+    "Мануэл Тавеш Алмейда",
+    "Эмидиу Ланди́м Монтейру",
+    "Нилса Фортес",
+    "Бенвинда Мендеш",
+    "Бруну Бриту Варела"
   ],
-  "storyline": "Vitalina Varela, a 55-year-old woman from Cape Verde, arrives in Lisbon three days after her husband's funeral. She's been waiting for her plane ticket for more than 25 years."
+  "storyline": "55-летняя женщина из Кабо-Верде прибывает в Лиссабон через три дня после похорон мужа. Более четверти века она ждала билет на самолёт, чтобы воссоединиться с ним в Portugal. Но вместо встречи её ждёт пустота: лачуга мужа в трущобах Фонтаньяс разрушена, он давно покинул этот мир. Оставшись одна в чужом городе, она бродит по лабиринтам нищеты, общаясь со стариками-иммигрантами, которые делятся воспоминаниями о прошлом. Через их истории и свои монологи раскрывается трагедия её жизни: годы тоски, предательства, потери детей и одиночества. Фильм — медитативное путешествие в мир забытых душ, где реальность переплетается с призраками и поэзией горя."
 }

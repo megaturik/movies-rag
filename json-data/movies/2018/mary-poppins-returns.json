@@ -1,23 +1,23 @@
 {
-    "name": "Mary Poppins Returns",
-    "year": 2018,
-    "director": "Rob Marshall",
-    "writer": [
-      "David Magee",
-      "P.L. Travers"
-    ],
-    "actors": [
-      "Emily Blunt",
-      "Meryl Streep",
-      "Ben Whishaw"
-    ],
-    "plot": "In Depression-era London, a now-grown Jane and Michael Banks, along with Michael's three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.",
-    "future": true,
-    "runtime": 145,
-    "released": "2018-12-25",
-    "categories": [
-      "family",
-      "fantasy",
-      "musical"
-    ]
-  }
+  "name": "Мэри Поппинс возвращается",
+  "year": 2018,
+  "director": "Роб Маршалл",
+  "writers": [
+    "Дэвид Миджи",
+    "П. Л. Трэверс"
+  ],
+  "actors": [
+    "Эмили Блант",
+    "Мерил Стрип",
+    "Бен Уишоу"
+  ],
+  "storyline": "В Лондоне эпохи Великой депрессии повзрослевшие Джейн и Майкл Бэнкс вместе с тремя детьми Майкла переживают тяжёлую личную утрату. В этот трудный момент в их жизни неожиданно появляется загадочная няня с волшебными способностями. С помощью своих уникальных магических талантов и поддержки верного друга — бывшего трубочиста, она погружает семью в мир удивительных приключений, песен и чудес. Через фантастические путешествия и неиссякаемый оптимизм няня помогает взрослым и детям заново открыть радость жизни, веру в добро и умение видеть волшебство в повседневности, возвращая утраченный блеск в их глазах.",
+  "future": true,
+  "runtime": 145,
+  "released": "2018-12-25",
+  "categories": [
+    "семейный",
+    "фэнтези",
+    "мюзикл"
+  ]
+}

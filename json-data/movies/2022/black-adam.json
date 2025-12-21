@@ -1,29 +1,29 @@
 {
-    "name": "Black Adam",
-    "year": 2022,
-    "runtime": 124,
-    "categories": [
-      "fantasy",
-      "action",
-      "adventure"
-    ],
-    "release-date": "2022-10-21",
-    "director": [
-        "Jaume Collet-Serra"
-    ],    
-    "writer": [
-      "Adam Sztykiel",
-      "Rory Haines",
-      "Sohrab Noshirvani"
-    ],
-    "actors": [
-         "Dwayne Johnson",
-         "Aldis Hodge", 
-         "Pierce Brosnan", 
-         "Noah Centineo", 
-         "Sarah Shahi", 
-         "Quintessa Swindell",
-         "Marwan Kenzari"
-    ],
-    "storyline": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods-and imprisoned just as quickly-Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."
-  }
+  "name": "Черный Адам",
+  "year": 2022,
+  "runtime": 124,
+  "categories": [
+    "фэнтези",
+    "боевик",
+    "приключения"
+  ],
+  "release-date": "2022-10-21",
+  "director": [
+    "Хауме Кольет-Серра"
+  ],
+  "writer": [
+    "Адам Штыкель",
+    "Рори Хейнс",
+    "Сохраб Ноширвани"
+  ],
+  "actors": [
+    "Дуэйн Джонсон",
+    "Олдис Ходж",
+    "Пирс Броснан",
+    "Ноа Сентинео",
+    "Сара Шахи",
+    "Квинтесса Суинделл",
+    "Марван Кензари"
+  ],
+  "storyline": "Почти пять тысяч лет назад загадочному воину из древнего Kahndaqa были дарованы сверхъестественные силы египетских богов, превратившие его в непобедимого защитника. Однако из-за своей жестокости его заточили в магической гробнице. В наши дни он вырывается на свободу, сея хаос и верша правосудие по собственным законам. Его действия привлекают внимание Общества справедливости Америки — команды супергероев, решивших остановить разрушительную мощь антигероя. В ожесточенных сражениях, полных спецэффектов и эпических битв, сталкиваются древние силы и современные идеалы. Герои раскрывают тайны прошлого, а воин борется с внутренними демонами, балансируя на грани добра и зла. Мир оказывается под угрозой тотальной войны между легендарной мощью и коллективной силой справедливости."
+}

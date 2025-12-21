@@ -1,29 +1,29 @@
 {
-  "name": "Rampage",
+  "name": "Рэмпейдж",
   "year": 2018,
   "runtime": 107,
   "categories": [
-    "action",
-    "adventure",
-    "sci-fi"
+    "боевик",
+    "приключения",
+    "фантастика"
   ],
   "release-date": "2018-04-13",
-  "director": "Brad Peyton",
+  "director": "Брэд Пейтон",
   "writer": [
-    "Ryan Engle",
-    "Carlton Cuse",
-    "Ryan J. Condal",
-    "Adam Sztykiel"
+    "Райан Энгл",
+    "Карлтон Кьюз",
+    "Райан Дж. Кондал",
+    "Адам Штыкель"
   ],
   "actors": [
-    "Dwayne Johnson",
-    "Naomie Harris",
-    "Malin Akerman",
-    "Jeffrey Dean Morgan",
-    "Jake Lacy",
-    "Joe Manganiello",
-    "Marley Shelton",
-    "P.J. Byrne"
+    "Дуэйн Джонсон",
+    "Наоми Харрис",
+    "Малин Акерман",
+    "Джеффри Дин Морган",
+    "Джейк Лэси",
+    "Джо Мангиниелло",
+    "Марли Шелтон",
+    "П. Дж. Бёрн"
   ],
-  "storyline": "Primatologist Davis shares an unshakable bond with George, the extraordinarily intelligent silverback gorilla who has been in his care since he was young. When a greed-fueled corporation's genetic experiment goes awry, George and other animals across the country are mutated into aggressive supercreatures who destroy everything in their path. In this adrenaline-filled ride, Davis tries to find an antidote, not only to halt a global catastrophe but also to save the fearsome creature who was once his friend."
+  "storyline": "Приматолог Дэвис связан нерушимой дружбой с Джорджем — необычайно умным серебристым горным гориллой, которого он воспитывает с юных лет. Когда жадная корпорация проводит неудачный генетический эксперимент, Джордж и другие животные по всей стране мутируют в агрессивных суперсуществ, сеющих разрушения на своём пути. В этой захватывающей поездке, полной адреналина, Дэвис ищет противоядие, чтобы предотвратить глобальную катастрофу и спасти когда-то близкого друга, превратившегося в ужасающее чудовище. Ему предстоит сразиться с гигантскими монстрами в разрушенных городах, раскрыть заговор корпорации и использовать все свои знания о поведении животных, чтобы вернуть Джорджа к нормальной жизни."
 }

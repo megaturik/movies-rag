@@ -1,22 +1,22 @@
 {
-  "name": "Tenet",
+  "name": "Довод",
   "year": 2020,
   "runtime": 150,
   "categories": [
-    "action",
-    "thriller",
-    "sci-fi"
+    "боевик",
+    "триллер",
+    "научная фантастика"
   ],
   "release-date": "2020-04-12",
-  "director": "Christopher Nolan",
+  "director": "Кристофер Нолан",
   "writer": [
-    "Christopher Nolan",
-    "Michael Caine"
+    "Кристофер Нолан",
+    "Майкл Кейн"
   ],
   "actors": [
-    "John David Washington",
-    "Robert Pattinson",
-    "Elizabeth Debicki"
+    "Джон Дэвид Вашингтон",
+    "Роберт Паттинсон",
+    "Элизабет Деберки"
   ],
-  "storyline": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time."
+  "storyline": "Таинственный агент, известный как Протагонист, вооружённый лишь одним загадочным словом, отправляется в опасное путешествие по миру международного шпионажа. Его миссия — сражаться за выживание всей планеты, противостоя глобальному заговору. Герой погружается в сумеречный мир интриг, где время течёт вспять, события инвертируются, а прошлое, настоящее и будущее сплетаются в сложный узор. Сталкиваясь с предателями, высокотехнологичным оружием и перевернутыми реальностями, Протагонист должен разгадать секреты временной манипуляции, чтобы предотвратить апокалипсис и спасти человечество от неминуемой гибели."
 }

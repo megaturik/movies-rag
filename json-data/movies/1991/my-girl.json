@@ -1,28 +1,24 @@
 {
-  "name": "My Girl",
+  "name": "Моя девочка",
   "year": 1991,
   "runtime": 102,
   "categories": [
-    "comedy",
-    "drama",
-    "romance"
+    "комедия",
+    "драма",
+    "романтика"
   ],
-
-  "description" : "A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.",
-
+  "description": "A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.",
   "release-date": "1991-11-27",
-  "director": "Howard Zieff",
+  "director": "Говард Зифф",
   "writer": [
-    "Laurice Elehwany"
+    "Лорис Элехвани"
   ],
   "actors": [
-    "Dan Aykroyd",
-    "Jamie Lee Curtis",
-    "Macaulay Culkin",
-    "Anna Chlumsky",
-    "Griffin Dunne"
+    "Дэн Эйкройд",
+    "Джейми Ли Кертис",
+    "Макаулай Калкин",
+    "Анна Чламски",
+    "Гриффин Данн"
   ],
-  "storyline": "1972. Vada Sultenfuss (played by Anna Chlumsky) is an intelligent, bubbly, hypochondriacal 11-year old girl. Her father, Harry (Dan Aykroyd), is a mortician and a widower. Her best friend is Thomas J Sennett (Macaulay Culkin). Then her father hires a new receptionist, Shelly (Jamie Lee Curtis), and life will never be the same again."
-
+  "storyline": "1972 год. Вада Султенфусс (Анна Чламски) — умная, бойкая, но ипохондричная 11-летняя девочка, одержимая мыслями о болезнях и здоровьем. Её отец Гарри (Дэн Эйкройд) — владелец похоронного бюро и вдовец, воспитывающий дочь в одиночку. Лучший друг Вады — тихий и добрый Томас Дж. Сеннетт (Макаулай Калкин), страдающий от аллергии. Жизнь девочки меняется, когда отец нанимает новую секретаршу Шелли (Джейми Ли Кертис). Вада переживает первую влюбленность, семейные конфликты, радости дружбы и открытия мира поэзии. Но трагедия с другом заставляет её столкнуться с реальностью утраты, взросления и принятия неизбежных перемен. Фильм полон нежного юмора, трогательных моментов и глубоких эмоций."
 }
-

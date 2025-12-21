@@ -1,21 +1,23 @@
 {
-  "name": "That Awkward Moment",
+  "name": "Мы ищем девушку",
   "year": 2014,
   "runtime": 94,
   "categories": [
-    "comedy",
-    "romance"
+    "комедия",
+    "романтика"
   ],
   "release-date": "2014-01-31",
-  "director": "Tom Gormican",
-  "writer": "Tom Gormican",
-  "actors": [
-    "Zac Efron",
-    "Miles Teller",
-    "Michael B. Jordan",
-    "Imogen Poots",
-    "Mackenzie Davis",
-    "Jessica Lucas"
+  "director": "Том Гормикан",
+  "writers": [
+    "Том Гормикан"
   ],
-  "storyline": "Best pals Jason and Daniel indulge in casual flings and revel in their carefree, unattached lives. After learning that the marriage of their friend Mikey is over, they gladly welcome him back into their circle. The three young men make a pact to have fun and avoid commitment. However, when all three find themselves involved in serious relationships, they must keep their romances secret from one another."
+  "actors": [
+    "Зак Эфрон",
+    "Майлз Теллер",
+    "Майкл Б. Джордан",
+    "Имоджен Путс",
+    "Маккензи Дэвис",
+    "Джессика Лукас"
+  ],
+  "storyline": "Лучшие друзья Джейсон и Дэниел ведут разгульный образ жизни в Нью-Йорке, наслаждаясь случайными связями и полной свободой без обязательств. Узнав о разводе своего товарища Майки, они с радостью принимают его обратно в свою компанию и заключают торжественный пакт: никаких серьезных отношений, только веселье и флирт! Но вскоре всё меняется. Каждый из троих внезапно встречает девушку, которая вызывает настоящие чувства, и парни влюбляются по уши. Чтобы не нарушить клятву и не подвести друзей, они решают держать свои романы в строжайшем секрете. Это приводит к череде hilarious недоразумений, неловких ситуаций, ревности и комичных обманов. Дружба подвергается серьёзному испытанию, а героям приходится разбираться в своих эмоциях и понять, готова ли жертва свободой ради любви."
 }

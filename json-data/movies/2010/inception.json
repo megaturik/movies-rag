@@ -1,29 +1,29 @@
 {
-    "name": "Inception",
-    "year": 2010,
-    "runtime": 148,
-    "categories": [
-      "adventure",
-      "action",
-      "sci-fi",
-      "thriller"
-    ],
-    "release-date": "2010-07-16",
-    "director": "Christopher Nolan",
-    "writer": [
-      "Christopher Nolan"
-    ],
-    "actors": [
-      "Leonardo DiCaprio",
-      "Joseph Gordon-Levitt",
-      "Ellen Page",
-      "Tom Hardy",
-      "Ken Watanabe",
-      "Dileep Rao",
-      "Cillian Murphy",
-      "Marion Cotillard",
-      "Tom Berenger"
-    ],
-    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
-  }
-  
+  "name": "Начало",
+  "year": 2010,
+  "runtime": 148,
+  "categories": [
+    "приключения",
+    "боевик",
+    "научная фантастика",
+    "триллер"
+  ],
+  "release-date": "2010-07-16",
+  "director": "Кристофер Нолан",
+  "writers": [
+    "Кристофер Нолан"
+  ],
+  "actors": [
+    "Леонардо ДиКаприо",
+    "Джозеф Гордон-Левитт",
+    "Эллен Пейдж",
+    "Том Харди",
+    "Кен Ватанабэ",
+    "Дилип Рао",
+    "Силлиан Мёрфи",
+    "Марион Котийяр",
+    "Том Беренджер"
+  ],
+  "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+  "storyline": "Опытный вор Дом Кобб мастерски крадёт корпоративные секреты, проникая в подсознание жертв с помощью технологии совместного сна. После неудачного задания ему поручают обратную задачу: внедрить идею в разум Роберта Фишера-младшего, наследника могущественной империи. Кобб собирает команду экспертов — архитектора снов, фальсификатора, химика и других. Они погружаются в многоуровневую структуру снов, где время искажается, а подсознание защищается вооружёнными проекциями. Кобб борется с тенями прошлого, включая образ жены, и рискует потерять грань между реальностью и иллюзией в запутанном лабиринте грез."
+}

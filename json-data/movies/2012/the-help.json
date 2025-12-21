@@ -1,21 +1,20 @@
 {
-    "name": "The Help",
-    "year": 2012,
-    "runtime": 146,
-    "categories": [
-      "drama",
-      "romance"
-    ],
-    "release-date": "2012-02-03",
-    "director": "Tate Taylor",
-    "writer": [
-      "Kathryn Stockett"
-    ],
-    "actors": [
-      "Emma Stone",
-      "Jessica Chastain",
-      "Viola Davis"
-    ],
-    "storyline": "The film and novel recount the story of young white woman and aspiring journalist Eugenia 'Skeeter' Phelan. The story focuses on her relationship with two black maids, Aibileen Clark and Minny Jackson, during the Civil Rights Movement in 1963 Jackson, Mississippi."
-
+  "name": "Прислуга",
+  "year": 2012,
+  "runtime": 146,
+  "categories": [
+    "драма",
+    "мелодрама"
+  ],
+  "release-date": "2012-02-03",
+  "director": "Тейт Тейлор",
+  "writer": [
+    "Кэтрин Стокетт"
+  ],
+  "actors": [
+    "Эмма Стоун",
+    "Джессика Честейн",
+    "Вайола Дэвис"
+  ],
+  "storyline": "В 1963 году в Джексоне, штат Миссисипи, во времена Движения за гражданские права молодая белая девушка Эвгения «Скитер» Фелан, мечтающая о карьере журналистки, возвращается домой после окончания колледжа. Она решает написать книгу, раскрывающую жизнь чернокожих горничных в белых семьях. Скитер тайно собирает истории от Эйбилин Кларк — преданной няни, переживающей трагедию потери сына, и Минни Джексон — смелой поварихи с острым языком, уволенной за честность. Их откровения обнажают глубокую расовую дискриминацию, жестокость и неравенство. Рискуя дружбой, репутацией и безопасностью, Скитер борется за правду и справедливость в раскаленном расизмом обществе."
 }

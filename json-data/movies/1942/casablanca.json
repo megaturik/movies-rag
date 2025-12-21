@@ -1,33 +1,33 @@
 {
-    "name": "Casablanca",
-    "year": 1942,
-    "runtime": 102,
-    "categories": [
-        "drama",
-        "romance",
-        "war"
-    ],
-    "release-date": "1943-01-23",
-    "director": "Michael Curtiz",
-    "writer": [
-        "Julius J. Epstejn",
-        "Philip G. Epstein",
-        "Howard Koch"
-    ],
-    "actors": [
-        "Humphrey Bogart",
-        "Ingrid Bergman",
-        "Paul Henreid",
-        "Claude Rains",
-        "Conrad Veidt",
-        "Sydney Greenstreet",
-        "Peter Lorre",
-        "Madeleine Lebeau",
-        "Dooley Wilson",
-        "Joy Page",
-        "John Qualen",
-        "Leonid Kinskey",
-        "Curt Bois"
-    ],
-    "storyline": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco."
+  "name": "Касабланка",
+  "year": 1942,
+  "runtime": 102,
+  "categories": [
+    "драма",
+    "романтика",
+    "военный"
+  ],
+  "release-date": "1943-01-23",
+  "director": "Майкл Кертиз",
+  "writer": [
+    "Джулиус Дж. Эпстайн",
+    "Филип Г. Эпстайн",
+    "Говард Коч"
+  ],
+  "actors": [
+    "Хамфри Богарт",
+    "Ингрид Бергман",
+    "Пол Хенрейд",
+    "Клод Рэйнс",
+    "Конрад Вейдт",
+    "Сидни Гринстрит",
+    "Питер Лорре",
+    "Мадлен Лебё",
+    "Дули Уилсон",
+    "Джой Пейдж",
+    "Джон Куален",
+    "Леонид Кински",
+    "Курт Буа"
+  ],
+  "storyline": "Циничный американский экспатриант управляет популярным ночным клубом в оккупированном французами Марокко во время Второй мировой войны. В его заведении собираются шпионы, авантюристы и отчаявшиеся беженцы, мечтающие о пропусках в нейтральную Америку. Однажды там появляется его бывшая возлюбленная вместе с мужем — известным борцом против нацизма, за которым охотятся оккупанты. Герой оказывается перед мучительным выбором: рискнуть всем, чтобы помочь им бежать, или сохранить свой жесткий нейтралитет и забыть о прошлом, полным предательства и разбитых надежд."
 }

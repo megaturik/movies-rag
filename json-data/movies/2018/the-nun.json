@@ -1,25 +1,25 @@
 {
-  "name": "The Nun",
+  "name": "Проклятие монахини",
   "year": 2018,
   "runtime": 96,
   "categories": [
-    "horror",
-    "mystery",
-    "thriller"
+    "ужасы",
+    "мистика",
+    "триллер"
   ],
   "release-date": "2018-09-07",
-  "director": "Corin Hardy",
-  "writer": [
-    "Gary Dauberman",
-    "James Wan",
-    "Gary Dauberman"
+  "director": "Корин Харди",
+  "writers": [
+    "Гэри Доберман",
+    "Джеймс Ван",
+    "Гэри Доберман"
   ],
   "actors": [
-    "Demián Bichir",
-    "Taissa Farmiga",
-    "Jonas Bloquet",
-    "Bonnie Aarons",
-    "Ingrid Bisu"
+    "Демиан Бичир",
+    "Тайсса Фармига",
+    "Жонас Блоке",
+    "Бонни Ааронс",
+    "Ингрид Бису"
   ],
-  "storyline": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order's unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in 'The Conjuring 2,' as the abbey becomes a horrific battleground between the living and the damned. Written by Warner Bros."
+  "storyline": "В затворническом аббатстве в Румынии молодая монахиня кончает жизнь самоубийством. Ватикан отправляет на место священника, преследуемого воспоминаниями о прошлом, и послушницу на пороге вечных обетов для расследования. Вместе они раскрывают жуткую тайну ордена, скрытую веками. Рискуя не только жизнью, но и верой, а также вечным спасением душ, они сталкиваются с древним злом — демонической монахиней, чья ярость сеет хаос и страх. Святое аббатство превращается в страшное поле битвы между живыми и силами ада, где каждый шаг приближает к краю бездны."
 }

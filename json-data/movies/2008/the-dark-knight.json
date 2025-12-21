@@ -1,25 +1,25 @@
 {
-  "name": "The Dark Knight",
+  "name": "Тёмный рыцарь",
   "year": 2008,
   "runtime": 152,
   "categories": [
-    "adventure",
-    "crime",
-    "drama",
-    "thriller"
+    "приключения",
+    "криминал",
+    "драма",
+    "триллер"
   ],
   "release-date": "2008-07-18",
-  "director": "Christopher Nolan",
+  "director": "Кристофер Нолан",
   "writer": [
-    "Jonathan Nolan",
-    "David S. Goyer",
-    "Christopher Nolan",
-    "Bob Kane"
+    "Джонатан Нолан",
+    "Дэвид С. Гойер",
+    "Кристофер Нолан",
+    "Боб Кейн"
   ],
   "actors": [
-    "Christian Bale",
-    "Heath Ledger",
-    "Aaron Eckhart"
+    "Кристиан Бэйл",
+    "Хит Леджер",
+    "Аарон Экхарт"
   ],
-  "storyline": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice."
+  "storyline": "Зловещий Джокер, мастер хаоса и манипуляций, обрушивает на Готэм волну террора: взрывы, убийства и провокации, которые ставят под угрозу жизни тысяч жителей. Бэтмен, неутомимый страж ночи в маске и плаще, сталкивается с самым изощрённым врагом, который испытывает его волю к борьбе со злом. Этот антагонист не просто преступник — он философ анархии, сеющий сомнения в умах героев. Прокурор Харви Дент и комиссар Джим Гордон пытаются удержать город от краха, но Джокер заставляет каждого выбрать между законом и моралью. Бэтмену предстоит пройти через психологический ад, чтобы защитить Готэм от полного разрушения и сохранить веру в справедливость."
 }

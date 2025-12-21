@@ -1,32 +1,32 @@
 {
-  "name": "Thor: Ragnarok",
+  "name": "Тор: Рагнарёк",
   "year": 2017,
   "runtime": 137,
   "future": false,
   "categories": [
-    "action",
-    "sci-fi",
-    "fantasy",
-    "adventure"
+    "боевик",
+    "фантастика",
+    "фэнтези",
+    "приключения"
   ],
   "release-date": "2017-10-25",
-  "director": "Taika Waititi",
+  "director": "Тайка Вайтити",
   "writer": [
-    "Christopher Yost",
-    "Craig Kyle",
-    "Stephany Folsom",
-    "Eric Pearson"
+    "Кристофер Йост",
+    "Крейг Кайл",
+    "Стефани Фолсом",
+    "Эрик Пирсон"
   ],
   "actors": [
-    "Chris Hemsworth",
-    "Tom Hiddleson",
-    "Cate Blanchett",
-    "Idris Elba",
-    "Jeff Goldblum",
-    "Mark Ruffalo",
-    "Benedict Cumberbatch",
-    "Anthony Hopkins",
-    "Karl Urban"
+    "Крис Хемсворт",
+    "Том Хиддлстон",
+    "Кейт Бланшетт",
+    "Идрис Эльба",
+    "Джефф Голдблюм",
+    "Марк Руффало",
+    "Бенедикт Камбербэтч",
+    "Энтони Хопкинс",
+    "Карл Урбан"
   ],
-  "storyline": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela."
+  "storyline": "Могучий бог грома Тор терпит поражение в схватке с могучим Суртуром и оказывается заточённым на далёкой планете Сакаар, где царит хаос под властью эксцентричного Великого Мастера. Там он вынужден сражаться на гладиаторской арене. Тем временем Асгард захватывает его жестокая сестра Hela, богиня смерти, давно изгнанная отцом. Освободившись, она стремится уничтожить весь мир, вызвав Рагнарёк — апокалипсис асгардской цивилизации. Тор спешит домой, чтобы остановить катастрофу. На Сакааре он встречает Халка, Локи и воительницу Валькирию. Вместе они формируют команду для битвы с ордами нежити и спасения народа Асгарда от гибели."
 }

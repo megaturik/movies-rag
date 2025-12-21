@@ -1,15 +1,25 @@
 {
-    "name": "The Void",
-    "year": 2016,
-    "runtime": 90,
-    "categories": [
-      "horror",
-      "mystery",
-      "sci-fi"
-    ],
-    "release-date": "2016-09-22",
-    "director": ["Jeremy Gillespie", "Steven Kostanski"],
-    "writer": ["Jeremy Gillespie", "Steven Kostanski"],
-    "actors": ["Aaron Poole","Kenneth Welsh","Daniel Fathers" ],
-    "storyline": "Shortly after delivering a patient to an understaffed hospital, a police officer experiences strange and violent occurrences seemingly linked to a group of mysterious hooded figures."
+  "name": "Пустота",
+  "year": 2016,
+  "runtime": 90,
+  "categories": [
+    "ужасы",
+    "мистика",
+    "научная фантастика"
+  ],
+  "release-date": "2016-09-22",
+  "director": [
+    "Jeremy Gillespie",
+    "Steven Kostanski"
+  ],
+  "writer": [
+    "Jeremy Gillespie",
+    "Steven Kostanski"
+  ],
+  "actors": [
+    "Aaron Poole",
+    "Kenneth Welsh",
+    "Daniel Fathers"
+  ],
+  "storyline": "Полицейский доставляет подозрительного раненого в старую провинциальную больницу с острым дефицитом персонала. Вскоре вокруг здания собираются таинственные фигуры в белых робах с окровавленными символами. Внутри начинаются жуткие события: пациенты испытывают болезненные мутации, стены покрываются мерзкой слизью, а воздух наполняется криками агонии. Группа выживших — врачи, медсестры и полицейские — пытается забаррикадироваться и разгадать природу нашествия. По мере развития хаоса раскрываются связи с древним культом, вызывающим силы из бездны, где реальность искажается, а человеческие тела превращаются в кошмарные формы. Борьба за выживание становится отчаянной в лабиринтах коридоров, пропитанных ужасом и безумием."
 }

@@ -1,27 +1,29 @@
 {
-    "name": "An American Tail: Fievel Goes West",
-    "year": 1991,
-    "runtime": 74,
-    "categories": [
-          "comedy"
-    ],
-    "release-date": "1991-11-22",
-    "director": ["Phil Nibbelink",
-                "Simon Wells"],
-    "writer": [
-      "Charles Swenson", "Flint Dille"
-    ],
-    "actors": [	
-        "Phillip Glasser",
-        "James Stewart",
-        "Erica Yohn",
-        "Cathy Cavadini",
-        "Nehemiah Persoff",
-        "Dom DeLuise",
-        "Amy Irving",
-        "John Cleese",
-        "Jon Lovitz"
-    ],
-    "storyline":"An animated movie where the Mousekewitz family travels west to start a new life."
-  }
-  
+  "name": "Американский хвост: Фифвел идёт на Запад",
+  "year": 1991,
+  "runtime": 74,
+  "categories": [
+    "комедия"
+  ],
+  "release-date": "1991-11-22",
+  "director": [
+    "Phil Nibbelink",
+    "Simon Wells"
+  ],
+  "writer": [
+    "Charles Swenson",
+    "Flint Dille"
+  ],
+  "actors": [
+    "Phillip Glasser",
+    "James Stewart",
+    "Erica Yohn",
+    "Cathy Cavadini",
+    "Nehemiah Persoff",
+    "Dom DeLuise",
+    "Amy Irving",
+    "John Cleese",
+    "Jon Lovitz"
+  ],
+  "storyline": "Семья мышей Мускевичей, недавно прибывшая в Америку, решает отправиться на Дикий Запад в поисках новой жизни без преследований со стороны кошек. Маленький Фифвел, полный энтузиазма и мечтаний о ковбойских приключениях, уговаривает родных на это рискованное путешествие. По пути они сталкиваются с множеством опасностей: хитрыми койотами, пьяницей-голубем Тиггером и коварным котом по кличке Кэт Р. Уолш. Фифвел попадает в ловушку к злодею, но благодаря смелости, находчивости и помощи друзей спасает семью. Мультфильм полон юмора, песен и ярких приключений, подчёркивая темы дружбы, семьи и стойкости перед трудностями."
+}

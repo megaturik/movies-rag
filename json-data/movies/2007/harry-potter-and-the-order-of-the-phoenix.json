@@ -1,22 +1,23 @@
 {
-  "name": "Harry Potter and the Order of the Phoenix",
+  "name": "Гарри Поттер и Орден Феникса",
   "year": 2007,
   "runtime": 138,
   "categories": [
-    "adventure",
-    "family",
-    "fantasy"
+    "приключения",
+    "семейный",
+    "фэнтези"
   ],
   "release-date": "2007-07-11",
-  "director": "David Yates",
-  "writer": [
-    "Michael Goldenberg",
-    "J.K. Rowling"
+  "director": "Дэвид Йейтс",
+  "writers": [
+    "Майкл Голденберг",
+    "Дж. К. Роулинг"
   ],
   "actors": [
-    "Daniel Radcliffe",
-    "Emma Watson",
-    "Rupert Grint"
+    "Дэниел Рэдклифф",
+    "Эмма Уотсон",
+    "Руперт Гринт"
   ],
-  "description": "Lord Voldemort has returned, but few want to believe it. In fact, the Ministry of Magic is doing everything it can to keep the wizarding world from knowing the truth—including appointing Ministry official Dolores Umbridge as the new Defense Against the Dark Arts teacher at Hogwarts. \n When Professor Umbridge refuses to train her students in practical defensive magic, a select group of students decides to learn on their own. With Harry Potter as their leader, these students (who call themselves \"Dumbledore's Army\") meet secretly in a hidden room at Hogwarts to hone their wizarding skills in preparation for battle with the Dark Lord and his Death Eaters. \n New adventure—more dangerous , more thrilling than ever—is yours in this enthralling film version of the fifth novel in J.K. Rowling's Harry Potter series. A terrifying showdown between good and evil awaits. Prepare for battle!"
+  "description": "Lord Voldemort has returned, but few want to believe it. In fact, the Ministry of Magic is doing everything it can to keep the wizarding world from knowing the truth—including appointing Ministry official Dolores Umbridge as the new Defense Against the Dark Arts teacher at Hogwarts. \n When Professor Umbridge refuses to train her students in practical defensive magic, a select group of students decides to learn on their own. With Harry Potter as their leader, these students (who call themselves \"Dumbledore's Army\") meet secretly in a hidden room at Hogwarts to hone their wizarding skills in preparation for battle with the Dark Lord and his Death Eaters. \n New adventure—more dangerous , more thrilling than ever—is yours in this enthralling film version of the fifth novel in J.K. Rowling's Harry Potter series. A terrifying showdown between good and evil awaits. Prepare for battle!",
+  "storyline": "Лорд Волдеморт вернулся, но волшебный мир упорно отказывается верить в это. Министерство магии прилагает все усилия, чтобы скрыть правду, и даже назначает строгую чиновницу Долорес Амбридж новой преподавательницей Защиты от тёмных искусств в Хогвартсе. Амбридж запрещает практические занятия по боевой магии, что вынуждает группу смелых учеников создать свой секретный кружок. Под предводительством Гарри Поттера они называют себя «Армией Дамблдора» и тайно собираются в нужной комнате замка, чтобы оттачивать заклинания и готовиться к схватке с Тёмным Лордом и его Пожирателями смерти. Напряжение нарастает, интриги множатся, а кульминация обещает эпическое столкновение сил света и тьмы. Волшебный мир на грани хаоса, и юные герои становятся последней надеждой."
 }

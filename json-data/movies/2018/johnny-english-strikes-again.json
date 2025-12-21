@@ -1,31 +1,33 @@
 {
-  "name": "Johnny English Strikes Again",
+  "name": "Джонни Инглиш снова в деле",
   "year": 2018,
   "runtime": 88,
   "categories": [
-    "action",
-    "adventure",
-    "comedy"
+    "боевик",
+    "приключения",
+    "комедия"
   ],
   "release-date": "2018-10-26",
-  "director": "David Kerr",
-  "writer": "William Davies",
-  "actors": [
-    "Olga Kurylenko",
-    "Emma Thompson",
-    "Rowan Atkinson",
-    "Jake Lacy",
-    "Charles Dance",
-    "Ben Miller",
-    "Miranda Hennessy",
-    "Adam James",
-    "Irena Tyshyna",
-    "Pippa Bennett-Warner",
-    "Adam Greaves-Neal",
-    "James Eeles",
-    "David Mumeni",
-    "Tuncay Gunes",
-    "Pino Maiello"
+  "director": "Дэвид Керр",
+  "writers": [
+    "Уильям Дейвис"
   ],
-  "storyline": "JOHNNY ENGLISH STRIKES AGAIN is the third installment of the Johnny English comedy series, with Rowan Atkinson returning as the much loved accidental secret agent."
+  "actors": [
+    "Ольга Куриленко",
+    "Эмма Томпсон",
+    "Роуэн Аткинсон",
+    "Джейк Лэси",
+    "Чарльз Дэнс",
+    "Бен Миллер",
+    "Миранда Хеннесси",
+    "Адам Джеймс",
+    "Ирена Тышина",
+    "Пиппа Беннетт-Уорнер",
+    "Адам Гривс-Нил",
+    "Джеймс Илз",
+    "Дэвид Муменi",
+    "Тунджай Гюнеш",
+    "Пино Майелло"
+  ],
+  "storyline": "Британская разведка MI7 терпит фиаско: кибератака хакера раскрывает личности всех агентов. В панике правительство вызывает из отставки сэра Джонни Инглиша — неуклюжего пенсионера и школьного учителя. С верным напарником Бэбби он мчится на юг Франции, чтобы выследить русского олигарха-миллиардера, плетущего интриги. По пути герой устраивает хаос: путает союзников с врагами, попадает в комичные переделки, использует нелепые гаджеты и чуть не срывает операцию. Но интуиция, удача и абсурдная смекалка помогают одолеть злодея и спасти империю."
 }

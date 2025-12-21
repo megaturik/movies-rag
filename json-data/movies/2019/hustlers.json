@@ -1,22 +1,22 @@
 {
-    "name": "Hustlers",
-    "year": 2019,
-    "runtime": 110,
-    "categories": [
-      "comedy",
-      "crime",
-      "drama"
-    ],
-    "release-date": "2019-09-13",
-    "director": "Lorene Scafaria",
-    "writer": [
-      "Jessica Pressler",
-      "Lorene Scafaria"
-    ],
-    "actors": [
-      "Constance Wu",
-      "Jennifer Lopez",
-      "Julia Stiles"
-    ],
-    "storyline": "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients."
-  }
+  "name": "Стриптизёрши",
+  "year": 2019,
+  "runtime": 110,
+  "categories": [
+    "комедия",
+    "криминал",
+    "драма"
+  ],
+  "release-date": "2019-09-13",
+  "director": "Лорен Скафария",
+  "writer": [
+    "Джессика Преслер",
+    "Лорен Скафария"
+  ],
+  "actors": [
+    "Констанс Ву",
+    "Дженнифер Лопес",
+    "Джулия Стайлз"
+  ],
+  "storyline": "Фильм основан на реальной вирусной статье из New York Magazine. После финансового кризиса 2008 года опытная стриптизёрша Рамона берёт под опеку начинающую Дестини, которая работает в стрип-клубе, чтобы прокормить дочь. Вместе с подругами они придумывают дерзкий план: заманивают богатых брокеров с Уолл-стрит в клубы, одурманивают их смесью наркотиков и алкоголя, а затем выставляют им огромные счета за 'услуги'. Так они зарабатывают миллионы, живя роскошно. Но их афера выходит из-под контроля, когда жертвы начинают подозревать обман, а внутренние разборки разрушают дружбу. История о мести, дружбе и цене успеха в мире, где сильные топчут слабых."
+}

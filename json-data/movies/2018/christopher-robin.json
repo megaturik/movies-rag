@@ -1,34 +1,34 @@
 {
-  "name": "Christopher Robin",
+  "name": "Кристофер Робин",
   "year": 2018,
   "runtime": 104,
   "categories": [
-    "animation",
-    "adventure",
-    "comedy"
+    "анимация",
+    "приключения",
+    "комедия"
   ],
   "release-date": "2018-08-02",
-  "director": "Marc Forster",
+  "director": "Марк Форстер",
   "writer": [
-    "Alex Ross Perry",
-    "Tom McCarthy"
+    "Алекс Росс Перри",
+    "Том Маккарти"
   ],
   "actors": [
-    "Ewan McGregor",
-    "Hayley Atwell",
-    "Bronte Carmichael",
-    "Mark Gatiss",
-    "Oliver Ford Davies",
-    "Ronke Adekoluejo",
-    "Adrian Scarborough",
-    "Roger Ashton-Griffiths",
-    "Ken Nwosu",
-    "John Dagleish",
-    "Amanda Lawrence",
-    "Orton O'Brien",
-    "Katy Carmichael",
-    "Tristan Sturrock",
-    "Jasmine-Simone Charles"
+    "Юэн Макгрегор",
+    "Хейли Этвелл",
+    "Бронте Кармайкл",
+    "Марк Гейтис",
+    "Оливер Форд Дэвис",
+    "Ронке Адеколуэхо",
+    "Эдриан Скарборо",
+    "Роджер Эштон-Гриффитс",
+    "Кен Нвосу",
+    "Джон Даглиш",
+    "Аманда Лоуренс",
+    "Ортон О'Брайен",
+    "Кэти Кармайкл",
+    "Тристан Стеррок",
+    "Джазмин-Симон Чарльз"
   ],
-  "storyline": "An adult Christopher Robin, who is now focused on his new life, work, and family, suddenly meets his old friend Winnie the Pooh, who returns to his unforgotten childhood past to help him return to the Hundred Acre Wood and help find Pooh's lost friends. Written by Jon Meyer\n\n"
+  "storyline": "Взрослый мужчина, полностью поглощённый работой, семьёй и рутиной повседневной жизни, внезапно встречает своего старого друга — плюшевого медвежонка Винни-Пуха. Этот неожиданный визит возвращает героя в мир незабываемого детства. Вместе они отправляются в Стоакровый лес, чтобы найти потерянных друзей Пуха: Пиглета, Тигра, Кенгу и Ру. По пути герой заново открывает для себя простые радости: дружбу, воображение и умение радоваться мелочам. Приключения помогают ему преодолеть жизненный кризис, обрести гармонию и вдохновить свою семью на новые свершения. Волшебное путешествие напоминает, что детская беззаботность живёт в каждом из нас."
 }
