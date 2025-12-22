@@ -36,7 +36,7 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
         'name', 'year', 'runtime',
         'actors', 'director', 'storyline',
     )
-    with open(file) as f:
+    with open(file, encoding='utf-8') as f:
         data = json.load(f)
     if any(key not in data for key in excepted_keys):
         raise ValueError(f'All of {excepted_keys} should be in data')
