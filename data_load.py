@@ -1,5 +1,6 @@
 import json
 import logging
+from functools import lru_cache
 from pathlib import Path
 
 import chromadb
@@ -12,6 +13,7 @@ CHUNK_OVERLAP = 200
 EMBEDDING_SIZE = 384
 CHROMA_DB_HOST = 'localhost'
 CHROMA_DB_PORT = 8010
+MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -22,13 +24,16 @@ formatter = logging.Formatter(
 ch.setFormatter(formatter)
 logger.addHandler(ch)
 
-model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-
 
 def get_chroma_client():
     client = chromadb.HttpClient(
         host=CHROMA_DB_HOST, port=CHROMA_DB_PORT)
     return client
+
+
+@lru_cache(maxsize=1)
+def get_model():
+    return SentenceTransformer(MODEL)
 
 
 def get_data_from_json_file(file: str) -> tuple[dict, str]:
@@ -72,9 +77,18 @@ def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP) -> list:
 
 
 def embed_chunks(chunks: list) -> list[list[float]]:
+    model = get_model()
     embeddings = model.encode(
         chunks, show_progress_bar=False, normalize_embeddings=True)
     return embeddings.tolist()
+
+
+def check_exists_in_chroma(metadata: dict, collection):
+    doc_uniq_key = metadata['doc_uniq_key']
+    doc_exists = collection.get(where={'doc_uniq_key': doc_uniq_key}, limit=1)
+    if doc_exists['documents']:
+        return True
+    return False
 
 
 def add_to_chroma(
@@ -83,15 +97,7 @@ def add_to_chroma(
     collection
 ):
     doc_uniq_key = metadata['doc_uniq_key']
-    doc_fname = metadata['doc_fname']
-    doc_exists = collection.get(where={'doc_uniq_key': doc_uniq_key})
-    if doc_exists['documents']:
-        logger.info(
-            f'Skipping: {doc_fname} with same metadata already exists')
-        return
-    collection.delete(where={'doc_uniq_key': metadata['doc_uniq_key']})
-    logger.info(
-        f'Adding/Updating: {doc_fname}')
+    collection.delete(where={'doc_uniq_key': doc_uniq_key})
     collection.add(
         documents=chunks,
         embeddings=embeddings,
@@ -108,9 +114,16 @@ def main():
     for file in MOVIES_PATH.rglob('*.json'):
         try:
             metadata, data = get_data_from_json_file(file)
-            chunks = chunk_text(data)
-            embeddings = embed_chunks(chunks)
-            add_to_chroma(metadata, chunks, embeddings, collection)
+            doc_exists = check_exists_in_chroma(metadata, collection)
+            if doc_exists:
+                logger.info(
+                    f'Skipping: {file} with same metadata already exists')
+            else:
+                chunks = chunk_text(data)
+                embeddings = embed_chunks(chunks)
+                logger.info(
+                    f'Adding/Updating: {file}')
+                add_to_chroma(metadata, chunks, embeddings, collection)
         except Exception as e:
             logger.error(f'Error {e} while proccessing {file}')
 
