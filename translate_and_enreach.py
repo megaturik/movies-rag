@@ -96,5 +96,6 @@ def main():
     for future in as_completed(futures):
         future.result()
 
+
 if __name__ == '__main__':
     main()
