@@ -43,8 +43,9 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
     )
     with open(file, encoding='utf-8') as f:
         data = json.load(f)
-    if any(key not in data for key in excepted_keys):
-        raise ValueError(f'All of {excepted_keys} should be in data')
+    missing_keys = [key for key in excepted_keys if key not in data]
+    if missing_keys:
+        raise ValueError(f'keys: {" ,".join(missing_keys)} should be in data')
     doc_fname = Path(file).name
     doc_mtime = Path(file).stat().st_mtime
     doc_year = data['year']
