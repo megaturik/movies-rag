@@ -1,10 +1,13 @@
 import chromadb
-from settings import get_settings
+
+from app.settings import get_settings
 
 settings = get_settings()
 
 
-def get_chroma_client():
-    client = chromadb.HttpClient(
-        host=settings.CHROMADB_HOST, port=settings.CHROMADB_PORT)
+async def get_chroma_client():
+    client = await chromadb.AsyncHttpClient(
+        host=settings.CHROMADB_HOST,
+        port=settings.CHROMADB_PORT
+    )
     return client

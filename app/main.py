@@ -1,12 +1,14 @@
-from chroma import get_chroma_client
 from fastapi import Depends, FastAPI, Request, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from schemas import AgentResponse, SearchRequest, SearchResponse
-from settings import get_settings
-from utils import chromadb_search, get_xai_response
+
+from app.chroma import get_chroma_client
+from app.schemas import AgentResponse, SearchRequest, SearchResponse
+from app.settings import get_settings
+from app.utils import chromadb_search, get_xai_response
 
 settings = get_settings()
+
 
 app = FastAPI()
 
@@ -28,15 +30,17 @@ def exception_handler(request: Request, exc: Exception):
 
 
 @app.post('/api/v1/movies/vector', response_model=SearchResponse)
-def search(
+async def search(
+    request: Request,
     search_request: SearchRequest,
     chroma_client=Depends(get_chroma_client)
 ):
-    return chromadb_search(search_request, chroma_client, 'movies')
+    return await chromadb_search(search_request, chroma_client, 'movies')
 
 
 @app.post('/api/v1/movies/agent', response_model=AgentResponse)
-def agent_ask(
+async def agent_ask(
+    request: Request,
     agent_request: SearchRequest,
     chroma_client=Depends(get_chroma_client)
 ):
@@ -45,7 +49,11 @@ def agent_ask(
         "Ты — помощник. Используй ТОЛЬКО информацию из контекста ниже."
         "Если ответа в контексте нет — скажи, что не знаешь."
     )
-    search_response = chromadb_search(agent_request, chroma_client, 'movies')
+    search_response = await chromadb_search(
+        agent_request,
+        chroma_client,
+        'movies'
+    )
     for chunk in search_response.results:
         prompt_parts.append(
             f"Название фильма: {chunk.metadata['doc_name']}\n"
@@ -54,12 +62,12 @@ def agent_ask(
             f"Актеры: {chunk.metadata['doc_actors']}\n"
             f"Сюжет: {chunk.text}"
         )
-    context = "\n\n---\n\n".join(prompt_parts)
+    context = "\n\n---\n\n".join(prompt_parts) 
     prompt = f"""
     Контекст:
     {context}
     Вопрос:
     {agent_request.query}
     """
-    results = get_xai_response(system_message, prompt)
+    results = await get_xai_response(system_message, prompt)
     return results
