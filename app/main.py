@@ -5,7 +5,11 @@ from fastapi import FastAPI, Request, Response, status
 from fastapi.responses import JSONResponse
 from redis.asyncio import Redis
 
-from app.redis_cache import get_redis_cache, set_redis_cache
+from app.redis_cache import (
+    cache_key_middleware,
+    get_redis_cache,
+    set_redis_cache,
+)
 from app.schemas import AgentResponse, SearchRequest, SearchResponse
 from app.settings import get_settings
 from app.utils import chromadb_search, get_xai_response
@@ -15,7 +19,8 @@ settings = get_settings()
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    app.state.redis_client = Redis(host='localhost', port=6379)
+    app.state.redis_client = Redis(
+        host=settings.REDIS_HOST, port=settings.REDIS_HOST)
     app.state.chroma_client = await chromadb.AsyncHttpClient(
         host=settings.CHROMADB_HOST,
         port=settings.CHROMADB_PORT
@@ -23,6 +28,7 @@ async def lifespan(app: FastAPI):
     yield
 
 app = FastAPI(lifespan=lifespan)
+app.middleware("http")(cache_key_middleware)
 
 
 @app.exception_handler(Exception)
