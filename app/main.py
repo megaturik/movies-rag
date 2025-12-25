@@ -20,7 +20,7 @@ settings = get_settings()
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     app.state.redis_client = Redis(
-        host=settings.REDIS_HOST, port=settings.REDIS_HOST)
+        host=settings.REDIS_HOST, port=settings.REDIS_PORT)
     app.state.chroma_client = await chromadb.AsyncHttpClient(
         host=settings.CHROMADB_HOST,
         port=settings.CHROMADB_PORT
