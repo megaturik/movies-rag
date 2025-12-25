@@ -1,24 +1,22 @@
-from fastapi import Depends, FastAPI, Request, status
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi import Depends, FastAPI, Request, status, Response
 from fastapi.responses import JSONResponse
-
+from contextlib import asynccontextmanager
 from app.chroma import get_chroma_client
 from app.schemas import AgentResponse, SearchRequest, SearchResponse
 from app.settings import get_settings
 from app.utils import chromadb_search, get_xai_response
+from app.redis_cache import get_redis_cache, set_redis_cache
+from redis.asyncio import Redis
 
 settings = get_settings()
 
 
-app = FastAPI()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    app.state.redis_client = Redis(host='localhost', port=6379)
+    yield
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[str(origin) for origin in settings.BACKEND_CORS_ORIGINS],
-    allow_credentials=True,
-    allow_methods=['*'],
-    allow_headers=['*'],
-)
+app = FastAPI(lifespan=lifespan)
 
 
 @app.exception_handler(Exception)
@@ -35,7 +33,12 @@ async def search(
     search_request: SearchRequest,
     chroma_client=Depends(get_chroma_client)
 ):
-    return await chromadb_search(search_request, chroma_client, 'movies')
+    cached = await get_redis_cache(request)
+    if cached:
+        return Response(content=cached)
+    data = await chromadb_search(search_request, chroma_client, 'movies')
+    await set_redis_cache(request, data)
+    return data
 
 
 @app.post('/api/v1/movies/agent', response_model=AgentResponse)
@@ -44,6 +47,9 @@ async def agent_ask(
     agent_request: SearchRequest,
     chroma_client=Depends(get_chroma_client)
 ):
+    cached = await get_redis_cache(request)
+    if cached:
+        return Response(content=cached)
     prompt_parts = []
     system_message = (
         "Ты — помощник. Используй ТОЛЬКО информацию из контекста ниже."
@@ -62,12 +68,13 @@ async def agent_ask(
             f"Актеры: {chunk.metadata['doc_actors']}\n"
             f"Сюжет: {chunk.text}"
         )
-    context = "\n\n---\n\n".join(prompt_parts) 
+    context = "\n\n---\n\n".join(prompt_parts)
     prompt = f"""
     Контекст:
     {context}
     Вопрос:
     {agent_request.query}
     """
-    results = await get_xai_response(system_message, prompt)
-    return results
+    data = await get_xai_response(system_message, prompt)
+    await set_redis_cache(request, data)
+    return data
