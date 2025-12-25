@@ -17,9 +17,10 @@ uv sync
 ```env
 XAI_API_KEY='define your_key'  # используется x.ai grok
 XAI_API_URL='https://api.x.ai/v1'
+XAI_MODEL='grok-4-1-fast-reasoning'
+SENTENCE_MODEL='paraphrase-multilingual-MiniLM-L12-v2'
 CHROMADB_HOST='localhost'
 CHROMADB_PORT=8010
-XAI_MODEL='grok-4-1-fast-reasoning'
 REDIS_HOST='localhost'
 REDIS_PORT=6379
 REDIS_CACHE_TTL=600

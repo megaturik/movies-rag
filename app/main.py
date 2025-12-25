@@ -1,10 +1,10 @@
 from contextlib import asynccontextmanager
 
-from fastapi import Depends, FastAPI, Request, Response, status
+import chromadb
+from fastapi import FastAPI, Request, Response, status
 from fastapi.responses import JSONResponse
 from redis.asyncio import Redis
 
-from app.chroma import get_chroma_client
 from app.redis_cache import get_redis_cache, set_redis_cache
 from app.schemas import AgentResponse, SearchRequest, SearchResponse
 from app.settings import get_settings
@@ -16,6 +16,10 @@ settings = get_settings()
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     app.state.redis_client = Redis(host='localhost', port=6379)
+    app.state.chroma_client = await chromadb.AsyncHttpClient(
+        host=settings.CHROMADB_HOST,
+        port=settings.CHROMADB_PORT
+    )
     yield
 
 app = FastAPI(lifespan=lifespan)
@@ -33,22 +37,17 @@ def exception_handler(request: Request, exc: Exception):
 async def search(
     request: Request,
     search_request: SearchRequest,
-    chroma_client=Depends(get_chroma_client)
 ):
     cached = await get_redis_cache(request)
     if cached:
         return Response(content=cached)
-    data = await chromadb_search(search_request, chroma_client, 'movies')
+    data = await chromadb_search(request, search_request, 'movies')
     await set_redis_cache(request, data)
     return data
 
 
 @app.post('/api/v1/movies/agent', response_model=AgentResponse)
-async def agent_ask(
-    request: Request,
-    agent_request: SearchRequest,
-    chroma_client=Depends(get_chroma_client)
-):
+async def agent_ask(request: Request, agent_request: SearchRequest):
     cached = await get_redis_cache(request)
     if cached:
         return Response(content=cached)
@@ -57,11 +56,7 @@ async def agent_ask(
         "Ты — помощник. Используй ТОЛЬКО информацию из контекста ниже."
         "Если ответа в контексте нет — скажи, что не знаешь."
     )
-    search_response = await chromadb_search(
-        agent_request,
-        chroma_client,
-        'movies'
-    )
+    search_response = await chromadb_search(request, agent_request, 'movies')
     for chunk in search_response.results:
         prompt_parts.append(
             f"Название фильма: {chunk.metadata['doc_name']}\n"

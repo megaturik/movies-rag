@@ -2,7 +2,7 @@ import asyncio
 from concurrent.futures import ThreadPoolExecutor
 from functools import lru_cache
 
-import chromadb
+from fastapi import Request
 from openai import AsyncOpenAI
 
 from app.schemas import AgentResponse, Chunk, SearchRequest, SearchResponse
@@ -10,23 +10,22 @@ from app.settings import get_settings
 
 settings = get_settings()
 
-MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
-
 executor = ThreadPoolExecutor()
 
 
 @lru_cache(maxsize=1)
 def get_model():
     from sentence_transformers import SentenceTransformer
-    return SentenceTransformer(MODEL)
+    return SentenceTransformer(settings.SENTENCE_MODEL)
 
 
 async def chromadb_search(
+        request: Request,
         search_request: SearchRequest,
-        chroma_client: chromadb.AsyncHttpClient,
         collection_name
 ) -> SearchResponse:
     model = get_model()
+    chroma_client = request.app.state.chroma_client
     collection = await chroma_client.get_collection(collection_name)
     loop = asyncio.get_event_loop()
     embeddings = await loop.run_in_executor(
@@ -65,8 +64,8 @@ async def get_xai_response(
             {"role": "system", "content": system_message},
             {"role": "user", "content": prompt}
         ],
-        temperature=0.7,
-        max_tokens=3000
+        temperature=settings.XAI_TEMP,
+        max_tokens=settings.XAI_MAX_TOKENS
     )
 
     response = response.choices[0].message.content
