@@ -4,8 +4,6 @@ from functools import lru_cache
 from pathlib import Path
 
 import chromadb
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from sentence_transformers import SentenceTransformer
 
 MOVIES_PATH = Path('./json-data/movies')
 CHUNK_SIZE = 1000
@@ -33,6 +31,7 @@ def get_chroma_client():
 
 @lru_cache(maxsize=1)
 def get_model():
+    from sentence_transformers import SentenceTransformer
     return SentenceTransformer(MODEL)
 
 
@@ -67,6 +66,7 @@ def get_data_from_json_file(file: str) -> tuple[dict, str]:
 
 
 def chunk_text(text, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP) -> list:
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=CHUNK_OVERLAP,
