@@ -1,12 +1,14 @@
-from fastapi import Depends, FastAPI, Request, status, Response
-from fastapi.responses import JSONResponse
 from contextlib import asynccontextmanager
+
+from fastapi import Depends, FastAPI, Request, Response, status
+from fastapi.responses import JSONResponse
+from redis.asyncio import Redis
+
 from app.chroma import get_chroma_client
+from app.redis_cache import get_redis_cache, set_redis_cache
 from app.schemas import AgentResponse, SearchRequest, SearchResponse
 from app.settings import get_settings
 from app.utils import chromadb_search, get_xai_response
-from app.redis_cache import get_redis_cache, set_redis_cache
-from redis.asyncio import Redis
 
 settings = get_settings()
 

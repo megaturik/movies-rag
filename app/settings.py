@@ -1,6 +1,5 @@
 from functools import lru_cache
 from pathlib import Path
-from typing import List
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -17,7 +16,9 @@ class Settings(BaseSettings):
     XAI_MODEL: str | None = 'grok-4-1-fast-reasoning'
     CHROMADB_HOST: str | None = "localhost"
     CHROMADB_PORT: int | None = 8010
-    BACKEND_CORS_ORIGINS: List[str] | None = ['http://127.0.0.1:3000']
+    REDIS_HOST: str | None = "localhost"
+    REDIS_PORT: int | None = 6379
+    REDIS_CACHE_TTL: int | None = 600
 
 
 @lru_cache

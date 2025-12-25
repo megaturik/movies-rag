@@ -1,27 +1,24 @@
-import json
 import hashlib
-from fastapi.requests import Request
+import json
 from typing import Union
-from app.schemas import SearchResponse, AgentResponse
 
+from fastapi.requests import Request
 
-async def get_body_from_chunks(request: Request) -> bytes:
-    data = b''
-    async for chunk in request.stream():
-        data += chunk
-    return data
+from app.schemas import AgentResponse, SearchResponse
+from app.settings import get_settings
+
+settings = get_settings()
 
 
 def build_cache_key(request: Request, body: bytes) -> str:
     payload = {
-        "path": request.url.path,
         "query": dict(request.query_params),
         "body": body.decode()
     }
 
     raw = json.dumps(payload, sort_keys=True)
     digest = hashlib.sha256(raw.encode()).hexdigest()[:16]
-    return f"cache:{digest}"
+    return f"cache:{request.url.path}:{digest}"
 
 
 async def get_redis_cache(request: Request) -> Union[
@@ -29,7 +26,7 @@ async def get_redis_cache(request: Request) -> Union[
     SearchResponse
 ]:
     redis_client = request.app.state.redis_client
-    body = await get_body_from_chunks(request)
+    body = await request.body()
     cache_key = build_cache_key(request, body)
     data = await redis_client.get(cache_key)
     if data:
@@ -41,7 +38,7 @@ async def set_redis_cache(
     data: Union[AgentResponse, SearchResponse]
 ):
     redis_client = request.app.state.redis_client
-    body = await get_body_from_chunks(request)
+    body = await request.body()
     cache_key = build_cache_key(request, body)
     json_data = data.model_dump_json()
-    await redis_client.set(cache_key, json_data, ex=300)
+    await redis_client.set(cache_key, json_data, ex=settings.REDIS_CACHE_TTL)
