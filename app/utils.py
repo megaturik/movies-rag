@@ -1,5 +1,6 @@
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
+from functools import lru_cache
 
 import chromadb
 from openai import AsyncOpenAI
@@ -10,9 +11,14 @@ from app.settings import get_settings
 
 settings = get_settings()
 
-model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 
 executor = ThreadPoolExecutor()
+
+
+@lru_cache(maxsize=1)
+def get_model():
+    return SentenceTransformer(MODEL)
 
 
 async def chromadb_search(
@@ -20,6 +26,7 @@ async def chromadb_search(
         chroma_client: chromadb.AsyncHttpClient,
         collection_name
 ) -> SearchResponse:
+    model = get_model()
     collection = await chroma_client.get_collection(collection_name)
     loop = asyncio.get_event_loop()
     embeddings = await loop.run_in_executor(

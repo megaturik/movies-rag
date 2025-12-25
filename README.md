@@ -4,7 +4,7 @@ RAG && LLM workaround with XAI, ChromaDB
 
 ## Технологии
 
-- FastAPI, ChromaDB, Sentence Transformers, XAI
+- FastAPI, ChromaDB, Redis, Sentence Transformers, XAI
 
 ## Установка
 
