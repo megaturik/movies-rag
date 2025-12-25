@@ -4,7 +4,6 @@ from functools import lru_cache
 
 import chromadb
 from openai import AsyncOpenAI
-from sentence_transformers import SentenceTransformer
 
 from app.schemas import AgentResponse, Chunk, SearchRequest, SearchResponse
 from app.settings import get_settings
@@ -18,6 +17,7 @@ executor = ThreadPoolExecutor()
 
 @lru_cache(maxsize=1)
 def get_model():
+    from sentence_transformers import SentenceTransformer
     return SentenceTransformer(MODEL)
 
 
