@@ -30,6 +30,9 @@ async def lifespan(app: FastAPI):
         api_key=settings.XAI_API_KEY,
         base_url=settings.XAI_API_URL)
     yield
+    await app.state.redis_client.close()
+    await app.state.xai_client.close()
+
 
 app = FastAPI(lifespan=lifespan)
 app.middleware("http")(cache_key_middleware)
