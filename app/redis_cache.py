@@ -1,8 +1,8 @@
 import hashlib
 import json
-from typing import Union
 
 from fastapi.requests import Request
+from fastapi.responses import Response
 
 from app.schemas import AgentResponse, SearchResponse
 from app.settings import get_settings
@@ -21,16 +21,15 @@ def build_cache_key(request: Request, body: bytes) -> str:
     return f"cache:{request.url.path}:{digest}"
 
 
-async def cache_key_middleware(request: Request, call_next):
+async def cache_key_middleware(request: Request, call_next) -> Response:
     body = await request.body()
     request.state.cache_key = build_cache_key(request, body)
     return await call_next(request)
 
 
-async def get_redis_cache(request: Request) -> Union[
-    AgentResponse,
-    SearchResponse
-]:
+async def get_redis_cache(
+    request: Request
+) -> AgentResponse | SearchResponse | None:
     redis_client = request.app.state.redis_client
     cache_key = request.state.cache_key
     data = await redis_client.get(cache_key)
@@ -40,8 +39,8 @@ async def get_redis_cache(request: Request) -> Union[
 
 async def set_redis_cache(
     request: Request,
-    data: Union[AgentResponse, SearchResponse]
-):
+    data: AgentResponse | SearchResponse
+) -> None:
     redis_client = request.app.state.redis_client
     cache_key = request.state.cache_key
     json_data = data.model_dump_json()
