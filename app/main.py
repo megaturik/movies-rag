@@ -3,6 +3,7 @@ from contextlib import asynccontextmanager
 import chromadb
 from fastapi import FastAPI, Request, Response, status
 from fastapi.responses import JSONResponse
+from openai import AsyncOpenAI
 from redis.asyncio import Redis
 
 from app.redis_cache import (
@@ -25,6 +26,9 @@ async def lifespan(app: FastAPI):
         host=settings.CHROMADB_HOST,
         port=settings.CHROMADB_PORT
     )
+    app.state.xai_client = AsyncOpenAI(
+        api_key=settings.XAI_API_KEY,
+        base_url=settings.XAI_API_URL)
     yield
 
 app = FastAPI(lifespan=lifespan)
@@ -78,6 +82,6 @@ async def agent_ask(request: Request, agent_request: SearchRequest):
     Вопрос:
     {agent_request.query}
     """
-    data = await get_xai_response(system_message, prompt)
+    data = await get_xai_response(request, system_message, prompt)
     await set_redis_cache(request, data)
     return data

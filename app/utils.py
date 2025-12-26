@@ -3,7 +3,6 @@ from concurrent.futures import ThreadPoolExecutor
 from functools import lru_cache
 
 from fastapi import Request
-from openai import AsyncOpenAI
 
 from app.schemas import AgentResponse, Chunk, SearchRequest, SearchResponse
 from app.settings import get_settings
@@ -52,12 +51,11 @@ async def chromadb_search(
 
 
 async def get_xai_response(
+    request: Request,
     system_message: str,
     prompt: str,
 ) -> AgentResponse:
-    client = AsyncOpenAI(
-        api_key=settings.XAI_API_KEY,
-        base_url=settings.XAI_API_URL)
+    client = request.app.state.xai_client
     response = await client.chat.completions.create(
         model=settings.XAI_MODEL,
         messages=[
